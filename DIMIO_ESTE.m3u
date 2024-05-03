@@ -40,7 +40,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/animalplanet_qp_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD USA
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/animax_qp.m3u8
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/animax_qp_5.m3u8
 #EXTINF:-1 tvg-id="7846" tvg-name="ANC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2Biq4xa_uIgcjHKVnAPuBhgBKQ1ut8fiyAf5qbK6VQ&s" group-title="LIVE TV",ANC
 http://tinyurl.com/2p9ctkyc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/keemld" group-title="LIVE TV",ARIRANG
@@ -73,7 +73,7 @@ http://port.denver1769.in/Ply/tptv.php?id=1932
 http://port.denver1769.in/Ply/tptv.php?id=206094
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="LIVE TV",BUKO
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/buko_qp_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqbXaU6xoiILHXPnMEIRxmr5qn-Uix9ucXSGfH0f8Pc33v5676bEKrOcKO0iTh4a8uM4&usqp=CAU" group-title="LIVE TV",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqbXaU6xoiILHXPnMEIRxmr5qn-Uix9ucXSGfH0f8Pc33v5676bEKrOcKO0iTh4a8uM4&usqp=CAU" group-title="LIVE TV",CARTOON NETWORK HD
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cartoonnetworkhd_dr_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUXaiFYmsfhHkKLpAwx_QGPltGFMCzg7qU5XJVBdbPw&s" group-title="LIVE TV",CARTOONITO
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/boomerang_qp_5.m3u8
@@ -120,7 +120,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/discovery_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/637/997/png-transparent-discovery-channel-television-channel-television-show-television-documentary-science-television-globe-logo-thumbnail.png" group-title="LIVE TV",DISCOVERY CHANNEL HD USA
 http://xtv.ooo:8080/live/764209736/91553613/346437.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/6b/ab/77/6bab774f9f607b7c7dae12940faef61b.jpg" group-title="LIVE TV",DISCOVERY SCIENCE
-https://starplay2.netlify.app/m3u/Discovery_Science.m3u8
+http://port.denver1769.in/Ply/tptv.php?id=880
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="LIVE TV",DISCOVERY TURBO
 https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="LIVE TV",DISNEY CHANNEL USA 4K 
@@ -176,11 +176,13 @@ http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbohd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH BACKUP
-http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236921.ts
+http://tgaadi-web.tech/mix.php?tv=236921
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH BACKUP
 https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD PH
+http://tgaadi-web.tech/mix.php?tv=236899
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD USA
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="LIVE TV",HBO FAMILY HD
@@ -233,6 +235,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/mptv_qp_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="LIVE TV",MOONBUG
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/moonbugkids_qp_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/109/799/png-transparent-movies-now-high-definition-television-television-channel-mn-movies-miscellaneous-television-text.png" group-title="LIVE TV",MOVIES NOW HD
+http://tgaadi-web.tech/mix.php?tv=236923
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/6af814698155afb9511dd5e91454834a.png" group-title="LIVE TV",MRBEAN HD 
 http://port.denver1769.in/Ply/tptv.php?id=148858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="LIVE TV",MYX TV
@@ -252,9 +256,9 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nhkjapan_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3J3QdDXC/nw-webapp-1500x1500.png" group-title="LIVE TV",NHK WORLD
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nickjr_dr.m3u8
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nickjr_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="LIVE TV",NICKELODEON
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/One-PH-logo.png/revision/latest/scale-to-width-down/1200?cb=20210304072034" group-title="LIVE TV",ONE PH
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/One-PH-logo.png/revision/latest/scale-to-width-down/1200?cb=20210304072034" group-title="LIVE TV",ONE PH
@@ -292,7 +296,7 @@ http://tinyurl.com/3stywzhh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Z01ivNQE2UEAIlGYdTxdlHBqurhAX7LXRBJjDbqmDB1uTbBllECzTTeSLhBdY69AGlo&usqp=CAU" group-title="LIVE TV",RADYO 5
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/paramount_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhtglGkIYubjWphy9cnCEgGYOp2Qe8GbeT16Ug6WJ6w&s" group-title="LIVE TV",RPTV HD
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://accion.com.ph/wp-content/uploads/2022/11/RACT-Webpage-Thumbnail.jpg" group-title="LIVE TV",ROCK ACTION
 http://tinyurl.com/y5f2er3a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://accion.com.ph/wp-content/uploads/2022/11/RACT-Webpage-Thumbnail.jpg" group-title="LIVE TV",ROCK ACTION
@@ -322,7 +326,7 @@ http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD BACKUP
-http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236892.ts
+http://tgaadi-web.tech/mix.php?tv=236892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
@@ -352,7 +356,7 @@ http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ao7LKcSwon1ms6Nj100OUuq4Mr4oCGXdM_gCogu7gA&s" group-title="LIVE TV",TRVL
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travelchannel_qp_10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="LIVE TV",TV5 HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="LIVE TV",TV5 HD BACKUP
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731786&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKZQEdnSwXgpzeEWgp-HErghcFO5-5hnOStHMdeJMfCHzws88i1uH8AoirSRdHf6l_oc&usqp=CAU" group-title="LIVE TV",TV5 MONDE
