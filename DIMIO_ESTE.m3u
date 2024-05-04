@@ -95,6 +95,8 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cinemaxhd_qp_6.m3u8
 https://d1bail49udbz1k.cloudfront.net:443/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUeT-N5iITRKsoH9Cij54e4qEjOV0PsNtH-xfZxznnY-GybeSfzI9uKy5VRBDkNoP3ZY&usqp=CAU" group-title="LIVE TV",CINEMO BACKUP
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://cms.cignal.tv/Upload/Images/CinemaWorld-Updated-Logo-2022.jpg" group-title="LIVE TV",CINEMA WORLD HD
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236917.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/CLTV-36_Logo.jpeg" group-title="LIVE TV",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrR6twa-74m0jDGbKq1fd3mny0PgzXgIQyuONh1QOTQ&s" group-title="LIVE TV",CNA
