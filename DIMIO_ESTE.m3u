@@ -267,8 +267,10 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731816&extensi
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="LIVE TV",ONE NEWS HD BACKUP
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926207&extension=ts&play_token=jL4OphBaXu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="LIVE TV",ONE SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="LIVE TV",ONE SPORTS HD
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/onesports_qp_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="LIVE TV",ONE SPORTS SD
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/onesports_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="LIVE TV",ONE SPORTS
 http://tinyurl.com/yck69zrh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" group-title="LIVE TV",ONE SPORTS PLUS
