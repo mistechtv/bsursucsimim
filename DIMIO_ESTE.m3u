@@ -31,13 +31,16 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/asianfoodnetwork_qp_5.m3u8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/aljazeera_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="aljazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA 4K
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA FHD
 http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/animalplanet_qp_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD USA
+
+#EXTINF:-1 tvg-id="IN: ANIMALPLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD 
+http://port.denver1769.in/Ply/tptv.php?id=803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/animax_qp_5.m3u8
@@ -61,7 +64,7 @@ http://41.205.93.154/BBCTWO/index.m3u8
 http://41.205.93.154/BBCTHREE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-Meta.png" group-title="LIVE TV",BBC EARTH
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/bbcearthhd_qp_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV",BBC WORLD NEWS 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV",BBC WORLD NEWS FHD
 http://port.denver1769.in/Ply/tptv.php?id=16807
 #EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", BBC NEWS ASIA-PACIFIC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
@@ -107,7 +110,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cnbc_dr_5.m3u8
 http://port.denver1769.in/Ply/tptv.php?id=16864
 #EXTINF:-1 tvg-id="12013" tvg-name="CNN HD" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN HD
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cnnhd_dr_6.m3u8
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN INTERNATIONAL 4K 
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN INTERNATIONAL FHD 
 http://port.denver1769.in/Ply/tptv.php?id=16876
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHLgMa4bhmOpgxhUED7xENqO_6Fiazaqk_pGUNKNEHA&s" group-title="LIVE TV",CRIME INVESTIGATION
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/crimeinvestigation_dr_5.m3u8
@@ -125,9 +128,9 @@ http://xtv.ooo:8080/live/764209736/91553613/346437.ts
 http://port.denver1769.in/Ply/tptv.php?id=880
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="LIVE TV",DISCOVERY TURBO
 https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="LIVE TV",DISNEY CHANNEL USA 4K 
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="LIVE TV",DISNEY CHANNEL USA FHD 
 http://port.denver1769.in/Ply/tptv.php?id=1846
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA 4K 
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA FHD 
 http://port.denver1769.in/Ply/tptv.php?id=1843
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png" group-title="LIVE TV",DMAX HD USA
 https://starplay2.netlify.app/m3u/DMAX.m3u8
@@ -147,7 +150,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/fightsports_dr_5.m3u8
 http://port.denver1769.in/Ply/tptv.php?id=11624
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="LIVE TV",FOODNETWORK HD
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/foodnetworkhd_qp_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livenowfox.com/img/default-image.png" group-title="LIVE TV",FOX NEWS CHANNEL 4K USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livenowfox.com/img/default-image.png" group-title="LIVE TV",FOX NEWS CHANNEL FHD USA
 http://port.denver1769.in/Ply/tptv.php?id=16888
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livenowfox.com/img/default-image.png" group-title="LIVE TV",FOX NEWS NOW HD USA
 https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
@@ -161,8 +164,6 @@ http://tinyurl.com/zpyj4sh4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714823599/ei/T801ZvnfLKDpjuMP2YCv-Ac/ip/103.171.89.156/id/r5K7WJMDrgY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3YXH5mE2Q0HPVwxRdwV2L-vNAwQmSMU0pNWnVZwnSG0P2TgeoKRO7WYs1VqkrvnwwkxMA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQxvkq2ryg9MeBBSbxl8p6tqO_WmdSsfK9RmUYejof_UCIDbihj-TT2eIU1fGhWt276tC0Y9yvS9vrUQ15yWFcWu-/file/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="GMA" tvg-logo="https://shorturl.at/boIPX" group-title="LIVE TV",GMA SD
 https://wag.ika.lat/gma.m3u8
-#EXTINF:-1 tvg-id="70615" tvg-name="GMA" tvg-logo="https://shorturl.at/boIPX" group-title="LIVE TV",GMA CIGNAL
-https://vstream.vip/ShanZaiTV-Test/ShanZaiTV-Solid/1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="LIVE TV",GMA 7 [Not 24/7]
 http://tinyurl.com/nu48zzyd
 #EXTINF:-1 tvg-id="" tvg-name="GMA LIFE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="LIVE TV",GMA LIFE
@@ -171,8 +172,6 @@ http://tinyurl.com/2p9ejx94
 http://tinyurl.com/ecxt2d9s
 #EXTINF:-1 tvg-id="" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="LIVE TV",GMA PINOY
 http://tinyurl.com/mtcf2u26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="LIVE TV",GTV
-https://vstream.vip/ShanZaiTV-Test/ShanZaiTV-Solid/1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD USA
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
@@ -216,9 +215,6 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731786&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL
 http://195.74.93.7:8070/live/c6c8f050/3105121e/144837.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL HD CIGNAL
-https://vstream.vip/ShanZaiTV-Test/ShanZaiTV-Solid/3406
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL SD CIGNAL
-https://vstream.vip/ShanZaiTV-Test/ShanZaiTV-Solid/7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/kbsworld_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD HD
@@ -231,12 +227,12 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/knowledgechannel_qp_5.m3u8
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/lifetime_dr_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT715s_q0rmdCWKmKy5H-G9SzQfFd68bnt5r7e2hbH8TA&s" group-title="LIVE TV",LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHzDsTd5pSgcWvV-7bpBFS-90TwkIJjLD3XMVlZY7hg&s" group-title="LIVE TV",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHzDsTd5pSgcWvV-7bpBFS-90TwkIJjLD3XMVlZY7hg&s" group-title="LIVE TV",LOVE NATURE FHD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="LIVE TV",MN+ HD
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236895.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="LIVE TV",MNX HD
-http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236896.ts
+http://port.denver1769.in/Ply/tptv.php?id=11650
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="LIVE TV",MEDIA PILIPINAS TV
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/mptv_qp_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="LIVE TV",MOONBUG
@@ -247,6 +243,8 @@ http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236923.ts
 http://port.denver1769.in/Ply/tptv.php?id=148858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="LIVE TV",MYX TV
 http://tinyurl.com/tppznc5n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC FHD
+http://port.denver1769.in/Ply/tptv.php?id=11657
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA EAST
 http://supersonictv.live:8080/770886/002371/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA WEST
@@ -390,7 +388,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/warnertvhd_dr_6.m3u8
 
 
 
-#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",NBA ESPN GAME 4K USA 
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",NBA ESPN GAME FHD USA 
 http://port.denver1769.in/Ply/tptv.php?id=2062
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",NBA ESPN GAME HD USA
 http://port.denver1769.in/Ply/tptv.php?id=3351
@@ -417,3 +415,29 @@ http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
 http://port.denver1769.in/Ply/tptv.php?id=206098
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",TSN1 HD CA - NBA PLAYOFFS
 http://port.denver1769.in/Ply/tptv.php?id=2553
+
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SCYtvRklRgKvT0Sg0ZWmy_h2PxqAwOi5sJM-nsi_GA&s" group-title="SKY SPORTS",SKY SPORT PREMIER LEAGUE HD 
+http://port.denver1769.in/Ply/tptv.php?id=2950
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sky_Sport_Action_HD.svg/1280px-Sky_Sport_Action_HD.svg.png" group-title="SKY SPORTS",SKY SPORTS ACTION / NFL FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2952
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/1280px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS ARENA FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2954
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_F1_HD_-_Logo_2020.svg/1280px-Sky_Sport_F1_HD_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS F1 FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2958
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg/1200px-Sky_Sport_Football_HD_-_Logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS FOOTBALL FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2960
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sky_Sport_Golf_HD_-_Logo_2018.svg/512px-Sky_Sport_Golf_HD_-_Logo_2018.svg.png?20180730152247" group-title="SKY SPORTS",SKY SPORTS GOLF FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2962
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sky_Sport_Golf_HD_-_Logo_2018.svg/512px-Sky_Sport_Golf_HD_-_Logo_2018.svg.png?20180730152247" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT HD
+http://port.denver1769.in/Ply/tptv.php?id=2963
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sky_Sport_Golf_HD_-_Logo_2018.svg/512px-Sky_Sport_Golf_HD_-_Logo_2018.svg.png?20180730152247" group-title="SKY SPORTS",SKY SPORTS MAIN EVENT FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2964
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Mix_HD_-_Logo_2016.svg/2560px-Sky_Sport_Mix_HD_-_Logo_2016.svg.png" group-title="SKY SPORTS",SKY SPORTS MIX FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2966
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="SKY SPORTS",SKY SPORTS NEWS FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2968
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SCYtvRklRgKvT0Sg0ZWmy_h2PxqAwOi5sJM-nsi_GA&s" group-title="SKY SPORTS",SKY SPORTS PREMIER LEAGUE FHD
+http://port.denver1769.in/Ply/tptv.php?id=2969
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/2560px-Sky_Sports_Racing_logo_2020.svg.png" group-title="SKY SPORTS",SKY SPORTS RACING FHD 
+http://port.denver1769.in/Ply/tptv.php?id=2971
