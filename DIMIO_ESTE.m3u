@@ -176,13 +176,13 @@ http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbohd_qp_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH BACKUP
-http://tgaadi-web.tech/mix.php?tv=236921
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236921.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH BACKUP
 https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD PH
-http://tgaadi-web.tech/mix.php?tv=236899
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236899.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD USA
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="LIVE TV",HBO FAMILY HD
@@ -231,12 +231,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/lifetime_dr_5.m3u8
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHzDsTd5pSgcWvV-7bpBFS-90TwkIJjLD3XMVlZY7hg&s" group-title="LIVE TV",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="LIVE TV",MN+ HD
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236895.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="LIVE TV",MNX HD
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236896.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="LIVE TV",MEDIA PILIPINAS TV
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/mptv_qp_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="LIVE TV",MOONBUG
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/moonbugkids_qp_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/109/799/png-transparent-movies-now-high-definition-television-television-channel-mn-movies-miscellaneous-television-text.png" group-title="LIVE TV",MOVIES NOW HD
-http://tgaadi-web.tech/mix.php?tv=236923
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236923.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/6af814698155afb9511dd5e91454834a.png" group-title="LIVE TV",MRBEAN HD 
 http://port.denver1769.in/Ply/tptv.php?id=148858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="LIVE TV",MYX TV
@@ -328,7 +332,7 @@ http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD BACKUP
-http://tgaadi-web.tech/mix.php?tv=236892
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236892.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
