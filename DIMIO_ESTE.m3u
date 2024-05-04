@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://epg.pw/xmltv/epg_PH.xml"
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV: Boxing: CANELO VS MUNGUIA HD
+http://defitv.fun/live/SemperFi/SemperFi/367931.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV: Boxing: CANELO VS MUNGUIA SD
+http://defitv.fun/live/SemperFi/SemperFi/367932.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV: PRELIMS UFC
+http://defitv.fun/live/SemperFi/SemperFi/366322.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV: UFC 301
+http://defitv.fun/live/SemperFi/SemperFi/366924.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV: UFC 301
+http://defitv.fun/live/SemperFi/SemperFi/367394.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : PRELIMS CANELO VS MUNGUIA
+http://supersonictv.live:8080/770886/002371/86536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : CANELO VS MUNGUIA MAIN CARD
+http://supersonictv.live:8080/770886/002371/86537
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="LIVE TV",A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/a2zsd_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="LIVE TV",A2Z
