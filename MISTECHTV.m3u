@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="",ONE SPORTS
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhtglGkIYubjWphy9cnCEgGYOp2Qe8GbeT16Ug6WJ6w&s" group-title="",RPTV
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="",PBA RUSH
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=914598&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="",UAAP VARSITY 
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926145&extension=m3u8
+#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",NBA PLAYOFFS HD 
+http://port.denver1769.in/Ply/tptv.php?id=3353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",NBA PLAYOFFS HD USA
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",NBA PLAYOFFS HD USA
+http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",NBA PLAYOFFS HD USA
+http://170.254.18.106/TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",TNT SPORTS 1 UK - NBA PLAYOFFS
+http://port.denver1769.in/Ply/tptv.php?id=206098
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="",TSN1 HD CA - NBA PLAYOFFS
+http://port.denver1769.in/Ply/tptv.php?id=2553
