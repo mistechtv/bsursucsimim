@@ -7,6 +7,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926206&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2fFLOiAnXsYuQmYLW0Z415BGDydjdKLMz0WmSoiL7Q&s" group-title="LIVE TV",A&E HD USA
 http://user.scalecdn.co:8080/live/Marquet/Marquet/3607.ts
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
