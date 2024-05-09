@@ -324,21 +324,21 @@ http://41.205.93.154:80/NBA/index.m3u8
 http://bluesky4all.redirectme.net:61881/play/nr4ab_pU4KgsHNgsvvVCFEFBuxYtvYsZYHhx3qHj0bJ4fsDTxfx2iqAA9D3EEKra/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA",NBA TV HD USA BACKUP
 https://inst1.ignores.top/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS HD 
+#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
 http://port.denver1769.in/Ply/tptv.php?id=3353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS HD USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
 http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS HD USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",TNT SPORTS 1 UK - NBA PLAYOFFS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS UK
 http://port.denver1769.in/Ply/tptv.php?id=206098
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",TSN1 HD CA - NBA PLAYOFFS
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS CA
 http://port.denver1769.in/Ply/tptv.php?id=2553
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS
 http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 
 
