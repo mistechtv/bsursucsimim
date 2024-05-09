@@ -32,16 +32,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
-#EXTINF:-1 tvg-id="IN: ANIMALPLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD 
-http://port.denver1769.in/Ply/tptv.php?id=803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
 https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET SD
+http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731865&extension=m3u8
 #EXTINF:-1 tvg-id="7846" tvg-name="ANC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2Biq4xa_uIgcjHKVnAPuBhgBKQ1ut8fiyAf5qbK6VQ&s" group-title="LIVE TV",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/keemld" group-title="LIVE TV",ARIRANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/518/772/png-clipart-tv-channel-icons-axn-black-mirror-axn-logo-thumbnail.png" group-title="LIVE TV",AXN
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731863&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/518/772/png-clipart-tv-channel-icons-axn-black-mirror-axn-logo-thumbnail.png" group-title="LIVE TV",AXN CH
@@ -206,8 +204,6 @@ http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236923.ts
 http://port.denver1769.in/Ply/tptv.php?id=148858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="LIVE TV",MYX TV
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC FHD
-http://port.denver1769.in/Ply/tptv.php?id=11657
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA EAST
 http://supersonictv.live:8080/770886/002371/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA WEST
@@ -338,6 +334,12 @@ http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
 http://port.denver1769.in/Ply/tptv.php?id=206098
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",TSN1 HD CA - NBA PLAYOFFS
 http://port.denver1769.in/Ply/tptv.php?id=2553
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="NBA",NBA FINALS
+http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 
 
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SCYtvRklRgKvT0Sg0ZWmy_h2PxqAwOi5sJM-nsi_GA&s" group-title="SKY SPORTS",SKY SPORT PREMIER LEAGUE HD 
