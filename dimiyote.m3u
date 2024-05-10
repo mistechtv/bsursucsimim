@@ -92,6 +92,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://port.denver1769.in/Ply/tptv.php?id=16864
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN INTERNATIONAL FHD 
 http://port.denver1769.in/Ply/tptv.php?id=16876
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN HD USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="LIVE TV",CNN SD USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC93m8f5RPruShrkHWOz7JW0ycUWxWU6P9j0YbW-qmSA&s" group-title="LIVE TV",DATING DAAN
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="LIVE TV",DEPED
@@ -208,6 +212,8 @@ http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236923.ts
 http://port.denver1769.in/Ply/tptv.php?id=148858
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="LIVE TV",MYX TV
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD ASIA
+https://z88.ubtvfans.com/live/rx3/2312/a603a15093119ee950d1be46dbf3d2f1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA EAST
 http://supersonictv.live:8080/770886/002371/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA WEST
