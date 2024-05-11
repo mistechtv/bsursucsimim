@@ -1,8 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="",ONE SPORTS
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731814&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhtglGkIYubjWphy9cnCEgGYOp2Qe8GbeT16Ug6WJ6w&s" group-title="",RPTV
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USA PPV : LOMACHENKO VS. KAMBOSOS
+https://jafupro.com:443/live/SemperFi/SemperFi/365424.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
+https://jafupro.com:443/live/SemperFi/SemperFi/366924.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USA PPV : LOMACHENKO VS. KAMBOSOS
+http://supersonictv.live:8080/770886/002371/86532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
+http://supersonictv.live:8080/770886/002371/86530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
+http://supersonictv.live:8080/770886/002371/86531
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="",MEDIA PILIPINAS TV
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926172&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="LIVE TV",ONE SPORTS HD
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" group-title="LIVE TV",ONE SPORTS PLUS
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926161&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="",PBA RUSH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=914598&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="",UAAP VARSITY 
