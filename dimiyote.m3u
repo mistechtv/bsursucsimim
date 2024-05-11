@@ -33,7 +33,7 @@ http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
-https://starplay2.netlify.app/m3u/Animal_Planet.m3u8
+http://port.denver1769.in/Ply/tptv.php?id=803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET SD
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
