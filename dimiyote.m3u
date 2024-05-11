@@ -116,6 +116,8 @@ http://port.denver1769.in/Ply/tptv.php?id=1846
 http://port.denver1769.in/Ply/tptv.php?id=1843
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA HD 
 http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/835584.ts
+#EXTINF:-1 tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR SD 
+http://port.denver1769.in/Ply/tptv.php?id=11640
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png" group-title="LIVE TV",DMAX HD USA
 https://starplay2.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rIlrp8WU2hJlRalsFsrSeptj_7naafzm_9ysANACOJE5SxL_U4VuS9Ni7qCSK0nQPdE&usqp=CAU" group-title="LIVE TV",DREAMWORKS HD
@@ -228,6 +230,12 @@ https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR
 http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831946.ts
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR UK 
+http://port.denver1769.in/Ply/tptv.php?id=2877
+#EXTINF:-1 tvg-id="nickjr.us" tvg-logo="https://w7.pngwing.com/pngs/317/588/png-transparent-nick-jr-too-television-channel-nickelodeon-nick-jr-television-text-logo.png" group-title="LIVE TV",NICK JR. TOO
+http://port.denver1769.in/Ply/tptv.php?id=50040
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/640px-Nicktoons_2023_Outlined_Logo.png" group-title="LIVE TV",NICKTOONS 
+http://port.denver1769.in/Ply/tptv.php?id=1839
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="LIVE TV",NICKELODEON
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731817&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="LIVE TV",NICKELODEON HD USA
@@ -316,7 +324,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926145&extensi
 http://170.254.18.106/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="LIVE TV",WARNER TV
 http://iptvtree.net:8080/live/c6c8f050/3105121e/170006.ts
-
+#EXTINF:-1 tvg-id="US: WWE NETWORK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1200px-WWE_Network_logo.svg.png" group-title="LIVE TV",WWE NETWORK 
+http://port.denver1769.in/Ply/tptv.php?id=2067
 
 
 #EXTINF:-1 tvg-id="espn.us" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",NBA ESPN GAME FHD USA 
