@@ -1,31 +1,19 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz,https://epg.pw/xmltv/epg_PH.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : LOMACHENKO VS. KAMBOSOS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715502042/ei/eidAZpmbN-zk3LUPx_SG2As/ip/103.171.89.156/id/pDKMx_BA5n8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANL-eTRyUNACBurM7GqAPgzeBZDHFSe-ZNQLwmJfpoBSAiEA38pLw4VSiNacuQ8J9rYWA2jezuTfLXBhc0slKLmCAeU%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : LOMACHENKO VS. KAMBOSOS
-https://jafupro.com:443/live/SemperFi/SemperFi/365424.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
-https://jafupro.com:443/live/SemperFi/SemperFi/366924.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : LOMACHENKO VS. KAMBOSOS
-http://supersonictv.live:8080/770886/002371/86532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
-http://supersonictv.live:8080/770886/002371/86530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PPV",USA PPV : UFC FIGHT NIGHT LEWIS VS NASCIMENTO
-http://supersonictv.live:8080/770886/002371/86531
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="LIVE TV",A2Z
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926206&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2fFLOiAnXsYuQmYLW0Z415BGDydjdKLMz0WmSoiL7Q&s" group-title="LIVE TV",A&E HD USA
 http://user.scalecdn.co:8080/live/Marquet/Marquet/3607.ts
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC EAST HD USA
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC WEST HD USA
 http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZii86-MV1jxmfjSF3Upjn74J7n6_XRYIL8TeIWu4_g&s" group-title="LIVE TV",ABC AUSTRALIA HD
 http://49.0.64.96:8007/ABC
@@ -50,7 +38,7 @@ http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
 http://port.denver1769.in/Ply/tptv.php?id=803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET SD
-http://41.205.93.154/ANIMALPLANET/index.m3u8
+http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731865&extension=m3u8
 #EXTINF:-1 tvg-id="7846" tvg-name="ANC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2Biq4xa_uIgcjHKVnAPuBhgBKQ1ut8fiyAf5qbK6VQ&s" group-title="LIVE TV",ANC
@@ -75,8 +63,8 @@ http://port.denver1769.in/Ply/tptv.php?id=16807
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926200&extension=m3u8
 #EXTINF:-1 tvg-id="boomerang.us" tvg-logo="https://w7.pngwing.com/pngs/761/105/png-transparent-logo-boomerang-television-channel-high-definition-television-design-television-text-logo-thumbnail.png" group-title="LIVE TV",BOOMERANG 
 http://port.denver1769.in/Ply/tptv.php?id=1932
-#EXTINF:-1 tvg-id="boxnation.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/2560px-BoxNation_logo.jpg" group-title="LIVE TV",BOXNATION
-http://port.denver1769.in/Ply/tptv.php?id=206094
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/2560px-BoxNation_logo.jpg" group-title="LIVE TV",BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="LIVE TV",BUKO
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926198&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqbXaU6xoiILHXPnMEIRxmr5qn-Uix9ucXSGfH0f8Pc33v5676bEKrOcKO0iTh4a8uM4&usqp=CAU" group-title="LIVE TV",CARTOON NETWORK HD
@@ -137,6 +125,8 @@ http://port.denver1769.in/Ply/tptv.php?id=11640
 https://starplay2.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rIlrp8WU2hJlRalsFsrSeptj_7naafzm_9ysANACOJE5SxL_U4VuS9Ni7qCSK0nQPdE&usqp=CAU" group-title="LIVE TV",DREAMWORKS HD
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/23/40/png-clipart-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue.png" group-title="LIVE TV",DW NEWS HD
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/s9cqdv" group-title="LIVE TV",DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/1200px-FashionTV2019novo.png" group-title="LIVE TV",FASHION TV HD
@@ -168,13 +158,9 @@ http://95.214.235.96:8880/29ca10183n04/asdfe332/50125
 #EXTINF:-1 tvg-id="" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="LIVE TV",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD USA
-http://41.205.93.154/HBO/index.m3u8
+http://41.205.93.154/HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236921.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH
-https://ctrl.laotv.la/live/HBO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD CH BACKUP
-https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD PH
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236899.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD USA
@@ -187,10 +173,14 @@ https://z88.ubtvfans.com/live/rx4/3001/df04117a24423ab3d054dac48998068e/index.m3
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="LIVE TV",HBO HITS HD
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236920.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="LIVE TV",HBO MUNDI HD
+http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="LIVE TV",HBO PLUS HD USA
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="LIVE TV",HBO SIGNATURE HD
 https://z88.ubtvfans.com/live/rx4/2987/c9b5f67ff1d9d4ee11ba50f3dc6153aa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="LIVE TV",HBO SIGNATURE HD USA
+http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://davidsoncountysource.com/wp-content/uploads/2021/08/hgtv-logo.jpg" group-title="LIVE TV",HGTV HD
 https://dplus.gammacdn.workers.dev/videos/111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/t_386_thehistorychannel.jpg" group-title="LIVE TV",HISTORY HD
@@ -300,9 +290,7 @@ https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWBbmlC4sCa01GokakOvnsTkj2tClG0AabKUxiEeaaw&s" group-title="LIVE TV",STAR CHANNEL HD
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
-https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD BACKUP
-http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236892.ts
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236892.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
@@ -318,7 +306,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926147&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/84/TeleRadyo_Logo_2022.png/revision/latest?cb=20220529110658" group-title="LIVE TV",TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC CANADA
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=223022&extension=m3u8
+http://live.lordstreams.co:8080/cb2020/cb2020/546785
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC GUAM
 http://iptvtree.net:8080/live/c6c8f050/3105121e/299966.ts
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png" group-title="LIVE TV",TNT HD USA
@@ -346,7 +334,7 @@ http://port.denver1769.in/Ply/tptv.php?id=2062
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",NBA ESPN GAME HD USA
 http://port.denver1769.in/Ply/tptv.php?id=3351
 #EXTINF:-1 tvg-id="US" tvg-name="USA: " tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",ESPN GAME HD USA
-http://143.244.60.30/ESPN/index.m3u8
+http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="US" tvg-name="USA: " tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="NBA",ESPN GAME HD USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3136
 
