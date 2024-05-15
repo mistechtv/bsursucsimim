@@ -7,10 +7,10 @@
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926206&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2fFLOiAnXsYuQmYLW0Z415BGDydjdKLMz0WmSoiL7Q&s" group-title="LIVE TV",A&E HD USA
 http://user.scalecdn.co:8080/live/Marquet/Marquet/3607.ts
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC EAST HD USA
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC WEST HD USA
-http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
@@ -118,7 +118,7 @@ http://port.denver1769.in/Ply/tptv.php?id=1846
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA FHD 
 http://port.denver1769.in/Ply/tptv.php?id=1843
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA HD 
-http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/835584.ts
+http://489647307826831707.of51.xyz:80/live/mi216103/vKCtjNcrcPE/836719.ts
 #EXTINF:-1 tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR SD 
 http://port.denver1769.in/Ply/tptv.php?id=11640
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png" group-title="LIVE TV",DMAX HD USA
@@ -234,7 +234,7 @@ https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3J3QdDXC/nw-webapp-1500x1500.png" group-title="LIVE TV",NHK WORLD
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR
-http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831946.ts
+http://489647307826831707.of51.xyz:80/live/mi216103/vKCtjNcrcPE/826010.ts
 #EXTINF:-1 tvg-id="nickjunior.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR UK 
 http://port.denver1769.in/Ply/tptv.php?id=2877
 #EXTINF:-1 tvg-id="nickjr.us" tvg-logo="https://w7.pngwing.com/pngs/317/588/png-transparent-nick-jr-too-television-channel-nickelodeon-nick-jr-television-text-logo.png" group-title="LIVE TV",NICK JR. TOO
@@ -285,6 +285,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWBbmlC4sCa01GokakOvnsTkj2tClG0AabKUxiEeaaw&s" group-title="LIVE TV",STAR CHANNEL HD
 http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
+http://xtv.ooo:8080/764209736/91553613/66213
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236892.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
@@ -353,7 +355,7 @@ http://port.denver1769.in/Ply/tptv.php?id=206098
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS CA
 http://port.denver1769.in/Ply/tptv.php?id=2553
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
-http://489647307826831707.of51.xyz:80/live/kiko831BAA/kiko831BM121/831707.ts
+http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
