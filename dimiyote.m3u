@@ -389,11 +389,11 @@ http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3136
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NFL",NFL NETWORK HD
 http://kstv.us:8080/live/kaos/lSfUe486EA/31134.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL NETWORK SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NFL",NFL NETWORK SD
 http://kstv.us:8080/live/kaos/lSfUe486EA/31133.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL REDZONE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NFL",NFL REDZONE HD
 http://kstv.us:8080/live/kaos/lSfUe486EA/31132.ts
 
 
