@@ -303,6 +303,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926151&extensi
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926147&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/84/TeleRadyo_Logo_2022.png/revision/latest?cb=20220529110658" group-title="LIVE TV",TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC X
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC CANADA
 http://live.lordstreams.co:8080/cb2020/cb2020/546785
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC GUAM
