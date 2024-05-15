@@ -190,7 +190,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731830&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="LIVE TV",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="LIVE TV",KAPAMILYA ONLINE LIVE
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=ts&play_token=cAYtM5u309
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD HD
@@ -375,6 +375,57 @@ http://port.denver1769.in/Ply/tptv.php?id=3351
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/1992px-NHL_Logo_former.svg.png" group-title="NHL",NHL PLAYOFFS USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3136
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL NETWORK HD
+http://kstv.us:8080/live/kaos/lSfUe486EA/31134.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL NETWORK SD
+http://kstv.us:8080/live/kaos/lSfUe486EA/31133.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nfl-network-logo-9B64F1298A-seeklogo.com.png" group-title="NHL",NFL REDZONE HD
+http://kstv.us:8080/live/kaos/lSfUe486EA/31132.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB NETWORK SD
+http://kstv.us:8080/live/kaos/lSfUe486EA/22507.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB NETWORK HD
+http://kstv.us:8080/live/kaos/lSfUe486EA/15904.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-01
+http://kstv.us:8080/live/kaos/lSfUe486EA/47497.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-02
+http://kstv.us:8080/live/kaos/lSfUe486EA/47498.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-03
+http://kstv.us:8080/live/kaos/lSfUe486EA/47499.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-04
+http://kstv.us:8080/live/kaos/lSfUe486EA/47500.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-05
+http://kstv.us:8080/live/kaos/lSfUe486EA/47501.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-06
+http://kstv.us:8080/live/kaos/lSfUe486EA/47502.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-07
+http://kstv.us:8080/live/kaos/lSfUe486EA/47503.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-08
+http://kstv.us:8080/live/kaos/lSfUe486EA/47504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-09
+http://kstv.us:8080/live/kaos/lSfUe486EA/47505.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-10
+http://kstv.us:8080/live/kaos/lSfUe486EA/47506.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-11
+http://kstv.us:8080/live/kaos/lSfUe486EA/47507.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-12
+http://kstv.us:8080/live/kaos/lSfUe486EA/47508.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-13
+http://kstv.us:8080/live/kaos/lSfUe486EA/47509.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-14
+http://kstv.us:8080/live/kaos/lSfUe486EA/47510.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-15
+http://kstv.us:8080/live/kaos/lSfUe486EA/47511.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-16
+http://kstv.us:8080/live/kaos/lSfUe486EA/47512.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-17
+http://kstv.us:8080/live/kaos/lSfUe486EA/47513.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://styles.redditmedia.com/t5_2qrrr/styles/communityIcon_4v3i2od3u9pc1.png" group-title="MLB",MLB-18
+http://kstv.us:8080/live/kaos/lSfUe486EA/47737.ts
+
 
 
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SCYtvRklRgKvT0Sg0ZWmy_h2PxqAwOi5sJM-nsi_GA&s" group-title="SKY SPORTS",SKY SPORT PREMIER LEAGUE HD 
