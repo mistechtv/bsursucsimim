@@ -7,37 +7,35 @@
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926206&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2fFLOiAnXsYuQmYLW0Z415BGDydjdKLMz0WmSoiL7Q&s" group-title="LIVE TV",A&E HD USA
 http://user.scalecdn.co:8080/live/Marquet/Marquet/3607.ts
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA|01
 http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC EAST HD USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC EAST HD USA|02
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA|03
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA|04
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZii86-MV1jxmfjSF3Upjn74J7n6_XRYIL8TeIWu4_g&s" group-title="LIVE TV",ABC AUSTRALIA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZii86-MV1jxmfjSF3Upjn74J7n6_XRYIL8TeIWu4_g&s" group-title="LIVE TV",ABC AUSTRALIA HD|01
 http://49.0.64.96:8007/ABC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/258px-ABC_TV_logo_2021.svg.png" group-title="LIVE TV",ABC TV HD AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/258px-ABC_TV_logo_2021.svg.png" group-title="LIVE TV",ABC TV HD AUSTRALIA|02
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/1892px-ABC_TV_Plus_logo_2021.svg.png" group-title="LIVE TV",ABC TV PLUS HD AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/1892px-ABC_TV_Plus_logo_2021.svg.png" group-title="LIVE TV",ABC TV PLUS HD AUSTRALIA|03
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf63gjMe5Ef8J3mO0m1r8utZEEv6AMdlj9Ogu9bmSspQ&s" group-title="LIVE TV",ABC ME HD AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf63gjMe5Ef8J3mO0m1r8utZEEv6AMdlj9Ogu9bmSspQ&s" group-title="LIVE TV",ABC ME HD AUSTRALIA|04
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/564x/cc/d2/88/ccd288b8246a1fa3c56f3de4a7b990ae.jpg" group-title="LIVE TV",ABC NEWS HD AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/564x/cc/d2/88/ccd288b8246a1fa3c56f3de4a7b990ae.jpg" group-title="LIVE TV",ABC NEWS HD AUSTRALIA|05
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="LIVE TV",ABC KIDS HD AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="LIVE TV",ABC KIDS HD AUSTRALIA|06
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="LIVE TV",AFN
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731866&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA HD|01
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="aljazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA FHD
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="LIVE TV",ALJAZEERA FHD|02
 http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
-http://port.denver1769.in/Ply/tptv.php?id=803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET SD
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731865&extension=m3u8
@@ -45,8 +43,6 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731865&extensi
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/518/772/png-clipart-tv-channel-icons-axn-black-mirror-axn-logo-thumbnail.png" group-title="LIVE TV",AXN
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731863&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/518/772/png-clipart-tv-channel-icons-axn-black-mirror-axn-logo-thumbnail.png" group-title="LIVE TV",AXN CH
-https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2q306uA37W7QwtyGhhwDr6p7LXqXcZ62h6ItJRaZCWw&s" group-title="LIVE TV",BBC FIRST UK
 http://124.29.225.205:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnz9SHBDafINlrs_R6FLbaMDUYwXLNEaYjHhzOSrapcg&s" group-title="LIVE TV",BBC ONE UK
@@ -77,13 +73,13 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="LIVE TV",CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="LIVE TV",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="LIVE TV",CINEMAX HD|01
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926158&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="LIVE TV",CINEMAX HD USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="LIVE TV",CINEMAX HD USA|02
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUeT-N5iITRKsoH9Cij54e4qEjOV0PsNtH-xfZxznnY-GybeSfzI9uKy5VRBDkNoP3ZY&usqp=CAU" group-title="LIVE TV",CINEMO
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUeT-N5iITRKsoH9Cij54e4qEjOV0PsNtH-xfZxznnY-GybeSfzI9uKy5VRBDkNoP3ZY&usqp=CAU" group-title="LIVE TV",CINEMO|01
 https://d1bail49udbz1k.cloudfront.net:443/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUeT-N5iITRKsoH9Cij54e4qEjOV0PsNtH-xfZxznnY-GybeSfzI9uKy5VRBDkNoP3ZY&usqp=CAU" group-title="LIVE TV",CINEMO BACKUP
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUeT-N5iITRKsoH9Cij54e4qEjOV0PsNtH-xfZxznnY-GybeSfzI9uKy5VRBDkNoP3ZY&usqp=CAU" group-title="LIVE TV",CINEMO|02
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://cms.cignal.tv/Upload/Images/CinemaWorld-Updated-Logo-2022.jpg" group-title="LIVE TV",CINEMA WORLD HD
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236917.ts
@@ -112,17 +108,15 @@ http://xtv.ooo:8080/live/764209736/91553613/346437.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/6b/ab/77/6bab774f9f607b7c7dae12940faef61b.jpg" group-title="LIVE TV",DISCOVERY SCIENCE
 http://port.denver1769.in/Ply/tptv.php?id=880
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="LIVE TV",DISCOVERY TURBO
-https://starplay2.netlify.app/m3u/Discovery_Turbo.m3u8
+http://port.denver1769.in/Ply/tptv.php?id=769
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="LIVE TV",DISNEY CHANNEL USA FHD 
 http://port.denver1769.in/Ply/tptv.php?id=1846
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA FHD 
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA FHD|1
 http://port.denver1769.in/Ply/tptv.php?id=1843
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA HD 
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR USA HD|02
 http://489647307826831707.of51.xyz:80/live/mi216103/vKCtjNcrcPE/836719.ts
-#EXTINF:-1 tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR SD 
+#EXTINF:-1 tvg-id="disneyjunior.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE TV",DISNEY JUNIOR SD|03
 http://port.denver1769.in/Ply/tptv.php?id=11640
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png" group-title="LIVE TV",DMAX HD USA
-https://starplay2.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rIlrp8WU2hJlRalsFsrSeptj_7naafzm_9ysANACOJE5SxL_U4VuS9Ni7qCSK0nQPdE&usqp=CAU" group-title="LIVE TV",DREAMWORKS HD
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926185&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/23/40/png-clipart-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue.png" group-title="LIVE TV",DW NEWS HD
@@ -131,10 +125,8 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/stream
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/1200px-FashionTV2019novo.png" group-title="LIVE TV",FASHION TV HD
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fight-Sports-Feb-2022-Vid-Highlights.jpg" group-title="LIVE TV",FIGHT SPORTS
-https://z88.ubtvfans.com/live/rx4/3043/221d4a6b5504db7d807750650d4df65c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5b2kgaCdS04s6SsYzam0bnuxPzlXzbbNceiAI6AnUwwyY9vhdXKn8xTTDsiPgygEYwg&usqp=CAU" group-title="LIVE TV",&FLIX HD
-http://port.denver1769.in/Ply/tptv.php?id=11624
+http://port.denver1769.in/Ply/tptv.php?id=718
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="LIVE TV",FOODNETWORK HD
 http://port.denver1769.in/Ply/tptv.php?id=8572
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livenowfox.com/img/default-image.png" group-title="LIVE TV",FOX NEWS CHANNEL FHD USA
@@ -168,7 +160,7 @@ https://z88.ubtvfans.com/live/rx4/3001/df04117a24423ab3d054dac48998068e/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="LIVE TV",HBO EXTREME HD USA
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="LIVE TV",HBO HITS HD
-http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236920.ts
+http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236920.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="LIVE TV",HBO MUNDI HD
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="LIVE TV",HBO PLUS HD USA
@@ -191,8 +183,10 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731830&extensi
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="LIVE TV",KAPAMILYA ONLINE LIVE
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|01
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|02
+http://vstream.vip/live/VlPTV-lIFETlME/Vl9x6ldVIf/3406.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD HD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://malaya.com.ph/wp-content/uploads/2020/10/Knowledge-Channel-logo.jpg" group-title="LIVE TV",KNOWLEDGE CHANNEL
@@ -263,12 +257,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 http://port.denver1769.in/Ply/tptv.php?id=11618
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhW0W8Cawa7HW505h_FZXUGV2Buv-RrfMyz6GxWNvag&s" group-title="LIVE TV",PTV 4
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731809&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhW0W8Cawa7HW505h_FZXUGV2Buv-RrfMyz6GxWNvag&s" group-title="LIVE TV",PTV [Not 24/7]
-https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://accion.com.ph/wp-content/uploads/2022/11/RACT-Webpage-Thumbnail.jpg" group-title="LIVE TV",ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://accion.com.ph/wp-content/uploads/2022/11/RACT-Webpage-Thumbnail.jpg" group-title="LIVE TV",ROCK ACTION
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+http://iptvtree.net:8080/live/c6c8f050/3105121e/298490.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png" group-title="LIVE TV",ROCK ENTERTAINMENT
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926153&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMTtpxbC22PvUegEADgOow5xDbvfzhIbwggHdiI1YpbxL-4nlyarNh7n6N0OrhfWu3KQ&usqp=CAU" group-title="LIVE TV",RT HD
@@ -285,11 +275,11 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWBbmlC4sCa01GokakOvnsTkj2tClG0AabKUxiEeaaw&s" group-title="LIVE TV",STAR CHANNEL HD
 http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|01
 http://xtv.ooo:8080/764209736/91553613/66213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|02
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236892.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|03
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
 http://xtv.ooo:8080/764209736/91553613/66315
