@@ -9,13 +9,13 @@
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926206&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2fFLOiAnXsYuQmYLW0Z415BGDydjdKLMz0WmSoiL7Q&s" group-title="LIVE TV",A&E HD USA
 http://user.scalecdn.co:8080/live/Marquet/Marquet/3607.ts
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD USA|01
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://e7.pngegg.com/pngimages/804/1020/png-clipart-american-broadcasting-company-logo-television-show-abc-news-others-television-logo-thumbnail.png" group-title="LIVE TV",ABC HD USA|01
 http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC EAST HD USA|02
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://e7.pngegg.com/pngimages/804/1020/png-clipart-american-broadcasting-company-logo-television-show-abc-news-others-television-logo-thumbnail.png" group-title="LIVE TV",ABC EAST HD USA|02
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA|03
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://e7.pngegg.com/pngimages/804/1020/png-clipart-american-broadcasting-company-logo-television-show-abc-news-others-television-logo-thumbnail.png" group-title="LIVE TV",ABC HD PACIFIC USA|03
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ABC_HD_logo.svg/1200px-ABC_HD_logo.svg.png" group-title="LIVE TV",ABC HD PACIFIC USA|04
+#EXTINF:-1 tvg-id="2327" tvg-name="ABC HD" tvg-logo="https://e7.pngegg.com/pngimages/804/1020/png-clipart-american-broadcasting-company-logo-television-show-abc-news-others-television-logo-thumbnail.png" group-title="LIVE TV",ABC HD PACIFIC USA|04
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 #EXTINF:-1 tvg-id="2327" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV PH
 https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
@@ -23,11 +23,11 @@ https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
 https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
 #EXTINF:-1 tvg-id="2327" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV | DREAMSTAR TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZii86-MV1jxmfjSF3Upjn74J7n6_XRYIL8TeIWu4_g&s" group-title="LIVE TV",ABC AUSTRALIA HD|01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="LIVE TV",ABC AUSTRALIA HD|01
 http://49.0.64.96:8007/ABC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/258px-ABC_TV_logo_2021.svg.png" group-title="LIVE TV",ABC TV HD AUSTRALIA|02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/135-1359522_abc-tv-abc-australia-logo.png" group-title="LIVE TV",ABC TV HD AUSTRALIA|02
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/1892px-ABC_TV_Plus_logo_2021.svg.png" group-title="LIVE TV",ABC TV PLUS HD AUSTRALIA|03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3cbfdc6d0_1020.png" group-title="LIVE TV",ABC TV PLUS HD AUSTRALIA|03
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf63gjMe5Ef8J3mO0m1r8utZEEv6AMdlj9Ogu9bmSspQ&s" group-title="LIVE TV",ABC ME HD AUSTRALIA|04
 https://c.mjh.nz/abc-me.m3u8
@@ -107,7 +107,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="LIVE TV",DEPED
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926186&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="LIVE TV",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="LIVE TV",DISCOVERY ASIA
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p7.hiclipart.com/preview/253/281/158/discovery-channel-logo-television-channel-discovery-inc-investigation.jpg" group-title="LIVE TV",DISCOVERY CHANNEL
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731847&extension=m3u8
@@ -115,7 +115,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731847&extensi
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/6b/ab/77/6bab774f9f607b7c7dae12940faef61b.jpg" group-title="LIVE TV",DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="LIVE TV",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="LIVE TV",DISCOVERY TURBO
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="LIVE TV",DISNEY CHANNEL USA FHD 
 http://port.denver1769.in/Ply/tptv.php?id=1846
@@ -131,7 +131,7 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926185&extensi
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/s9cqdv" group-title="LIVE TV",DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/1200px-FashionTV2019novo.png" group-title="LIVE TV",FASHION TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="LIVE TV",FASHION TV HD
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5b2kgaCdS04s6SsYzam0bnuxPzlXzbbNceiAI6AnUwwyY9vhdXKn8xTTDsiPgygEYwg&usqp=CAU" group-title="LIVE TV",&FLIX HD
 http://port.denver1769.in/Ply/tptv.php?id=718
@@ -165,11 +165,11 @@ http://170.254.18.106/HBO2/index.m3u8
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="LIVE TV",HBO FAMILY HD PH
 https://z88.ubtvfans.com/live/rx4/3001/df04117a24423ab3d054dac48998068e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="LIVE TV",HBO EXTREME HD USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" group-title="LIVE TV",HBO EXTREME HD USA
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="LIVE TV",HBO HITS HD
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236920.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="LIVE TV",HBO MUNDI HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpfhtx-d23c0247-5474-464b-98de-519c03809eb0.png" group-title="LIVE TV",HBO MUNDI HD
 http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="LIVE TV",HBO PLUS HD USA
 http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -205,7 +205,7 @@ http://supersonictv.live:8080/770886/002371/21953
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHzDsTd5pSgcWvV-7bpBFS-90TwkIJjLD3XMVlZY7hg&s" group-title="LIVE TV",LOVE NATURE FHD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="LIVE TV",MN+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBR15r5uuFodYZx5uwXaGgVfFmfDI3RVq7XzPuG3K6vcgj6M_F3o9hfsGF6pY4JcG6U8&usqp=CAU" group-title="LIVE TV",MN+ HD
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236895.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="LIVE TV",MNX HD
 http://port.denver1769.in/Ply/tptv.php?id=11650
@@ -221,8 +221,6 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 http://endpnt.com:8000/nasa-uhd.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/745/119/png-transparent-logo-nasa-insignia-nasa-tv-washington-d-c-nasa-miscellaneous-blue-text-thumbnail.png" group-title="LIVE TV",NASA HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD ASIA
-https://z88.ubtvfans.com/live/rx3/2312/a603a15093119ee950d1be46dbf3d2f1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA EAST
 http://supersonictv.live:8080/770886/002371/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/05f56098b0cceb4b6c7ee08de0c30433.png" group-title="LIVE TV",NATIONAL GEOGRAPHIC HD USA WEST
@@ -231,8 +229,6 @@ http://supersonictv.live:8080/770886/002371/22124
 http://port.denver1769.in/Ply/tptv.php?id=995
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2022/11/image-10.png" group-title="LIVE TV",NBC HD USA
 http://41.205.93.154/NBC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Net25_newlogo_2020.png" group-title="LIVE TV",NET25 [Not 24/7]
-https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3J3QdDXC/nw-webapp-1500x1500.png" group-title="LIVE TV",NHK WORLD
 https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="LIVE TV",NICK JR
@@ -301,15 +297,17 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926151&extensi
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926147&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/84/TeleRadyo_Logo_2022.png/revision/latest?cb=20220529110658" group-title="LIVE TV",TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC HD
+http://zxd.4k-crystal.top:8080/live/sarhanbrotherarab/Gq5JU3CNaj/67490.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC X
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC CANADA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC CANADA
 http://live.lordstreams.co:8080/cb2020/cb2020/546785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/q9yzx3" group-title="LIVE TV",TFC GUAM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC GUAM
 http://iptvtree.net:8080/live/c6c8f050/3105121e/299966.ts
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png" group-title="LIVE TV",TNT HD USA
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="LIVE TV",TNT HD USA
 http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png" group-title="LIVE TV",TNT HD USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="LIVE TV",TNT HD USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn6.aptoide.com/imgs/e/8/7/e87ded4659a59808d596016a323f40cf_icon.jpg" group-title="LIVE TV",TRUTV HD USA
 http://170.254.18.106/TRUTV/index.m3u8
