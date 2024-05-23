@@ -191,10 +191,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731830&extensi
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="LIVE TV",KAPAMILYA ONLINE LIVE
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|02
-http://vstream.vip/live/VlPTV-lIFETlME/Vl9x6ldVIf/3406.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD HD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://malaya.com.ph/wp-content/uploads/2020/10/Knowledge-Channel-logo.jpg" group-title="LIVE TV",KNOWLEDGE CHANNEL
@@ -299,6 +297,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926147&extensi
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC HD
 http://zxd.4k-crystal.top:8080/live/sarhanbrotherarab/Gq5JU3CNaj/67490.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC AUSTRALIA
+http://user.scalecdn.co:8080/live/cb2020/cb2020/546791.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC X
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/101823
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="LIVE TV",TFC CANADA
