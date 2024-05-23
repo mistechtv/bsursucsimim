@@ -44,7 +44,7 @@ http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
-http://humsab.xyz:80/IN_ANIMALHD/index.m3u8?token=d5fce72262389aaafe6a0a4c2c51c332
+https://primestreams.fun:443/auth/x4ZoVJ2f10x73sPIa1P_BdOiZM_jWsDvLUs7kyhVkcn621p8mQdAjoLOt8XstHmsrHQ3AaBxgV2sGbnPC_jyvo4I8pAkGiI3-LeX1yRJJuc7wMWmNg5jki8u7AOVSCaCNfUvKevsTSQZ96nK9tMwMR1r8C01f68USDPHXocLbaLwJz7HTsQq9c6zIMO89kgLaAo58wE9buhNbot7UM5DyY9mBb2qZtLZnNcKY3_nUMke-cWhawH0stWLVsIVb8O585Tw79adfWCDgruE_FHW1sfuQvyTCSsBmGqsfldzEmpHiYuEsL9hdij6XdSzZiObDLe5qiuID2epDeu65LfqjNJhf1jc0oMMHE4YXLnIuqpaWPfe1HMetXCAXGCleAt0KIaMsckTlsNj_OxIBm16iANEkgAmKGvxE-1HJw72hnZAYsqQ7uoTxsVxluuiJZMiYjhL2_LZw96LtJITtdy2rlgl7MsUyhKbFc_fcvzQ_0sQA8mqkfksUHmhL0NeH0uldI8cNPzol-rcEGYkwzaTpJbu_1valetiBcYom499EukCMkiqvVNJvwPEHrd31oB-ym-UXPXEDMTUHtG8yi3hPSO0aVJ4975-uF-ZDeiVjG94JIHl08i1VQhd5_KuVnPe6evVg2PyH5JDWqcMcmuI3f9rBOCeJ9IFYtvc16TaU3hOzA5D-zoQIFqDd2Q2jRqE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731865&extension=m3u8
 #EXTINF:-1 tvg-id="7846" tvg-name="ANC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2Biq4xa_uIgcjHKVnAPuBhgBKQ1ut8fiyAf5qbK6VQ&s" group-title="LIVE TV",ANC
