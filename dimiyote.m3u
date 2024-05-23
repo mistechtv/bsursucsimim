@@ -44,7 +44,7 @@ http://port.denver1769.in/Ply/tptv.php?id=16804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/08/14121606/AMC-logo-hi-res-version.jpg" group-title="LIVE TV",AMC EAST HD USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LIVE TV",ANIMAL PLANET HD
-http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
+http://humsab.xyz:80/IN_ANIMALHD/index.m3u8?token=d5fce72262389aaafe6a0a4c2c51c332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/59/691/png-clipart-tv-channel-icons-animax-black-animax-logo-thumbnail.png" group-title="LIVE TV",ANIMAX PH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731865&extension=m3u8
 #EXTINF:-1 tvg-id="7846" tvg-name="ANC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2Biq4xa_uIgcjHKVnAPuBhgBKQ1ut8fiyAf5qbK6VQ&s" group-title="LIVE TV",ANC
@@ -154,7 +154,7 @@ http://homeip.biz/PH_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="LIVE TV",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD USA
-http://41.205.93.154/HBO/tracks-v1a1/mono.m3u8
+http://homeip.biz:80/US_HBOWESTHD/index.m3u8?token=9dad52440057111ad90521a56957cd4b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
 http://mixbix.xyz:8080/live/Zx5WVffKH747/xxhPzTc8etFw/236921.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/958/540/png-transparent-hbo-hd-logo.png" group-title="LIVE TV",HBO 2 HD PH
