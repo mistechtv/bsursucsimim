@@ -54,11 +54,11 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731863&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2q306uA37W7QwtyGhhwDr6p7LXqXcZ62h6ItJRaZCWw&s" group-title="LIVE TV",BBC FIRST UK
 http://124.29.225.205:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnz9SHBDafINlrs_R6FLbaMDUYwXLNEaYjHhzOSrapcg&s" group-title="LIVE TV",BBC ONE UK
-http://41.205.93.154/BBCONE/index.m3u8
+http://homeip.biz:80/IN_B1/index.m3u8?token=2d4cfb93b47813d318f82e1e5cafa742
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="LIVE TV",BBC TWO UK
-http://41.205.93.154/BBCTWO/index.m3u8
+http://homeip.biz:80/IN_B2/index.m3u8?token=6e6ab484fd84b4d035e628df4036e367
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/679/501/png-clipart-bbc-three-television-channel-logo-station-identification-35-off-love-purple.png" group-title="LIVE TV",BBC THREE UK
-http://41.205.93.154/BBCTHREE/index.m3u8
+http://homeip.biz:80/IN_B3/mpegts?token=2fceddc5e4c48c31a86c3504721bd44a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-Meta.png" group-title="LIVE TV",BBC EARTH
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926201&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV",BBC WORLD NEWS FHD
@@ -148,9 +148,9 @@ http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="GMA" tvg-logo="https://shorturl.at/boIPX" group-title="LIVE TV",GMA HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715756029/ei/nQdEZsWJEsCDz7sP_Z600Ao/ip/103.171.89.156/id/g6TZEtWmvnw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANUID3-SHQtF1CAkSrEx8FqM_R0rNpDt6IRLPo1awpXqAiBqYGNVNUkG-sE6kMbbnFcFBmEQ6a-eNgmqJ4rW0qG55A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GMA LIFE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="LIVE TV",GMA LIFE
-http://95.214.235.96:8880/29ca10183n04/asdfe332/50126
+http://homeip.biz/PH_GMA7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GMA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="LIVE TV",GMA NEWS
-http://95.214.235.96:8880/29ca10183n04/asdfe332/50125
+http://homeip.biz/PH_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="LIVE TV",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD USA
