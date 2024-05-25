@@ -17,13 +17,13 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/804/1020/png-clipart-american-broadcasting-company-logo-television-show-abc-news-others-television-logo-thumbnail.png" group-title="LIVE TV",ABC HD PACIFIC USA|04
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV PH|01
 http://palawan.usbx.me:1234/stream/localchannels/alltv/stream.m3u8?uid=464906276&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV PH|02
 https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV | DREAM TV PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV|DREAM TV PH
 https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV | DREAMSTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="LIVE TV",ALL TV|DREAMSTAR TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="LIVE TV",ABC AUSTRALIA HD|01
 http://49.0.64.96:8007/ABC
