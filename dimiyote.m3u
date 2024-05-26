@@ -156,8 +156,6 @@ http://homeip.biz/PH_GMA7/index.m3u8
 http://homeip.biz/PH_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="LIVE TV",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MmpZJdyBpFY/maxresdefault.jpg" group-title="LIVE TV",GTV
-http://palawan.usbx.me:1234/stream/localchannels/gtv/stream.m3u8?uid=2231866330&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD USA
 http://homeip.biz:80/US_HBOWESTHD/index.m3u8?token=9dad52440057111ad90521a56957cd4b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="LIVE TV",HBO HD PH
@@ -169,7 +167,7 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="LIVE TV",HBO FAMILY HD USA
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="LIVE TV",HBO FAMILY HD PH
-http://palawan.usbx.me:1234/stream/localchannels/hbofamily/stream.m3u8?uid=2984707527&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+https://epg.pw/stream/965e2d33cb39f9d820527791576af17254ba7f6c608d8b2558c8d94f6cbba3ae.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" group-title="LIVE TV",HBO EXTREME HD USA
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="LIVE TV",HBO HITS HD
@@ -179,7 +177,7 @@ http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="LIVE TV",HBO PLUS HD USA
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="LIVE TV",HBO SIGNATURE HD PH
-http://palawan.usbx.me:1234/stream/localchannels/hbosignature/stream.m3u8?uid=2284929208&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+https://epg.pw/stream/9370568c41b95fefa7c2392bc9de1e872ebc38082ab61c989c9a937aec277acd.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="LIVE TV",HBO SIGNATURE HD USA
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://davidsoncountysource.com/wp-content/uploads/2021/08/hgtv-logo.jpg" group-title="LIVE TV",HGTV HD
@@ -187,7 +185,7 @@ https://dplus.gammacdn.workers.dev/videos/111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/t_386_thehistorychannel.jpg" group-title="LIVE TV",HISTORY HD
 http://live.lordstreams.co:8080/cb2020/cb2020/3657
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="LIVE TV",HITS HD
-http://palawan.usbx.me:1234/stream/localchannels/hbohits/stream.m3u8?uid=2084627232&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
+https://epg.pw/stream/757a99e648e00a46cdc037af83d11474a87de30aec4ee27fab74943d96af31fd.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="LIVE TV",HITS MOVIES
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731833&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.philstar.com/photos/2022/09/02/ibc-13_2022-09-02_16-27-25.jpg" group-title="LIVE TV",IBC 13
@@ -196,10 +194,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731830&extensi
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="LIVE TV",KAPAMILYA ONLINE LIVE
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="LIVE TV",KAPAMILYA CHANNEL|02
-http://palawan.usbx.me:1234/stream/localchannels/kapamilyachannel/stream.m3u8?uid=916689289&u=phc&p=767079084b76a3d8e37e67f318957d6c27d2f8c322a38df744a47e727270c3ba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/j5DHETDoeict0XVB5mWrojREZFU2o2uvjepOymEY41KOtmOGmPU-Ho9LfBuaSt1Ngh4Z" group-title="LIVE TV",KBS WORLD HD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://malaya.com.ph/wp-content/uploads/2020/10/Knowledge-Channel-logo.jpg" group-title="LIVE TV",KNOWLEDGE CHANNEL
