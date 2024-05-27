@@ -277,13 +277,13 @@ https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWBbmlC4sCa01GokakOvnsTkj2tClG0AabKUxiEeaaw&s" group-title="LIVE TV",STAR CHANNEL HD
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|01
-http://xtv.ooo:8080/764209736/91553613/66213
+http://40239734510426934.ofgh525.xyz:80/live/mi216103/vKCtjNcrcPE/851782.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|02
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236892.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="LIVE TV",STAR MOVIES HD|03
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+http://xtv.ooo:8080/live/764209736/91553613/66213.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
-http://xtv.ooo:8080/764209736/91553613/66315
+http://xtv.ooo:8080/live/764209736/91553613/66315.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="LIVE TV",TAP ACTION FLIX HD
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926149&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-movies.jpg" group-title="LIVE TV",TAP MOVIES HD
