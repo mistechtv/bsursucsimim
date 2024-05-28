@@ -30,7 +30,7 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="PH",GMA 7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716707271/ei/Z4tSZoSYLfHDjuMP14ffwQM/ip/103.171.89.156/id/rwHZdE4otPs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMAhuHRkQcr3fNI5PukWFDzos-PSb0qb3vDWThmgm5k0CIBj5LBYLV7El0fGmqcoNCjzTixpIV5wpz17Mi4KTpNlR/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716960493/ei/jWhWZpPeG-idjuMPtIeK6AQ/ip/103.171.89.156/id/LSvmNnIYzUg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/spc/UWF9f3tgpexDAKXhos-yIPJZNFnc_cXoVDlkx1-uXfnU2FLDX3f65QKwTJmebgYdBcgE-AEMowu8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTPLkWvjKt0Uh1cvva0bQebBZMpx5w1gs1XG7tacxWo4CIQCKYgpLVk54CV0XPdT8cexP45k2lkhbsU1Pxj21jEUYLQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="PH",GMA LIFE
 http://homeip.biz/PH_GMA7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="PH",GMA NEWS
@@ -43,8 +43,10 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731830&extensi
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731786&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL|01
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL|02
+http://xtv.ooo:8080/live/SOHAIB12/86542962/352601.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="PH",MEDIA PILIPINAS TV
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926172&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="PH",MYX TV
