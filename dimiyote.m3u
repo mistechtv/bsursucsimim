@@ -969,7 +969,11 @@ http://bluesky4all.redirectme.net:61881/play/nr4ab_pU4KgsHNgsvvVCFEFBuxYtvYsZYHh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA",NBA TV HD USA BACKUP
 https://inst1.ignores.top/js/nba-tv/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
+http://homeip.biz:80/US_TNTHD/mpegts?token=14c0464185e55f529d74c28c7819f662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
 http://port.denver1769.in/Ply/tptv.php?id=3353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
+http://6t3sii0oolr.ddns.net:80/fIS40dlihmEU/gaOOr0JuZw/5352
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
