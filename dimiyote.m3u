@@ -41,7 +41,9 @@ http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731830&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="PH",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|01
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:74:99:55&stream=731786&extension=ts&play_token=2quW4kHhmv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|02
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=731786&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL|01
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
@@ -93,6 +95,8 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:75:4f:d3&stream=926150&extensi
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=223020&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="PH",UAAP VARSITY 
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:bb:8a:01&stream=926145&extension=m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="=== USA & Canada News ===" tvg-logo="" group-title="US|CA",=== USA & Canada News ===
@@ -946,6 +950,8 @@ http://6t3sii0oolr.ddns.net:80/fIS40dlihmEU/gaOOr0JuZw/177352
 http://6t3sii0oolr.ddns.net:80/fIS40dlihmEU/gaOOr0JuZw/20306
 #EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: Talking Pictures TV" tvg-logo="http://kb007.xyz/picons/talkingpicturestv.png" group-title="UK",Talking Pictures TV
 http://6t3sii0oolr.ddns.net:80/fIS40dlihmEU/gaOOr0JuZw/292083
+
+
 
 
 
