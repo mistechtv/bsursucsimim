@@ -499,7 +499,7 @@ http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2620
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="[UK] Talk TV FHD" tvg-logo="http://kb007.xyz/picons/talktv.png" group-title="UK",Talk TV FHD
 http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/270963
 #EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="[UK] Al Jazeera FHD" tvg-logo="http://kb007.xyz/picons/aljazeeraenglish.png" group-title="UK",Al Jazeera FHD
-http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8780
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="gbnews.uk" tvg-name="[UK] GB News FHD" tvg-logo="http://kb007.xyz/picons/gbnews.png" group-title="UK",GB News FHD
 http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3453
 #EXTINF:-1 tvg-id="NTD.uk" tvg-name="[UK] NTD" tvg-logo="http://kb007.xyz/picons/ntd.png" group-title="UK",NTD
