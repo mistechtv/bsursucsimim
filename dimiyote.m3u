@@ -7,7 +7,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272905
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="PH",AFN
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272893
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ynRls8IRjp0xnqatkT1_7U0otiY5zq-PL-Vklze3IA&s" group-title="PH",ALL TV PH
-http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/106.m3u8
+http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="PH",BUKO
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272912
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="PH",CCTN 47
@@ -29,7 +29,7 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="PH",GMA 7
-http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/98.m3u8
+http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="PH",GMA LIFE
 http://homeip.biz/PH_GMA7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="PH",GMA NEWS
@@ -41,7 +41,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="PH",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA
-http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/101.m3u8
+http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|01
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:74:99:55&stream=731786&extension=ts&play_token=2quW4kHhmv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|02
@@ -71,7 +71,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhW0W8Cawa7HW505h_FZXUGV2Buv-RrfMyz6GxWNvag&s" group-title="PH",PTV 4
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731809&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://context.ph/wp-content/uploads/2024/02/RPTV.jpeg" group-title="PH",RPTV
-http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/127.m3u8
+http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SARI-SARI-CHANNEL.png" group-title="PH",SARI-SARI
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272843
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/emf5k4" group-title="PH",SMNI
@@ -97,7 +97,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="PH",UAAP VARSITY 
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Viva_TV_logo.jpg/250px-Viva_TV_logo.jpg" group-title="PH",VIVA CINEMA
-http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/186.m3u8
+http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/186.m3u8
 
 
 
