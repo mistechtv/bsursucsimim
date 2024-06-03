@@ -1,41 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC01: Makhachev vs. Poirier Prelims and main 23:15" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC01: Makhachev vs. Poirier Prelims and main 23:15
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327884
-#EXTINF:-1 tvg-id="" tvg-name="UFC02: Makhachev vs. Poirier main 00:00 02/06" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC02: Makhachev vs. Poirier main 00:00 02/06
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327883
-#EXTINF:-1 tvg-id="" tvg-name="UFC03: Makhachev vs. Poirier main 00:00 02/06" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC03: Makhachev vs. Poirier main 00:00 02/06
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327882
-#EXTINF:-1 tvg-id="" tvg-name="UFC04: Makhachev vs. Poirier main 00:00 02/06" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC04: Makhachev vs. Poirier main 00:00 02/06
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327881
-#EXTINF:-1 tvg-id="" tvg-name="UFC05: Barboza vs. Murphy  23:00" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC05: Barboza vs. Murphy  23:00
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327880
-#EXTINF:-1 tvg-id="" tvg-name="UFC06:" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC06:
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327879
-#EXTINF:-1 tvg-id="" tvg-name="UFC07: UFC Fight Pass FHD" tvg-logo="http://kb007.xyz/picons/ufc3.png" group-title="VIP | Sports PPV UFC/Boxing",UFC07: UFC Fight Pass FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327878
-#EXTINF:-1 tvg-id="" tvg-name="---------- Boxing PPV ----------" tvg-logo="" group-title="VIP | Sports PPV UFC/Boxing",---------- Boxing PPV ----------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327877
-#EXTINF:-1 tvg-id="" tvg-name="BOXING01: Wilder v Zhang//Dubois v Hrgovic" tvg-logo="http://kb007.xyz/picons/boxing2.png" group-title="VIP | Sports PPV UFC/Boxing",BOXING01: Wilder v Zhang//Dubois v Hrgovic
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327876
-#EXTINF:-1 tvg-id="" tvg-name="BOXING02: Wilder v Zhang//Dubois v Hrgovic" tvg-logo="http://kb007.xyz/picons/boxing2.png" group-title="VIP | Sports PPV UFC/Boxing",BOXING02: Wilder v Zhang//Dubois v Hrgovic
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327875
-#EXTINF:-1 tvg-id="" tvg-name="BOXING03: Wilder v Zhang//Dubois v Hrgovic 19:00" tvg-logo="http://kb007.xyz/picons/boxing2.png" group-title="VIP | Sports PPV UFC/Boxing",BOXING03: Wilder v Zhang//Dubois v Hrgovic 19:00
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327874
-#EXTINF:-1 tvg-id="" tvg-name="BOXING04: Wilder v Zhang//Dubois v Hrgovic 19:00" tvg-logo="http://kb007.xyz/picons/boxing2.png" group-title="VIP | Sports PPV UFC/Boxing",BOXING04: Wilder v Zhang//Dubois v Hrgovic 19:00
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/327873
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="PH",A2Z
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272905
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272905
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/2560px-Asian_Food_Network.svg.png" group-title="PH",AFN
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272893
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272893
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ynRls8IRjp0xnqatkT1_7U0otiY5zq-PL-Vklze3IA&s" group-title="PH",ALL TV PH
 http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="PH",BUKO
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272912
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272912
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="PH",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="Cinema One" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="PH",CINEMA ONE
@@ -49,7 +23,7 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC93m8f5RPruShrkHWOz7JW0ycUWxWU6P9j0YbW-qmSA&s" group-title="PH",DATING DAAN
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="PH",DEPED
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272925
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272925
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/s9cqdv" group-title="PH",DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
@@ -63,7 +37,7 @@ http://homeip.biz/PH_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="PH",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.philstar.com/photos/2022/09/02/ibc-13_2022-09-02_16-27-25.jpg" group-title="PH",IBC 13
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272865
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="PH",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA
@@ -91,21 +65,21 @@ http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731814&extensi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" group-title="PH",ONE SPORTS PLUS
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926161&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PH",PBA RUSH HD
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272967
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272967
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NKGJl5L7iLWglwyofoJFZ-zZ7AzhjdqcJmMxAtJS1A&s" group-title="PH",PBO
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272847
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhW0W8Cawa7HW505h_FZXUGV2Buv-RrfMyz6GxWNvag&s" group-title="PH",PTV 4
 http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731809&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://context.ph/wp-content/uploads/2024/02/RPTV.jpeg" group-title="PH",RPTV
 http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SARI-SARI-CHANNEL.png" group-title="PH",SARI-SARI
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272843
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272843
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/emf5k4" group-title="PH",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/84/TeleRadyo_Logo_2022.png/revision/latest?cb=20220529110658" group-title="PH",TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="PH",TFC HD
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272898
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272898
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="PH",TFC AUSTRALIA
 http://user.scalecdn.co:8080/live/cb2020/cb2020/546791.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="PH",TFC X
@@ -119,865 +93,865 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="PH",TV5 HD|02
 http://watchtv.best:80/play/live.php?mac=00:1A:79:75:4f:d3&stream=926150&extension=ts&play_token=S5UXbjqkRS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="PH",TV5 KAPATID
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272896
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="PH",UAAP VARSITY 
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272965
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Viva_TV_logo.jpg/250px-Viva_TV_logo.jpg" group-title="PH",VIVA CINEMA
 http://103.152.216.26:8443/live/unKxPo9c3QRbLBcxnPZ1fg/1717339939/186.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="=== USA & Canada News ===" tvg-logo="" group-title="US|CA",=== USA & Canada News ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112814
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112814
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MSNBC FHD" tvg-logo="" group-title="US|CA",MSNBC FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/7846
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/7846
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MSNBC HD" tvg-logo="" group-title="US|CA",MSNBC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15097
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15097
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN FHD" tvg-logo="" group-title="US|CA",CNN FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15407
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15407
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN HD" tvg-logo="" group-title="US|CA",CNN HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3159
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3159
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: Fox News FHD" tvg-logo="" group-title="US|CA",Fox News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10954
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10954
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: Fox News HD" tvg-logo="" group-title="US|CA",Fox News HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/227122
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/227122
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC News Now FHD" tvg-logo="" group-title="US|CA",NBC News Now FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5310
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5310
 #EXTINF:-1 tvg-id="wcbs.us" tvg-name="US: CBS News HD" tvg-logo="" group-title="US|CA",CBS News HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5349
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5349
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US: CBS New York HD" tvg-logo="" group-title="US|CA",CBS New York HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/165491
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/165491
 #EXTINF:-1 tvg-id="cbs9kcal.us" tvg-name="US: CBS Los Angeles HD" tvg-logo="" group-title="US|CA",CBS Los Angeles HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/165490
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/165490
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US: The Weather Channel HD" tvg-logo="" group-title="US|CA",The Weather Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15285
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15285
 #EXTINF:-1 tvg-id="" tvg-name="US: Pluto TV Headlines FHD" tvg-logo="" group-title="US|CA",Pluto TV Headlines FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/195447
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/195447
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="US: NewsMax FHD" tvg-logo="" group-title="US|CA",NewsMax FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/195445
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/195445
 #EXTINF:-1 tvg-id="" tvg-name="US: NTDTV " tvg-logo="" group-title="US|CA",NTDTV 
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2836
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2836
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC HD" tvg-logo="" group-title="US|CA",CNBC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16780
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16780
 #EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US: CNBC World HD" tvg-logo="" group-title="US|CA",CNBC World HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2624
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2624
 #EXTINF:-1 tvg-id="cbnnews.us" tvg-name="US: CBN HD" tvg-logo="" group-title="US|CA",CBN HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15271
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15271
 #EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="US: ABC News HD" tvg-logo="" group-title="US|CA",ABC News HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3473
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3473
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US: Fox Business FHD" tvg-logo="" group-title="US|CA",Fox Business FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112842
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112842
 #EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="US: Cheddar Business FHD" tvg-logo="" group-title="US|CA",Cheddar Business FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15308
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15308
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US: Bloomberg HD" tvg-logo="" group-title="US|CA",Bloomberg HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2833
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2833
 #EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US: One America News HD" tvg-logo="" group-title="US|CA",One America News HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5318
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5318
 #EXTINF:-1 tvg-id="weathernation.us" tvg-name="US: Weather Nation" tvg-logo="" group-title="US|CA",Weather Nation
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2883
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2883
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV News FHD" tvg-logo="" group-title="US|CA",CTV News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11074
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11074
 #EXTINF:-1 tvg-id="ctv2.ca" tvg-name="CA: CTV 2 Ottawa" tvg-logo="" group-title="US|CA",CTV 2 Ottawa
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15428
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15428
 #EXTINF:-1 tvg-id="ctv2.ca" tvg-name="CA: CTV 2 Vancouver" tvg-logo="" group-title="US|CA",CTV 2 Vancouver
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5328
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5328
 #EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA: CBC News HD" tvg-logo="" group-title="US|CA",CBC News HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5327
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5327
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA: CP 24 HD" tvg-logo="" group-title="US|CA",CP 24 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/160999
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/160999
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA: CP 24" tvg-logo="" group-title="US|CA",CP 24
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15421
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15421
 #EXTINF:-1 tvg-id="" tvg-name="=== USA Entertainment ===" tvg-logo="" group-title="US|CA",=== USA Entertainment ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112816
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112816
 #EXTINF:-1 tvg-id="" tvg-name="US:* Bravo East HD" tvg-logo="" group-title="US|CA",Bravo East HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3664
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3664
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="US:* Freeform HD" tvg-logo="" group-title="US|CA",Freeform HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3747
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3747
 #EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US:* Reelz FHD" tvg-logo="" group-title="US|CA",Reelz FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15270
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15270
 #EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US:* Buzzr HD" tvg-logo="" group-title="US|CA",Buzzr HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112616
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112616
 #EXTINF:-1 tvg-id="tbd.us" tvg-name="US:* TBD HD" tvg-logo="" group-title="US|CA",TBD HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/9584
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/9584
 #EXTINF:-1 tvg-id="bether.us" tvg-name="US:* BET Her HD" tvg-logo="" group-title="US|CA",BET Her HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161928
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161928
 #EXTINF:-1 tvg-id="betwest.us" tvg-name="US:* BET West HD" tvg-logo="" group-title="US|CA",BET West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161927
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161927
 #EXTINF:-1 tvg-id="bet.us" tvg-name="US:* BET HD" tvg-logo="" group-title="US|CA",BET HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15284
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15284
 #EXTINF:-1 tvg-id="nasachannel.us" tvg-name="US:* Nasa TV HD" tvg-logo="" group-title="US|CA",Nasa TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2830
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2830
 #EXTINF:-1 tvg-id="axstv.us" tvg-name="US:* AXS HD" tvg-logo="" group-title="US|CA",AXS HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112614
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112614
 #EXTINF:-1 tvg-id="awe.us" tvg-name="US:* AWE HD" tvg-logo="" group-title="US|CA",AWE HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15299
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15299
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US:* E! HD" tvg-logo="" group-title="US|CA",E! HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15301
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15301
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US:* CBS FHD" tvg-logo="" group-title="US|CA",CBS FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5351
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5351
 #EXTINF:-1 tvg-id="cozitv.us" tvg-name="US:* Cozi TV HD" tvg-logo="" group-title="US|CA",Cozi TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5339
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5339
 #EXTINF:-1 tvg-id="oxygen.us" tvg-name="US:* Oxygen HD" tvg-logo="" group-title="US|CA",Oxygen HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3654
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3654
 #EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US:* TV Land HD" tvg-logo="" group-title="US|CA",TV Land HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15312
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15312
 #EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US:* Aspire HD" tvg-logo="" group-title="US|CA",Aspire HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/114087
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/114087
 #EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="US:* ABC HD" tvg-logo="" group-title="US|CA",ABC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112608
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112608
 #EXTINF:-1 tvg-id="nbc8kgw.us" tvg-name="US:* NBC HD" tvg-logo="" group-title="US|CA",NBC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3174
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3174
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US:* A&E HD" tvg-logo="" group-title="US|CA",A&E HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15282
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15282
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US:* USA Network HD" tvg-logo="" group-title="US|CA",USA Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15272
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15272
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US: Cooking Channel HD" tvg-logo="" group-title="US|CA",Cooking Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11081
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11081
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US: Food Network HD" tvg-logo="" group-title="US|CA",Food Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15135
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15135
 #EXTINF:-1 tvg-id="tastemade.us" tvg-name="US: Tastemade HD" tvg-logo="" group-title="US|CA",Tastemade HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15304
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15304
 #EXTINF:-1 tvg-id="tastemade.us" tvg-name="US: Tastemade + HD" tvg-logo="" group-title="US|CA",Tastemade + HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112587
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112587
 #EXTINF:-1 tvg-id="fx.us" tvg-name="US: FX HD" tvg-logo="" group-title="US|CA",FX HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3662
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3662
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX HD" tvg-logo="" group-title="US|CA",FXX HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3646
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3646
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="US: HGTV HD" tvg-logo="" group-title="US|CA",HGTV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15287
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15287
 #EXTINF:-1 tvg-id="tlc.us" tvg-name="US: TLC HD" tvg-logo="" group-title="US|CA",TLC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15311
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15311
 #EXTINF:-1 tvg-id="trutv.us" tvg-name="US: TRU TV HD" tvg-logo="" group-title="US|CA",TRU TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15305
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15305
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US: MTV HD" tvg-logo="" group-title="US|CA",MTV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15309
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15309
 #EXTINF:-1 tvg-id="mtv2.us" tvg-name="US: MTV 2" tvg-logo="" group-title="US|CA",MTV 2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11045
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11045
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="US: VH1 HD" tvg-logo="" group-title="US|CA",VH1 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15315
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15315
 #EXTINF:-1 tvg-id="cw.us" tvg-name="US: CW FHD" tvg-logo="" group-title="US|CA",CW FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16781
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16781
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US: Sundance HD" tvg-logo="" group-title="US|CA",Sundance HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16788
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16788
 #EXTINF:-1 tvg-id="comet.us" tvg-name="US: Comet TV HD" tvg-logo="" group-title="US|CA",Comet TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16782
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16782
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US: Comedy Central HD" tvg-logo="" group-title="US|CA",Comedy Central HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3660
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3660
 #EXTINF:-1 tvg-id="comedytv.us" tvg-name="US: Comedy TV FHD" tvg-logo="" group-title="US|CA",Comedy TV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112593
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112593
 #EXTINF:-1 tvg-id="" tvg-name="US: DIY Network HD" tvg-logo="" group-title="US|CA",DIY Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15403
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15403
 #EXTINF:-1 tvg-id="vice.us" tvg-name="US: Viceland HD" tvg-logo="" group-title="US|CA",Viceland HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112604
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112604
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="US: SyFy HD" tvg-logo="" group-title="US|CA",SyFy HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15293
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15293
 #EXTINF:-1 tvg-id="outsidetv.us" tvg-name="US: Outside TV HD" tvg-logo="" group-title="US|CA",Outside TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15268
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15268
 #EXTINF:-1 tvg-id="" tvg-name="US: OWN HD" tvg-logo="" group-title="US|CA",OWN HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15294
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15294
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="US: WE TV HD" tvg-logo="" group-title="US|CA",WE TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112584
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112584
 #EXTINF:-1 tvg-id="fusetv.us" tvg-name="US: Fuse HD" tvg-logo="" group-title="US|CA",Fuse HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112613
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112613
 #EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US: Bounce TV HD" tvg-logo="" group-title="US|CA",Bounce TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112586
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112586
 #EXTINF:-1 tvg-id="ion.us" tvg-name="US: Ion TV HD" tvg-logo="" group-title="US|CA",Ion TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112611
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112611
 #EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US:* Smithsonian Channel HD" tvg-logo="" group-title="US|CA",Smithsonian Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112606
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112606
 #EXTINF:-1 tvg-id="tvone.us" tvg-name="US: TV One HD" tvg-logo="" group-title="US|CA",TV One HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112583
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112583
 #EXTINF:-1 tvg-id="hln.us" tvg-name="US: HLN HD" tvg-logo="" group-title="US|CA",HLN HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112595
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112595
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="US: TBS HD" tvg-logo="" group-title="US|CA",TBS HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5333
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5333
 #EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US: American Heroes HD" tvg-logo="" group-title="US|CA",American Heroes HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3601
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3601
 #EXTINF:-1 tvg-id="adultswim.us" tvg-name="US: Adult Swim HD" tvg-logo="" group-title="US|CA",Adult Swim HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/4529
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/4529
 #EXTINF:-1 tvg-id="court.us" tvg-name="US: Court HD" tvg-logo="" group-title="US|CA",Court HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10725
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10725
 #EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US: The Cowboy Channel HD" tvg-logo="" group-title="US|CA",The Cowboy Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11076
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11076
 #EXTINF:-1 tvg-id="" tvg-name="US: Fashion TV FHD" tvg-logo="" group-title="US|CA",Fashion TV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3592
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3592
 #EXTINF:-1 tvg-id="" tvg-name="=== USA & Canada Movies ===" tvg-logo="" group-title="US|CA",=== USA & Canada Movies ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112818
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112818
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="US:* HBO HD" tvg-logo="" group-title="US|CA",HBO HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15086
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15086
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="US:* HBO 2 HD" tvg-logo="" group-title="US|CA",HBO 2 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213963
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213963
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="US:* HBO Zone HD" tvg-logo="" group-title="US|CA",HBO Zone HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15089
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15089
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US:* HBO Signature FHD" tvg-logo="" group-title="US|CA",HBO Signature FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15087
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15087
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US:* HBO Comedy HD" tvg-logo="" group-title="US|CA",HBO Comedy HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15088
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15088
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US:* HBO Family HD" tvg-logo="" group-title="US|CA",HBO Family HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15090
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15090
 #EXTINF:-1 tvg-id="hbowest.us" tvg-name="US:* HBO West HD" tvg-logo="" group-title="US|CA",HBO West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/269665
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/269665
 #EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US:* Starz Kids & Family HD" tvg-logo="" group-title="US|CA",Starz Kids & Family HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/89232
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/89232
 #EXTINF:-1 tvg-id="starzwest.us" tvg-name="US:* Starz West HD" tvg-logo="" group-title="US|CA",Starz West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213422
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213422
 #EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US:* Starz Comedy HD" tvg-logo="" group-title="US|CA",Starz Comedy HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10738
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10738
 #EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US:* Starz Cinema HD" tvg-logo="" group-title="US|CA",Starz Cinema HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213424
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213424
 #EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US:* Starz In Black HD" tvg-logo="" group-title="US|CA",Starz In Black HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112594
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112594
 #EXTINF:-1 tvg-id="starzedge.us" tvg-name="US:* Starz Edge HD" tvg-logo="" group-title="US|CA",Starz Edge HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213423
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213423
 #EXTINF:-1 tvg-id="starzencore.us" tvg-name="US:* Starz Encore HD" tvg-logo="" group-title="US|CA",Starz Encore HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5335
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5335
 #EXTINF:-1 tvg-id="starzencorewest.us" tvg-name="US:* Starz Encore West HD" tvg-logo="" group-title="US|CA",Starz Encore West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/265412
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/265412
 #EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US:* Starz Encore Action HD" tvg-logo="" group-title="US|CA",Starz Encore Action HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3631
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3631
 #EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US:* Starz Encore Classic HD" tvg-logo="" group-title="US|CA",Starz Encore Classic HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/89231
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/89231
 #EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US:* Starz Encore Family HD" tvg-logo="" group-title="US|CA",Starz Encore Family HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/89230
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/89230
 #EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="US:* Starz Encore Suspense HD" tvg-logo="" group-title="US|CA",Starz Encore Suspense HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/89229
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/89229
 #EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US:* Starz Encore Black HD" tvg-logo="" group-title="US|CA",Starz Encore Black HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15314
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15314
 #EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US:* Starz Encore Westerns HD" tvg-logo="" group-title="US|CA",Starz Encore Westerns HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15295
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15295
 #EXTINF:-1 tvg-id="starz.us" tvg-name="US:* Starz HD" tvg-logo="" group-title="US|CA",Starz HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5338
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5338
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="US: 5 StarMax HD" tvg-logo="" group-title="US|CA",5 StarMax HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5336
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5336
 #EXTINF:-1 tvg-id="epix.us" tvg-name="US: Epix HD" tvg-logo="" group-title="US|CA",Epix HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15280
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15280
 #EXTINF:-1 tvg-id="epix2.us" tvg-name="US: Epix 2 HD" tvg-logo="" group-title="US|CA",Epix 2 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15281
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15281
 #EXTINF:-1 tvg-id="epixhits.us" tvg-name="US: Epix Hits HD" tvg-logo="" group-title="US|CA",Epix Hits HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112620
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112620
 #EXTINF:-1 tvg-id="shoxbet.us" tvg-name="US: SHOxBET HD" tvg-logo="" group-title="US|CA",SHOxBET HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5337
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5337
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="US: Showtime HD" tvg-logo="" group-title="US|CA",Showtime HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15404
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15404
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="US: Showtime 2 HD" tvg-logo="" group-title="US|CA",Showtime 2 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10733
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10733
 #EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US: Showtime Extreme HD" tvg-logo="" group-title="US|CA",Showtime Extreme HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112590
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112590
 #EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US: Showtime Women HD" tvg-logo="" group-title="US|CA",Showtime Women HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3533
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3533
 #EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US: Showtime Family Zone HD" tvg-logo="" group-title="US|CA",Showtime Family Zone HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213425
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213425
 #EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US: Showtime Next FHD" tvg-logo="" group-title="US|CA",Showtime Next FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3527
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3527
 #EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US: Showtime Showcase HD" tvg-logo="" group-title="US|CA",Showtime Showcase HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15405
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15405
 #EXTINF:-1 tvg-id="showtimewest.us" tvg-name="US: Showtime West HD" tvg-logo="" group-title="US|CA",Showtime West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/154654
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/154654
 #EXTINF:-1 tvg-id="" tvg-name="US: Cinemax East HD" tvg-logo="" group-title="US|CA",Cinemax East HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3628
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3628
 #EXTINF:-1 tvg-id="actionmax.us" tvg-name="US: Cinemax Action Max HD" tvg-logo="" group-title="US|CA",Cinemax Action Max HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3658
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3658
 #EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moremax HD" tvg-logo="" group-title="US|CA",Cinemax Moremax HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3629
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3629
 #EXTINF:-1 tvg-id="" tvg-name="US: CineMax West HD" tvg-logo="" group-title="US|CA",CineMax West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15302
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15302
 #EXTINF:-1 tvg-id="moremax.us" tvg-name="US: MoreMax HD" tvg-logo="" group-title="US|CA",MoreMax HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15297
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15297
 #EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US: ThrillerMax HD" tvg-logo="" group-title="US|CA",ThrillerMax HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15306
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15306
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US: Lifetime HD" tvg-logo="" group-title="US|CA",Lifetime HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112610
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112610
 #EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US: Lifetime Movie Network HD" tvg-logo="" group-title="US|CA",Lifetime Movie Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112599
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112599
 #EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA: Movie Time" tvg-logo="" group-title="US|CA",Movie Time
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15418
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15418
 #EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" tvg-logo="" group-title="US|CA",IFC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5329
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5329
 #EXTINF:-1 tvg-id="" tvg-name="US: TCM HD" tvg-logo="" group-title="US|CA",TCM HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/9585
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/9585
 #EXTINF:-1 tvg-id="sony.us" tvg-name="US: Sony Movies HD" tvg-logo="" group-title="US|CA",Sony Movies HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112582
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112582
 #EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC HD" tvg-logo="" group-title="US|CA",AMC HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/7645
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/7645
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US: BBC America HD" tvg-logo="" group-title="US|CA",BBC America HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15406
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15406
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="US:* TNT HD" tvg-logo="" group-title="US|CA",TNT HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5352
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5352
 #EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US: Paramount Network HD" tvg-logo="" group-title="US|CA",Paramount Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112607
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112607
 #EXTINF:-1 tvg-id="fxm.us" tvg-name="US: FX Movie Channel HD" tvg-logo="" group-title="US|CA",FX Movie Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112612
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112612
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="US:* Hallmark HD" tvg-logo="" group-title="US|CA",Hallmark HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5324
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5324
 #EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US:* Hallmark Movies & Mysteries HD" tvg-logo="" group-title="US|CA",Hallmark Movies & Mysteries HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/19693
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/19693
 #EXTINF:-1 tvg-id="grit.us" tvg-name="US: Grit TV" tvg-logo="" group-title="US|CA",Grit TV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5312
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5312
 #EXTINF:-1 tvg-id="indieplex.us" tvg-name="US: IndiePlex HD" tvg-logo="" group-title="US|CA",IndiePlex HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213428
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213428
 #EXTINF:-1 tvg-id="movieplex.us" tvg-name="US: MoviePlex HD" tvg-logo="" group-title="US|CA",MoviePlex HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/213427
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/213427
 #EXTINF:-1 tvg-id="retroplex.us" tvg-name="US: RetroPlex HD" tvg-logo="" group-title="US|CA",RetroPlex HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112592
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112592
 #EXTINF:-1 tvg-id="" tvg-name="US: El Rey FHD" tvg-logo="" group-title="US|CA",El Rey FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/293807
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/293807
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase FHD" tvg-logo="" group-title="US|CA",Showcase FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10715
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10715
 #EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: Crave 1 HD" tvg-logo="" group-title="US|CA",Crave 1 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15425
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15425
 #EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: Crave 2 HD" tvg-logo="" group-title="US|CA",Crave 2 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15424
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15424
 #EXTINF:-1 tvg-id="" tvg-name="=== USA & Canada Doc ===" tvg-logo="" group-title="US|CA",=== USA & Canada Doc ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112819
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112819
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US:* Animal Planet HD" tvg-logo="" group-title="US|CA",Animal Planet HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15298
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15298
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US:* Discovery Channel East HD" tvg-logo="" group-title="US|CA",Discovery Channel East HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15296
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15296
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US:* Discovery Channel West HD" tvg-logo="" group-title="US|CA",Discovery Channel West HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/304383
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/304383
 #EXTINF:-1 tvg-id="discoverylife.us" tvg-name="US:* Discovery Life HD" tvg-logo="" group-title="US|CA",Discovery Life HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112541
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112541
 #EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US:* Discovery Family HD" tvg-logo="" group-title="US|CA",Discovery Family HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15267
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15267
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="US:* Discovery Velocity HD" tvg-logo="" group-title="US|CA",Discovery Velocity HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15289
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15289
 #EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US:* Discovery Science HD" tvg-logo="" group-title="US|CA",Discovery Science HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3750
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3750
 #EXTINF:-1 tvg-id="historychannel.us" tvg-name="US:* History Channel HD" tvg-logo="" group-title="US|CA",History Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5317
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5317
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="US:* National Geographic HD" tvg-logo="" group-title="US|CA",National Geographic HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16785
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16785
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US:* National Geographic Wild HD" tvg-logo="" group-title="US|CA",National Geographic Wild HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3634
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3634
 #EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US:* Investigation Discovery HD" tvg-logo="" group-title="US|CA",Investigation Discovery HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3748
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3748
 #EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="US:* Crime & Investigation HD" tvg-logo="" group-title="US|CA",Crime & Investigation HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15213
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15213
 #EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US:* Destination America HD" tvg-logo="" group-title="US|CA",Destination America HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15307
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15307
 #EXTINF:-1 tvg-id="travel.us" tvg-name="US:* Travel Channel HD" tvg-logo="" group-title="US|CA",Travel Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2625
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2625
 #EXTINF:-1 tvg-id="dogtv.us" tvg-name="US: Dog TV HD" tvg-logo="" group-title="US|CA",Dog TV HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/163596
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/163596
 #EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="US: World Fishing Network HD" tvg-logo="" group-title="US|CA",World Fishing Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112585
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112585
 #EXTINF:-1 tvg-id="nasachannel.us" tvg-name="US: Nasa TV FHD" tvg-logo="" group-title="US|CA",Nasa TV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/219998
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/219998
 #EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="US: Pursuit FHD" tvg-logo="" group-title="US|CA",Pursuit FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15427
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15427
 #EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA:* Discovery Channel HD" tvg-logo="" group-title="US|CA",Discovery Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10732
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10732
 #EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA:* National Geo Wild HD" tvg-logo="" group-title="US|CA",National Geo Wild HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10713
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10713
 #EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA:* National Geo HD" tvg-logo="" group-title="US|CA",National Geo HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10716
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10716
 #EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA:* History HD" tvg-logo="" group-title="US|CA",History HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10726
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10726
 #EXTINF:-1 tvg-id="history2.ca" tvg-name="CA:* H2" tvg-logo="" group-title="US|CA",H2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5325
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5325
 #EXTINF:-1 tvg-id="" tvg-name="=== USA & Canada Kids ===" tvg-logo="" group-title="KIDS",=== USA & Canada Kids ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112820
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112820
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="US: Nick Jr HD" tvg-logo="" group-title="KIDS",Nick Jr HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15317
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15317
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="US: Boomerang HD" tvg-logo="" group-title="KIDS",Boomerang HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112617
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112617
 #EXTINF:-1 tvg-id="pbskids.us" tvg-name="US: PBS Kids HD" tvg-logo="" group-title="KIDS",PBS Kids HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16787
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16787
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney Channel HD" tvg-logo="" group-title="KIDS",Disney Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15288
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15288
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US: Disney XD HD" tvg-logo="" group-title="KIDS",Disney XD HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3661
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3661
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US: Disney Junior HD" tvg-logo="" group-title="KIDS",Disney Junior HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/18432
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/18432
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US: Cartoon Network HD" tvg-logo="" group-title="KIDS",Cartoon Network HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15300
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15300
 #EXTINF:-1 tvg-id="teennick.us" tvg-name="US: Teen Nick HD" tvg-logo="" group-title="KIDS",Teen Nick HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16786
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16786
 #EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US: Nicktoons HD" tvg-logo="" group-title="KIDS",Nicktoons HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5331
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5331
 #EXTINF:-1 tvg-id="babyfirst.us" tvg-name="US: Baby First HD" tvg-logo="" group-title="KIDS",Baby First HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3630
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3630
 #EXTINF:-1 tvg-id="universalkids.us" tvg-name="US: Universal Kids HD" tvg-logo="" group-title="KIDS",Universal Kids HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112605
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112605
 #EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA: Disney Junior HD" tvg-logo="" group-title="KIDS",Disney Junior HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10728
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10728
 #EXTINF:-1 tvg-id="familyjr.ca" tvg-name="CA: Family Junior HD" tvg-logo="" group-title="KIDS",Family Junior HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11073
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11073
 #EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA: Teletoon HD" tvg-logo="" group-title="KIDS",Teletoon HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10731
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10731
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="----------- UK News -----------" tvg-logo="" group-title="UK",----------- UK News -----------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3481
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3481
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: Sky News FHD" tvg-logo="http://kb007.xyz/picons/skynews.png" group-title="UK",Sky News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8727
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8727
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="[UK]* Sky News" tvg-logo="http://kb007.xyz/picons/skynews.png" group-title="UK",Sky News
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2882
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2882
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="[UK] BBC News FHD" tvg-logo="http://kb007.xyz/picons/bbcnews.png" group-title="UK",BBC News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8685
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8685
 #EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="[UK] BBC World News FHD" tvg-logo="http://kb007.xyz/picons/bbcworldnews.png" group-title="UK",BBC World News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/145669
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/145669
 #EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="[UK] BBC World News" tvg-logo="http://kb007.xyz/picons/bbcworldnews.png" group-title="UK",BBC World News
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2620
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2620
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="[UK] Talk TV FHD" tvg-logo="http://kb007.xyz/picons/talktv.png" group-title="UK",Talk TV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/270963
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/270963
 #EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="[UK] Al Jazeera FHD" tvg-logo="http://kb007.xyz/picons/aljazeeraenglish.png" group-title="UK",Al Jazeera FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8780
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8780
 #EXTINF:-1 tvg-id="gbnews.uk" tvg-name="[UK] GB News FHD" tvg-logo="http://kb007.xyz/picons/gbnews.png" group-title="UK",GB News FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3453
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3453
 #EXTINF:-1 tvg-id="NTD.uk" tvg-name="[UK] NTD" tvg-logo="http://kb007.xyz/picons/ntd.png" group-title="UK",NTD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2606
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2606
 #EXTINF:-1 tvg-id="cnn.uk" tvg-name="[UK] CNN FHD" tvg-logo="http://kb007.xyz/picons/cnn.png" group-title="UK",CNN FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/164834
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/164834
 #EXTINF:-1 tvg-id="CNN.nws" tvg-name="[UK] CNN International" tvg-logo="http://kb007.xyz/picons/cnninternational.png" group-title="UK",CNN International
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5674
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5674
 #EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="UK: Fox News" tvg-logo="http://kb007.xyz/picons/foxnews.png" group-title="UK",Fox News
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5935
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5935
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="[UK] France 24 FHD" tvg-logo="http://kb007.xyz/picons/france24english.png" group-title="UK",France 24 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/1458
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/1458
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-name="[UK] Euronews" tvg-logo="http://kb007.xyz/picons/euronews.png" group-title="UK",Euronews
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3026
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3026
 #EXTINF:-1 tvg-id="trtworld.uk" tvg-name="[UK] TRT World FHD" tvg-logo="http://kb007.xyz/picons/trtworld.png" group-title="UK",TRT World FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177219
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177219
 #EXTINF:-1 tvg-id="trtworld.uk" tvg-name="[UK] TRT World" tvg-logo="http://kb007.xyz/picons/trtworld.png" group-title="UK",TRT World
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177367
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177367
 #EXTINF:-1 tvg-id="nhkworldhd.uk" tvg-name="[UK] NHK World FHD" tvg-logo="http://kb007.xyz/picons/nhkworld.png" group-title="UK",NHK World FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/166266
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/166266
 #EXTINF:-1 tvg-id="" tvg-name="[UK] A News Turk" tvg-logo="http://kb007.xyz/picons/anews.png" group-title="UK",A News Turk
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2633
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2633
 #EXTINF:-1 tvg-id="" tvg-name="[UK] Arise News" tvg-logo="http://kb007.xyz/picons/arisenews.png" group-title="UK",Arise News
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16030
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16030
 #EXTINF:-1 tvg-id="" tvg-name="[UK] CNBC Europe FHD" tvg-logo="http://kb007.xyz/picons/cnbceurope.png" group-title="UK",CNBC Europe FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/166095
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/166095
 #EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="[UK] Bloomberg UK FHD" tvg-logo="http://kb007.xyz/picons/bloomberg.png" group-title="UK",Bloomberg UK FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5934
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5934
 #EXTINF:-1 tvg-id="" tvg-name="--------- UK General ----------" tvg-logo="" group-title="UK",--------- UK General ----------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3480
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3480
 #EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="[UK]* BBC 1 FHD" tvg-logo="http://kb007.xyz/picons/bbcone.png" group-title="UK",BBC 1 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76153
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76153
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="[UK] BBC 1 FHD2" tvg-logo="http://kb007.xyz/picons/bbcone.png" group-title="UK",BBC 1 FHD2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8681
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8681
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="[UK]* BBC 2 FHD" tvg-logo="http://kb007.xyz/picons/bbctwo.png" group-title="UK",BBC 2 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76152
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76152
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="[UK]* ITV 1 FHD" tvg-logo="http://kb007.xyz/picons/itv1.png" group-title="UK",ITV 1 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76149
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76149
 #EXTINF:-1 tvg-id="ITV+1.uk" tvg-name="[UK] ITV 1 FHD2" tvg-logo="http://kb007.xyz/picons/itv1.png" group-title="UK",ITV 1 FHD2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8701
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8701
 #EXTINF:-1 tvg-id="ITV+1.uk" tvg-name="[UK] ITV 1" tvg-logo="http://kb007.xyz/picons/itv1.png" group-title="UK",ITV 1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2878
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2878
 #EXTINF:-1 tvg-id="ITV1LondonPlus1.uk" tvg-name="[UK] ITV 1 +1" tvg-logo="http://kb007.xyz/picons/itv1plus1.png" group-title="UK",ITV 1 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3139
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3139
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="[UK]* ITV 2 FHD" tvg-logo="http://kb007.xyz/picons/itv2.png" group-title="UK",ITV 2 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76148
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76148
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="[UK] ITV 2" tvg-logo="http://kb007.xyz/picons/itv2.png" group-title="UK",ITV 2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8702
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8702
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HD" tvg-logo="http://kb007.xyz/picons/itv2.png" group-title="UK",ITV 2 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2879
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2879
 #EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="[UK] ITV 2 +1" tvg-logo="http://kb007.xyz/picons/itv2plus1.png" group-title="UK",ITV 2 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/33228
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/33228
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="[UK]* ITV 3 FHD" tvg-logo="http://kb007.xyz/picons/itv3.png" group-title="UK",ITV 3 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76147
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76147
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV 3 HD" tvg-logo="http://kb007.xyz/picons/itv3.png" group-title="UK",ITV 3 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8703
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8703
 #EXTINF:-1 tvg-id="ITV3plus1.uk" tvg-name="[UK] ITV 3 +1" tvg-logo="http://kb007.xyz/picons/itv3plus1.png" group-title="UK",ITV 3 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/33229
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/33229
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK:* ITV 4 FHD" tvg-logo="http://kb007.xyz/picons/itv4.png" group-title="UK",ITV 4 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76146
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76146
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HD" tvg-logo="http://kb007.xyz/picons/itv4.png" group-title="UK",ITV 4 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2880
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2880
 #EXTINF:-1 tvg-id="ITV4plus1.uk" tvg-name="[UK] ITV 4 +1" tvg-logo="http://kb007.xyz/picons/itv4plus1.png" group-title="UK",ITV 4 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/33230
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/33230
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="[UK]* ITV Be FHD" tvg-logo="http://kb007.xyz/picons/itvbe.png" group-title="UK",ITV Be FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2881
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2881
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="[UK]* Channel 4 FHD" tvg-logo="http://kb007.xyz/picons/channel4.png" group-title="UK",Channel 4 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76142
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76142
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="[UK] Channel 4" tvg-logo="http://kb007.xyz/picons/channel4.png" group-title="UK",Channel 4
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2874
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2874
 #EXTINF:-1 tvg-id="channel4plus1.uk" tvg-name="[UK] Channel 4 +1" tvg-logo="http://kb007.xyz/picons/channel4plus1.png" group-title="UK",Channel 4 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8687
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8687
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="[UK]* Channel 5 FHD" tvg-logo="http://kb007.xyz/picons/channel5.png" group-title="UK",Channel 5 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76143
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76143
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="[UK] Channel 5" tvg-logo="http://kb007.xyz/picons/channel5.png" group-title="UK",Channel 5
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2875
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2875
 #EXTINF:-1 tvg-id="Channel5plus1.uk" tvg-name="[UK] Channel 5 +1" tvg-logo="http://kb007.xyz/picons/channel5plus1.png" group-title="UK",Channel 5 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8688
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8688
 #EXTINF:-1 tvg-id="stv.uk" tvg-name="[UK] STV FHD" tvg-logo="http://kb007.xyz/picons/stv.png" group-title="UK",STV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10247
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10247
 #EXTINF:-1 tvg-id="5star.uk" tvg-name="[UK]* 5Star" tvg-logo="http://kb007.xyz/picons/5star.png" group-title="UK",5Star
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5306
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5306
 #EXTINF:-1 tvg-id="5starplus1.uk" tvg-name="[UK] 5Star +1" tvg-logo="http://kb007.xyz/picons/5starplus1.png" group-title="UK",5Star +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172200
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172200
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="[UK]* 5USA" tvg-logo="http://kb007.xyz/picons/5usa.png" group-title="UK",5USA
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2884
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2884
 #EXTINF:-1 tvg-id="fiveusaplus1.uk" tvg-name="[UK] 5USA +1" tvg-logo="http://kb007.xyz/picons/5usaplus1.png" group-title="UK",5USA +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172201
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172201
 #EXTINF:-1 tvg-id="5select.uk" tvg-name="[UK]* 5 Select" tvg-logo="http://kb007.xyz/picons/5select.png" group-title="UK",5 Select
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10030
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10030
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 FHD" tvg-logo="http://kb007.xyz/picons/e4.png" group-title="UK",E4 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8692
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8692
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="[UK]* E4" tvg-logo="http://kb007.xyz/picons/e4.png" group-title="UK",E4
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3137
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3137
 #EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="[UK] E4 +1" tvg-logo="http://kb007.xyz/picons/e4plus1.png" group-title="UK",E4 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172198
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172198
 #EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="[UK]* E4 Extra" tvg-logo="http://kb007.xyz/picons/e4extra.png" group-title="UK",E4 Extra
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3187
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3187
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="UK: More 4 HD" tvg-logo="http://kb007.xyz/picons/more4.png" group-title="UK",More 4 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15279
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15279
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="[UK]* More 4" tvg-logo="http://kb007.xyz/picons/more4.png" group-title="UK",More 4
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3136
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3136
 #EXTINF:-1 tvg-id="more4plus1.uk" tvg-name="[UK] More 4 +1" tvg-logo="http://kb007.xyz/picons/more4plus1.png" group-title="UK",More 4 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172188
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172188
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK: 4Seven FHD" tvg-logo="http://kb007.xyz/picons/4seven.png" group-title="UK",4Seven FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76144
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76144
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="[UK]* 4 Seven" tvg-logo="http://kb007.xyz/picons/4seven.png" group-title="UK",4 Seven
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5675
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5675
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="[UK] 4Music" tvg-logo="http://kb007.xyz/picons/4music.png" group-title="UK",4Music
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3836
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3836
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="[UK]* BBC 3 FHD/CBBC FHD" tvg-logo="http://kb007.xyz/picons/bbcthreecbbc.png" group-title="UK",BBC 3 FHD/CBBC FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76151
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76151
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="[UK] BBC 3 HD / CBBC FHD2" tvg-logo="http://kb007.xyz/picons/bbcthreecbbc.png" group-title="UK",BBC 3 HD / CBBC FHD2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8683
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8683
 #EXTINF:-1 tvg-id="BBC4.uk" tvg-name="[UK]* BBC 4 FHD/CBEEBIES FHD" tvg-logo="http://kb007.xyz/picons/cbeebies.png" group-title="UK",BBC 4 FHD/CBEEBIES FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76150
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76150
 #EXTINF:-1 tvg-id="BBC4.uk" tvg-name="[UK] BBC 4 FHD / CBEEBIES FHD" tvg-logo="http://kb007.xyz/picons/cbeebies.png" group-title="UK",BBC 4 FHD / CBEEBIES FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8684
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8684
 #EXTINF:-1 tvg-id="" tvg-name="=== UK Entertainment ===" tvg-logo="" group-title="UK",=== UK Entertainment ===
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112748
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112748
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK:* Sky Atlantic FHD" tvg-logo="http://kb007.xyz/picons/skyatlantic.png" group-title="UK",Sky Atlantic FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3586
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3586
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="http://kb007.xyz/picons/skyatlantic.png" group-title="UK",Sky Atlantic
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15096
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15096
 #EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK:* Sky Witness FHD" tvg-logo="http://kb007.xyz/picons/skywitness.png" group-title="UK",Sky Witness FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/69639
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/69639
 #EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness" tvg-logo="http://kb007.xyz/picons/skywitness.png" group-title="UK",Sky Witness
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2641
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2641
 #EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK:* Sky Comedy FHD" tvg-logo="http://kb007.xyz/picons/skycomedy.png" group-title="UK",Sky Comedy FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161153
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161153
 #EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK: Sky Comedy" tvg-logo="http://kb007.xyz/picons/skycomedy.png" group-title="UK",Sky Comedy
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161154
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161154
 #EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK:* Sky Arts FHD" tvg-logo="http://kb007.xyz/picons/skyarts.png" group-title="UK",Sky Arts FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/75855
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/75855
 #EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts" tvg-logo="http://kb007.xyz/picons/skyarts.png" group-title="UK",Sky Arts
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8713
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8713
 #EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK:* Sky Showcase FHD" tvg-logo="http://kb007.xyz/picons/skyshowcase.png" group-title="UK",Sky Showcase FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/279949
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/279949
 #EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK: Sky Showcase" tvg-logo="http://kb007.xyz/picons/skyshowcase.png" group-title="UK",Sky Showcase
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/279950
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/279950
 #EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK:* Sky Max FHD" tvg-logo="http://kb007.xyz/picons/skymax.png" group-title="UK",Sky Max FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/275247
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/275247
 #EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: Sky Max" tvg-logo="http://kb007.xyz/picons/skymax.png" group-title="UK",Sky Max
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/275245
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/275245
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK:* Pick" tvg-logo="http://kb007.xyz/picons/pick.png" group-title="UK",Pick
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3392
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3392
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK:* Comedy Central FHD" tvg-logo="http://kb007.xyz/picons/comedycentral.png" group-title="UK",Comedy Central FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8689
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8689
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: Comedy Central" tvg-logo="http://kb007.xyz/picons/comedycentral.png" group-title="UK",Comedy Central
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2664
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2664
 #EXTINF:-1 tvg-id="comedycentralplus1.uk" tvg-name="UK: Comedy Central UK +1" tvg-logo="http://kb007.xyz/picons/comedycentralplus1.png" group-title="UK",Comedy Central UK +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177373
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177373
 #EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK:* Comedy Central Extra" tvg-logo="http://kb007.xyz/picons/comedycentralextra.png" group-title="UK",Comedy Central Extra
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3589
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3589
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK:* E! FHD" tvg-logo="http://kb007.xyz/picons/eentertainment.png" group-title="UK",E! FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/146332
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/146332
 #EXTINF:-1 tvg-id="E.uk" tvg-name="UK: E!" tvg-logo="http://kb007.xyz/picons/eentertainment.png" group-title="UK",E!
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3591
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3591
 #EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: Gold FHD" tvg-logo="http://kb007.xyz/picons/gold.png" group-title="UK",Gold FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/164833
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/164833
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK:* Gold FHD" tvg-logo="http://kb007.xyz/picons/gold.png" group-title="UK",Gold FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3051
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3051
 #EXTINF:-1 tvg-id="goldplus1.uk" tvg-name="UK: Gold +1" tvg-logo="http://kb007.xyz/picons/goldplus1.png" group-title="UK",Gold +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172928
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172928
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: Dave HD" tvg-logo="http://kb007.xyz/picons/dave.png" group-title="UK",Dave HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8690
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8690
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="[UK]* Dave" tvg-logo="http://kb007.xyz/picons/dave.png" group-title="UK",Dave
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3346
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3346
 #EXTINF:-1 tvg-id="davejavu.uk" tvg-name="[UK]* Dave Ja Vu" tvg-logo="http://kb007.xyz/picons/davejavu.png" group-title="UK",Dave Ja Vu
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3830
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3830
 #EXTINF:-1 tvg-id="W.uk" tvg-name="UK:* W FHD" tvg-logo="http://kb007.xyz/picons/w.png" group-title="UK",W FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8732
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8732
 #EXTINF:-1 tvg-id="W.uk" tvg-name="[UK] W" tvg-logo="http://kb007.xyz/picons/w.png" group-title="UK",W
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/4153
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/4153
 #EXTINF:-1 tvg-id="wplus1.uk" tvg-name="[UK] W +1" tvg-logo="http://kb007.xyz/picons/wplus1.png" group-title="UK",W +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172933
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172933
 #EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK:* Alibi" tvg-logo="http://kb007.xyz/picons/alibi.png" group-title="UK",Alibi
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3368
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3368
 #EXTINF:-1 tvg-id="alibiplus1.uk" tvg-name="UK: Alibi +1" tvg-logo="http://kb007.xyz/picons/alibiplus1.png" group-title="UK",Alibi +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172930
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172930
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK:* MTV FHD" tvg-logo="http://kb007.xyz/picons/mtv.png" group-title="UK",MTV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8707
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8707
 #EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK: MTV" tvg-logo="http://kb007.xyz/picons/mtv.png" group-title="UK",MTV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5824
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5824
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK: London Live" tvg-logo="http://kb007.xyz/picons/londonlive.png" group-title="UK",London Live
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2828
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2828
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="[UK]* Challenge" tvg-logo="http://kb007.xyz/picons/challenge.png" group-title="UK",Challenge
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5673
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5673
 #EXTINF:-1 tvg-id="together.uk" tvg-name="[UK] Together" tvg-logo="http://kb007.xyz/picons/together.png" group-title="UK",Together
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177212
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177212
 #EXTINF:-1 tvg-id="AyozatTV.uk" tvg-name="UK: Ayozat TV" tvg-logo="http://kb007.xyz/picons/ayozattv.png" group-title="UK",Ayozat TV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/29804
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/29804
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="[UK]* Drama" tvg-logo="http://kb007.xyz/picons/drama.png" group-title="UK",Drama
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5847
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5847
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="[UK] Drama +1" tvg-logo="http://kb007.xyz/picons/dramaplus1.png" group-title="UK",Drama +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172931
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172931
 #EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="[UK]* CBS Drama" tvg-logo="http://kb007.xyz/picons/cbsdrama.png" group-title="UK",CBS Drama
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3186
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3186
 #EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="[UK]* CBS Reality" tvg-logo="http://kb007.xyz/picons/cbsreality.png" group-title="UK",CBS Reality
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3141
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3141
 #EXTINF:-1 tvg-id="cbsrealityplus1.uk" tvg-name="[UK] CBS Reality +1" tvg-logo="http://kb007.xyz/picons/cbsrealityplus1.png" group-title="UK",CBS Reality +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177379
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177379
 #EXTINF:-1 tvg-id="legend.uk" tvg-name="[UK] Legend" tvg-logo="http://kb007.xyz/picons/legend.png" group-title="UK",Legend
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177422
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177422
 #EXTINF:-1 tvg-id="" tvg-name="--------- UK Kids ------------" tvg-logo="" group-title="KIDS",--------- UK Kids ------------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3479
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3479
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK:* Cartoon Network FHD" tvg-logo="http://kb007.xyz/picons/cartoonnetwork.png" group-title="KIDS",Cartoon Network FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8686
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8686
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK: Cartoon Network" tvg-logo="http://kb007.xyz/picons/cartoonnetwork.png" group-title="KIDS",Cartoon Network
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2829
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2829
 #EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="UK: Cartoon Network +1" tvg-logo="http://kb007.xyz/picons/cartoonnetworkplus1.png" group-title="KIDS",Cartoon Network +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177344
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177344
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK: Nicktoons" tvg-logo="http://kb007.xyz/picons/nicktoons.png" group-title="KIDS",Nicktoons
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/13624
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/13624
 #EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: Nick Jr Paw Patrol" tvg-logo="http://kb007.xyz/picons/nickjrpawpatrol.png" group-title="KIDS",Nick Jr Paw Patrol
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2643
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2643
 #EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK:* Nick Jr." tvg-logo="http://kb007.xyz/picons/nickjr.png" group-title="KIDS",Nick Jr.
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16001
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16001
 #EXTINF:-1 tvg-id="nickjuniorplus1.uk" tvg-name="UK: Nick Jr +1" tvg-logo="http://kb007.xyz/picons/nickjrplus1.png" group-title="KIDS",Nick Jr +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177377
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177377
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK: Nickelodeon FHD" tvg-logo="http://kb007.xyz/picons/nickelodeon.png" group-title="KIDS",Nickelodeon FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8711
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8711
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK:* Nickelodeon" tvg-logo="http://kb007.xyz/picons/nickelodeon.png" group-title="KIDS",Nickelodeon
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3150
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3150
 #EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="UK: Nickelodeon +1" tvg-logo="http://kb007.xyz/picons/nickelodeonplus1.png" group-title="KIDS",Nickelodeon +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177376
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177376
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="UK:* Cartoonito" tvg-logo="http://kb007.xyz/picons/cartoonito.png" group-title="KIDS",Cartoonito
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5517
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5517
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="http://kb007.xyz/picons/boomerang.png" group-title="KIDS",Boomerang
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2629
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2629
 #EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="UK: Boomerang +1" tvg-logo="http://kb007.xyz/picons/boomerangplus1.png" group-title="KIDS",Boomerang +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177343
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177343
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="[UK] Baby TV" tvg-logo="http://kb007.xyz/picons/babytv.png" group-title="KIDS",Baby TV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2824
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2824
 #EXTINF:-1 tvg-id="pop.uk" tvg-name="[UK] Pop" tvg-logo="http://kb007.xyz/picons/pop.png" group-title="KIDS",Pop
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/17056
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/17056
 #EXTINF:-1 tvg-id="popplus1.uk" tvg-name="[UK] Pop +1" tvg-logo="http://kb007.xyz/picons/popplus1.png" group-title="KIDS",Pop +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177349
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177349
 #EXTINF:-1 tvg-id="popmax.uk" tvg-name="[UK] Pop Max" tvg-logo="http://kb007.xyz/picons/popmax.png" group-title="KIDS",Pop Max
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/29803
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/29803
 #EXTINF:-1 tvg-id="popmaxplus1.uk" tvg-name="[UK] Pop Max +1" tvg-logo="http://kb007.xyz/picons/popmaxplus1.png" group-title="KIDS",Pop Max +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177348
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177348
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="[UK] Cbeebies HD" tvg-logo="http://kb007.xyz/picons/cbeebies.png" group-title="KIDS",Cbeebies HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3839
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3839
 #EXTINF:-1 tvg-id="CITV.uk" tvg-name="[UK] C ITV" tvg-logo="http://kb007.xyz/picons/citv.png" group-title="KIDS",C ITV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2876
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2876
 #EXTINF:-1 tvg-id="rtejr.ie" tvg-name="UK: RTE Jr" tvg-logo="http://kb007.xyz/picons/rtejr.png" group-title="KIDS",RTE Jr
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3828
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3828
 #EXTINF:-1 tvg-id="" tvg-name="---------- UK Docu -----------" tvg-logo="" group-title="UK",---------- UK Docu -----------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3478
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3478
 #EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK:* Sky Documentaries FHD" tvg-logo="http://kb007.xyz/picons/skydocumentaries.png" group-title="UK",Sky Documentaries FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/179517
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/179517
 #EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK: Sky Documentaries" tvg-logo="http://kb007.xyz/picons/skydocumentaries.png" group-title="UK",Sky Documentaries
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/179518
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/179518
 #EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK:* Sky Crime FHD" tvg-logo="http://kb007.xyz/picons/skycrime.png" group-title="UK",Sky Crime FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161151
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161151
 #EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime" tvg-logo="http://kb007.xyz/picons/skycrime.png" group-title="UK",Sky Crime
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/161152
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/161152
 #EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK:* Sky Nature FHD" tvg-logo="http://kb007.xyz/picons/skynature.png" group-title="UK",Sky Nature FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/179515
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/179515
 #EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK: Sky Nature" tvg-logo="http://kb007.xyz/picons/skynature.png" group-title="UK",Sky Nature
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/179516
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/179516
 #EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK:* Sky Histroy FHD" tvg-logo="http://kb007.xyz/picons/skyhistory.png" group-title="UK",Sky Histroy FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/180686
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/180686
 #EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK: Sky Histroy" tvg-logo="http://kb007.xyz/picons/skyhistory.png" group-title="UK",Sky Histroy
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/180687
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/180687
 #EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK:* History FHD" tvg-logo="http://kb007.xyz/picons/history.png" group-title="UK",History FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8697
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8697
 #EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK: History" tvg-logo="http://kb007.xyz/picons/history.png" group-title="UK",History
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3584
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3584
 #EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="UK:* Sky H2 FHD" tvg-logo="http://kb007.xyz/picons/skyhistory2.png" group-title="UK",Sky H2 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/180685
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/180685
 #EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="UK: Sky H2" tvg-logo="http://kb007.xyz/picons/skyhistory2.png" group-title="UK",Sky H2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/180688
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/180688
 #EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: History 2 FHD" tvg-logo="http://kb007.xyz/picons/history2.png" group-title="UK",History 2 FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3585
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3585
 #EXTINF:-1 tvg-id="Discovery.uk" tvg-name="UK:* Discovery FHD" tvg-logo="http://kb007.xyz/picons/discoverychannel.png" group-title="UK",Discovery FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/28487
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/28487
 #EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery FHD2" tvg-logo="http://kb007.xyz/picons/discoverychannel.png" group-title="UK",Discovery FHD2
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/331290
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/331290
 #EXTINF:-1 tvg-id="Discovery.uk" tvg-name="UK: Discovery Channel" tvg-logo="http://kb007.xyz/picons/discoverychannel.png" group-title="UK",Discovery Channel
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2616
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2616
 #EXTINF:-1 tvg-id="discoverychannelplus1.uk" tvg-name="UK: Discovery Channel +1" tvg-logo="http://kb007.xyz/picons/discoveryplus1.png" group-title="UK",Discovery Channel +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172218
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172218
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK:* Discovery Science" tvg-logo="http://kb007.xyz/picons/discoveryscience.png" group-title="UK",Discovery Science
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3207
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3207
 #EXTINF:-1 tvg-id="discoveryscienceplus1.uk" tvg-name="UK: Discovery Science +1" tvg-logo="http://kb007.xyz/picons/discoveryscienceplus1.png" group-title="UK",Discovery Science +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172216
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172216
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK:* Discovery Turbo" tvg-logo="http://kb007.xyz/picons/discoveryturbo.png" group-title="UK",Discovery Turbo
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3205
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3205
 #EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="UK: Discovery Turbo +1" tvg-logo="http://kb007.xyz/picons/discoveryturbo.png" group-title="UK",Discovery Turbo +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172217
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172217
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK:* Discovery History" tvg-logo="http://kb007.xyz/picons/discoveryhistory.png" group-title="UK",Discovery History
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2642
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2642
 #EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="UK: Discovery History +1" tvg-logo="http://kb007.xyz/picons/discoveryhistoryplus1.png" group-title="UK",Discovery History +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172215
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172215
 #EXTINF:-1 tvg-id="" tvg-name="[UK] Earthx TV FHD" tvg-logo="http://kb007.xyz/picons/earthxtv.png" group-title="UK",Earthx TV FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8698
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8698
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK:* National Geo FHD" tvg-logo="http://kb007.xyz/picons/nationalgeographic.png" group-title="UK",National Geo FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8709
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8709
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="UK: National Geographic" tvg-logo="http://kb007.xyz/picons/nationalgeographic.png" group-title="UK",National Geographic
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3190
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3190
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK:* Nat Geo Wild FHD" tvg-logo="http://kb007.xyz/picons/natgeowild.png" group-title="UK",Nat Geo Wild FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8710
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8710
 #EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="http://kb007.xyz/picons/natgeowild.png" group-title="UK",Nat Geo Wild
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3189
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3189
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK: Animal Planet HD" tvg-logo="http://kb007.xyz/picons/animalplanet.png" group-title="UK",Animal Planet HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8679
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8679
 #EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK:* Animal Planet" tvg-logo="http://kb007.xyz/picons/animalplanet.png" group-title="UK",Animal Planet
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3217
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3217
 #EXTINF:-1 tvg-id="animalplanetplus1.uk" tvg-name="[UK] Animal Planet +1" tvg-logo="http://kb007.xyz/picons/animalplanetplus1.png" group-title="UK",Animal Planet +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172214
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172214
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: Eden" tvg-logo="http://kb007.xyz/picons/eden.png" group-title="UK",Eden
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15277
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15277
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK:* Eden" tvg-logo="http://kb007.xyz/picons/eden.png" group-title="UK",Eden
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3138
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3138
 #EXTINF:-1 tvg-id="edenplus1.uk" tvg-name="UK: Eden +1" tvg-logo="http://kb007.xyz/picons/edenplus1.png" group-title="UK",Eden +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172932
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172932
 #EXTINF:-1 tvg-id="Investigation.uk" tvg-name="[UK]* ID" tvg-logo="http://kb007.xyz/picons/id.png" group-title="UK",ID
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2663
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2663
 #EXTINF:-1 tvg-id="investigationdiscoveryplus1.uk" tvg-name="UK: ID +1" tvg-logo="http://kb007.xyz/picons/idplus1.png" group-title="UK",ID +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172220
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172220
 #EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK:* Crime & Investigation FHD" tvg-logo="http://kb007.xyz/picons/crimeandinvestigation.png" group-title="UK",Crime & Investigation FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11780
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11780
 #EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK: Crime & Investigation" tvg-logo="http://kb007.xyz/picons/crimeandinvestigation.png" group-title="UK",Crime & Investigation
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3343
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3343
 #EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="[UK]* Dmax" tvg-logo="http://kb007.xyz/picons/dmax.png" group-title="UK",Dmax
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3140
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3140
 #EXTINF:-1 tvg-id="discoverydmaxplus1.uk" tvg-name="[UK] Dmax +1" tvg-logo="http://kb007.xyz/picons/dmaxplus1.png" group-title="UK",Dmax +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172934
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172934
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="[UK]* Quest FHD" tvg-logo="http://kb007.xyz/picons/quest.png" group-title="UK",Quest FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/87628
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/87628
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="[UK] Quest" tvg-logo="http://kb007.xyz/picons/quest.png" group-title="UK",Quest
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2873
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2873
 #EXTINF:-1 tvg-id="questplus1.uk" tvg-name="[UK] Quest +1" tvg-logo="http://kb007.xyz/picons/questplus1.png" group-title="UK",Quest +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172936
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172936
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="[UK]* Quest Red" tvg-logo="http://kb007.xyz/picons/questred.png" group-title="UK",Quest Red
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/29797
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/29797
 #EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="[UK] Quest Red +1" tvg-logo="http://kb007.xyz/picons/questredplus1.png" group-title="UK",Quest Red +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172937
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172937
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="[UK]* Yesterday" tvg-logo="http://kb007.xyz/picons/yesterday.png" group-title="UK",Yesterday
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3684
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3684
 #EXTINF:-1 tvg-id="yesterdayplus1.uk" tvg-name="[UK] Yesterday +1" tvg-logo="http://kb007.xyz/picons/yesterdayplus1.png" group-title="UK",Yesterday +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172929
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172929
 #EXTINF:-1 tvg-id="PBS.uk" tvg-name="[UK]* PBS America" tvg-logo="http://kb007.xyz/picons/pbsamerica.png" group-title="UK",PBS America
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15132
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15132
 #EXTINF:-1 tvg-id="travel.us" tvg-name="UK: Travel Channel HD" tvg-logo="http://kb007.xyz/picons/travelchannel.png" group-title="UK",Travel Channel HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/10951
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/10951
 #EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="[UK] Court TV" tvg-logo="http://kb007.xyz/picons/courttv.png" group-title="UK",Court TV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3746
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3746
 #EXTINF:-1 tvg-id="" tvg-name="[UK] Motorvision" tvg-logo="http://kb007.xyz/picons/motorvisiontv.png" group-title="UK",Motorvision
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/69617
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/69617
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="[UK]* Really" tvg-logo="http://kb007.xyz/picons/really.png" group-title="UK",Really
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2656
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2656
 #EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="[UK]* Blaze" tvg-logo="http://kb007.xyz/picons/blaze.png" group-title="UK",Blaze
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/29800
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/29800
 #EXTINF:-1 tvg-id="home.uk" tvg-name="[UK]* HGTV" tvg-logo="http://kb007.xyz/picons/hgtv.png" group-title="UK",HGTV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5801
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5801
 #EXTINF:-1 tvg-id="homeplus1.uk" tvg-name="[UK] HGTV +1" tvg-logo="http://kb007.xyz/picons/hgtvplus1.png" group-title="UK",HGTV +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5518
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5518
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK:* TLC FHD" tvg-logo="http://kb007.xyz/picons/tlc.png" group-title="UK",TLC FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/87629
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/87629
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK: TLC" tvg-logo="http://kb007.xyz/picons/tlc.png" group-title="UK",TLC
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/16294
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/16294
 #EXTINF:-1 tvg-id="tlcplus1.uk" tvg-name="[UK] TLC +1" tvg-logo="http://kb007.xyz/picons/tlcplus1.png" group-title="UK",TLC +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172221
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172221
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="[UK]* Food Network" tvg-logo="http://kb007.xyz/picons/foodnetwork.png" group-title="UK",Food Network
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3398
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3398
 #EXTINF:-1 tvg-id="foodnetworkplus1.uk" tvg-name="[UK] Food Network +1" tvg-logo="http://kb007.xyz/picons/foodnetworkplus1.png" group-title="UK",Food Network +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172935
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172935
 #EXTINF:-1 tvg-id="travelxp.uk" tvg-name="[UK] Travelxp" tvg-logo="http://kb007.xyz/picons/travelxp.png" group-title="UK",Travelxp
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3390
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3390
 #EXTINF:-1 tvg-id="" tvg-name="---------- UK Movies ------------" tvg-logo="" group-title="UK",---------- UK Movies ------------
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3477
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3477
 #EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK:* Sky Cinema Premiere FHD" tvg-logo="http://kb007.xyz/picons/skycinemapremieren.png" group-title="UK",Sky Cinema Premiere FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76158
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76158
 #EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://kb007.xyz/picons/skycinemapremieren.png" group-title="UK",Sky Cinema Premiere
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3403
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3403
 #EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK:* Sky Cinema Hits FHD" tvg-logo="http://kb007.xyz/picons/skycinemahits.png" group-title="UK",Sky Cinema Hits FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76165
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76165
 #EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: Sky Cinema Hits" tvg-logo="http://kb007.xyz/picons/skycinemahits.png" group-title="UK",Sky Cinema Hits
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/34992
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/34992
 #EXTINF:-1 tvg-id="SkyBrits.uk" tvg-name="UK:* Sky Cinema Greats FHD" tvg-logo="http://kb007.xyz/picons/skycinema.png" group-title="UK",Sky Cinema Greats FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76159
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76159
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats" tvg-logo="http://kb007.xyz/picons/skycinema.png" group-title="UK",Sky Cinema Greats
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3583
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3583
 #EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK:* Sky Cinema Family FHD" tvg-logo="http://kb007.xyz/picons/skycinemafamily.png" group-title="UK",Sky Cinema Family FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76160
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76160
 #EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: Sky Cinema Family" tvg-logo="http://kb007.xyz/picons/skycinemafamily.png" group-title="UK",Sky Cinema Family
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3345
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3345
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK:* Sky Cinema Animation FHD" tvg-logo="http://kb007.xyz/picons/skycinemaanimation.png" group-title="UK",Sky Cinema Animation FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/188016
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/188016
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation" tvg-logo="http://kb007.xyz/picons/skycinemaanimation.png" group-title="UK",Sky Cinema Animation
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/188015
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/188015
 #EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK:* Sky Cinema Action FHD" tvg-logo="http://kb007.xyz/picons/skycinemaaction.png" group-title="UK",Sky Cinema Action FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76164
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76164
 #EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK: Sky Cinema Action" tvg-logo="http://kb007.xyz/picons/skycinemaaction.png" group-title="UK",Sky Cinema Action
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3408
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3408
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK:* Sky Cinema Comedy FHD" tvg-logo="http://kb007.xyz/picons/skycinemacomedy.png" group-title="UK",Sky Cinema Comedy FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76162
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76162
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://kb007.xyz/picons/skycinemacomedy.png" group-title="UK",Sky Cinema Comedy
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8716
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8716
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK:* Sky Cinema Thriller FHD" tvg-logo="http://kb007.xyz/picons/skycinemathrillerhd.png" group-title="UK",Sky Cinema Thriller FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76155
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76155
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: Sky Cinema Thriller" tvg-logo="http://kb007.xyz/picons/skycinemathrillerhd.png" group-title="UK",Sky Cinema Thriller
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8726
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8726
 #EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK:* Sky Cinema Drama & Romance FHD" tvg-logo="http://kb007.xyz/picons/skycinemadrama.png" group-title="UK",Sky Cinema Drama & Romance FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76163
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76163
 #EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: Sky Cinema Drama & Romance" tvg-logo="http://kb007.xyz/picons/skycinemadrama.png" group-title="UK",Sky Cinema Drama & Romance
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3344
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3344
 #EXTINF:-1 tvg-id="SkyCinemaSci-fiHorror.uk" tvg-name="UK:* Sky Cinema Sci-Fi/Horror FHD" tvg-logo="http://kb007.xyz/picons/skycinemascifi.png" group-title="UK",Sky Cinema Sci-Fi/Horror FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76157
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76157
 #EXTINF:-1 tvg-id="SkyCinemaSci-fiHorror.uk" tvg-name="UK: Sky Cinema SciFi/Horror" tvg-logo="http://kb007.xyz/picons/skycinemascifi.png" group-title="UK",Sky Cinema SciFi/Horror
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3016
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3016
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK:* Sky Cinema Select FHD" tvg-logo="http://kb007.xyz/picons/skycinema.png" group-title="UK",Sky Cinema Select FHD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/76156
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/76156
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="http://kb007.xyz/picons/skycinema.png" group-title="UK",Sky Cinema Select
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3405
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3405
 #EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK: TCM Movies +1" tvg-logo="http://kb007.xyz/picons/tcmmovies.png" group-title="UK",TCM Movies +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/8729
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/8729
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="http://kb007.xyz/picons/film4.png" group-title="UK",Film 4 HD
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/15278
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/15278
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="[UK]* Film 4" tvg-logo="http://kb007.xyz/picons/film4.png" group-title="UK",Film 4
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2877
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2877
 #EXTINF:-1 tvg-id="film4plus1.uk" tvg-name="[UK] Film 4 +1" tvg-logo="http://kb007.xyz/picons/film4plus1.png" group-title="UK",Film 4 +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/172199
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/172199
 #EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="[UK]* Horror Channel" tvg-logo="http://kb007.xyz/picons/horrorchannel.png" group-title="UK",Horror Channel
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3393
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3393
 #EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="[UK] Horror Channel +1" tvg-logo="http://kb007.xyz/picons/horrorchannelplus1.png" group-title="UK",Horror Channel +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177378
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177378
 #EXTINF:-1 tvg-id="horrorxtra.uk" tvg-name="[UK] Horror Xtra" tvg-logo="http://kb007.xyz/picons/horrorxtra.png" group-title="UK",Horror Xtra
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/182823
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/182823
 #EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="[UK] Sony Channel" tvg-logo="http://kb007.xyz/picons/sonychannel.png" group-title="UK",Sony Channel
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3396
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3396
 #EXTINF:-1 tvg-id="sonychannelplus1.uk" tvg-name="[UK] Sony Channel +1" tvg-logo="http://kb007.xyz/picons/sonychannelplus1.png" group-title="UK",Sony Channel +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177351
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177351
 #EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="[UK]* Sony Movies" tvg-logo="http://kb007.xyz/picons/sonymovies.png" group-title="UK",Sony Movies
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/2648
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/2648
 #EXTINF:-1 tvg-id="truemovies2.uk" tvg-name="[UK] Sony Movies +1" tvg-logo="http://kb007.xyz/picons/sonymoviesplus1.png" group-title="UK",Sony Movies +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/11754
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/11754
 #EXTINF:-1 tvg-id="sonyaction.uk" tvg-name="[UK]* Sony Action" tvg-logo="http://kb007.xyz/picons/sonyaction.png" group-title="UK",Sony Action
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3347
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3347
 #EXTINF:-1 tvg-id="sonyactionplus1.uk" tvg-name="[UK] Sony Action +1" tvg-logo="http://kb007.xyz/picons/sonyactionplus1.png" group-title="UK",Sony Action +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177350
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177350
 #EXTINF:-1 tvg-id="SonyClassic.uk" tvg-name="[UK]* Sony Classic" tvg-logo="http://kb007.xyz/picons/sonyclassic.png" group-title="UK",Sony Classic
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/3841
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/3841
 #EXTINF:-1 tvg-id="SonyClassicPlus1.uk" tvg-name="[UK] Sony Classic +1" tvg-logo="http://kb007.xyz/picons/sonyclassicplus1.png" group-title="UK",Sony Classic +1
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/177352
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/177352
 #EXTINF:-1 tvg-id="MoviesTwentyFour.uk" tvg-name="UK:* Movies 24" tvg-logo="http://kb007.xyz/picons/movies24.png" group-title="UK",Movies 24
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/20306
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/20306
 #EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: Talking Pictures TV" tvg-logo="http://kb007.xyz/picons/talkingpicturestv.png" group-title="UK",Talking Pictures TV
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/292083
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/292083
 
 
 
@@ -1007,7 +981,7 @@ http://homeip.biz:80/US_TNTHD/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
 http://port.denver1769.in/Ply/tptv.php?id=3353
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/5352
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5352
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
@@ -1023,7 +997,7 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
-http://0o0o4.ddnsking.com:80/fIS40dlihmEU/gaOOr0JuZw/112608
+http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/112608
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS UK
 http://port.denver1769.in/Ply/tptv.php?id=206098
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS CA
