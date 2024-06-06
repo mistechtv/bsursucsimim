@@ -24,6 +24,8 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="PH",DEPED
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="PH",DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/s9cqdv" group-title="PH",DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
@@ -40,38 +42,36 @@ http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="PH",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA
-http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|01
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:74:99:55&stream=731786&extension=ts&play_token=2quW4kHhmv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/00/Kapamilya_Online_Live_3D_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20230426122618" group-title="PH",KAPAMILYA ONLINE LIVE|02
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731786&extension=m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=731786&extension=ts&play_token=BNfZwgZwIY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL|01
 http://iptvtree.net:8080/live/c6c8f050/3105121e/144837.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQegN0FFy1mPiyn-CkzNYP1kQgG7KoRh8n-G2aN55cCjHDbJEzR4l1QIVtTZV7nOWREQ&usqp=CAU" group-title="PH",KAPAMILYA CHANNEL|02
 http://xtv.ooo:8080/live/SOHAIB12/86542962/352601.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="PH",MEDIA PILIPINAS TV
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926172&extension=m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=926172&extension=ts&play_token=dHawdO5zYd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/640px-Myxphlogo.svg.png" group-title="PH",MYX TV
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/32/Net_25_Logo_October_2020.png/revision/latest?cb=20220513153633" group-title="PH",NET 25
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/One-PH-logo.png/revision/latest/scale-to-width-down/1200?cb=20210304072034" group-title="PH",ONE PH
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731816&extension=ts&play_token=NIQ5qH4wzJ
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272851
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="PH",ONE NEWS HD
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926160&extension=m3u8
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="PH",ONE SPORTS HD
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731814&extension=m3u8
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" group-title="PH",ONE SPORTS PLUS
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=926161&extension=m3u8
+http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272950
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PH",PBA RUSH HD
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272967
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NKGJl5L7iLWglwyofoJFZ-zZ7AzhjdqcJmMxAtJS1A&s" group-title="PH",PBO
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyhW0W8Cawa7HW505h_FZXUGV2Buv-RrfMyz6GxWNvag&s" group-title="PH",PTV 4
-http://mag.x-iptv.live/play/live.php?mac=00:1a:79:b5:25:15&stream=731809&extension=m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=731809&extension=ts&play_token=9DjCjZvPI0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://context.ph/wp-content/uploads/2024/02/RPTV.jpeg" group-title="PH",RPTV
-http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/127.m3u8
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272849
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/SARI-SARI-CHANNEL.png" group-title="PH",SARI-SARI
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272843
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/emf5k4" group-title="PH",SMNI
@@ -97,7 +97,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="PH",UAAP VARSITY 
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Viva_TV_logo.jpg/250px-Viva_TV_logo.jpg" group-title="PH",VIVA CINEMA
-http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/186.m3u8
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272824
 
 
 
@@ -972,28 +972,11 @@ http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3136
 http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA",NBA TV HD USA
 http://41.205.93.154:80/NBA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA",NBA TV HD USA
-http://bluesky4all.redirectme.net:61881/play/nr4ab_pU4KgsHNgsvvVCFEFBuxYtvYsZYHhx3qHj0bJ4fsDTxfx2iqAA9D3EEKra/ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA",NBA TV HD USA BACKUP
-https://inst1.ignores.top/js/nba-tv/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
-http://homeip.biz:80/US_TNTHD/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA 
-http://port.denver1769.in/Ply/tptv.php?id=3353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
-http://194.120.230.36:80/fIS40dlihmEU/gaOOr0JuZw/5352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
-http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS USA
-http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3092
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS UK
-http://port.denver1769.in/Ply/tptv.php?id=206098
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA",NBA PLAYOFFS CA
-http://port.denver1769.in/Ply/tptv.php?id=2553
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
 #EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
-http://41.205.93.154/ABC/index.m3u8
+http://41.205.93.154:80/ABC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://muka03.wanicelife.com:8880/3ca8243n02/trf56tg7efd/3166
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
