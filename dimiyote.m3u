@@ -974,6 +974,8 @@ http://49.0.64.96:8007/NBA
 http://41.205.93.154:80/NBA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
+https://tvnow.best/api/stream/June512/1rn03P/livetv.epg/abc.kaal.austin.mn.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://95.214.235.96:8880/29ca10183n04/asdfe332/3166
 #EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NBA_Finals_logo_%282022%29.svg/1200px-NBA_Finals_logo_%282022%29.svg.png" group-title="NBA",NBA FINALS USA
 http://41.205.93.154:80/ABC/index.m3u8
