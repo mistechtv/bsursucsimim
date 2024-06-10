@@ -31,7 +31,7 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="PH",GMA 7
-http://103.152.216.26:8443/live/vvOqR-9WZpLGgnkHnzIkSQ/1717542643/98.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gtvv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="PH",GMA LIFE
 http://homeip.biz/PH_GMA7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="PH",GMA NEWS
