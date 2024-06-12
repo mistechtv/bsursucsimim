@@ -33,9 +33,9 @@ http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="PH",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gtvv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="PH",GMA LIFE
-http://homeip.biz/PH_GMA7/index.m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=223021&extension=ts&play_token=GuF7RhEz1R
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="PH",GMA NEWS
-http://homeip.biz/PH_NEWS/index.m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=223025&extension=ts&play_token=638fOoOyhx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="PH",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.philstar.com/photos/2022/09/02/ibc-13_2022-09-02_16-27-25.jpg" group-title="PH",IBC 13
@@ -63,7 +63,7 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_eH8brLjLXvvijJ5GYdPQKGLFUOAKKQ0zU5e8n94uA&s" group-title="PH",ONE SPORTS HD
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/One-Sports-Plus.jpg" group-title="PH",ONE SPORTS PLUS
-http://0o0o4.ddnsking.com:80/EGXMA3bG7T86284/uR1EH4wQPn/272950
+http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272950
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PH",PBA RUSH HD
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272967
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NKGJl5L7iLWglwyofoJFZ-zZ7AzhjdqcJmMxAtJS1A&s" group-title="PH",PBO
