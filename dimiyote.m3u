@@ -31,13 +31,15 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEmpiiWyxbkXrxLdKi6_xkiLgZU3wimbDotq1gOQ1UQ&s" group-title="PH",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="70615" tvg-name="" tvg-logo="https://shorturl.at/boIPX" group-title="PH",GMA 7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718647591/ei/xyZwZtvEIur1s8IPnMCaiAk/ip/103.171.89.156/id/PJB3OjORmXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181251/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_E7mV-ZpYyOHb5z53DSqp_Qr642SvugoJb4pIxZXpIl_Qq1g0owwQGDUHU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANgLwkfOxm_gk_x4cljNNWUa70eJkkEL71wfN_zk6ciQAiA6VJxlQ3HxvTpkBGWUyU0JZo_UksspWPsKNrGq-VF31A%3D%3D/file/index.m3u8
+https://xigncode.enics.cloud/hls/kuhangkuhasamayariampotasixigncodemayarinito/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoB2lLlu3MkmWlriNER_4u_5XUai6zwDoG4m955UiOA&s" group-title="PH",GMA LIFE
 http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=223021&extension=ts&play_token=GuF7RhEz1R
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjG8ccTd9otaRS6kliZbb98h5FqNh3RecMFBTaa_ulQ&s" group-title="PH",GMA NEWS
 http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:B5:25:15&stream=223025&extension=ts&play_token=638fOoOyhx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/smart/width/250/height/250?cb=20200901093722" group-title="PH",GMA PINOY
 http://95.214.235.96:8880/29ca10183n04/asdfe332/50124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMWFl_Y9i73D1V6S0lsEbBKYv7ggl4oFKRoGZsoHCmxMMZop7BZ3EpgHkI7OuRU9EvGEQ&usqp=CAU" group-title="PH",GTV
+https://xigncode.enics.cloud/hls/kinaenkotamodkokasikinuhakoitokayxigncode/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.philstar.com/photos/2022/09/02/ibc-13_2022-09-02_16-27-25.jpg" group-title="PH",IBC 13
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20131005173306" group-title="PH",INC TV
