@@ -76,6 +76,10 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272843
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="PH",STAR MOVIES HD
 http://xtv.ooo:8080/764209736/91553613/354983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://one-iptv.com/imageslogo/pu_starmovies.png" group-title="PH",STAR MOVIES HD QA
+http://xtv.ooo:8080/764209736/91553613/353002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="LIVE TV",STAR MOVIES SELECT
+http://xtv.ooo:8080/764209736/91553613/66315
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/84/TeleRadyo_Logo_2022.png/revision/latest?cb=20220529110658" group-title="PH",TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QooDxRKP2dk/sddefault.jpg" group-title="PH",TFC HD
