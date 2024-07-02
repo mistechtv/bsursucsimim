@@ -106,15 +106,844 @@ http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272965
 http://194.120.230.36:80/EGXMA3bG7T86284/uR1EH4wQPn/272824
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/disney-channel5093.jpg" group-title="KIDS",DISNEY CHANNEL
+http://port.denver1769.in/Ply/tptv.php?id=1846
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/0cefa7b67fa18e7d08db5237bb26aa9f.png" group-title="KIDS",DISNEY JR
 https://livecdn-iptv001.rumsport.com/stream/8608/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXQ2ZgxbSjZSrjoAg3U5xIKsrqE83VgqydQ&s" group-title="KIDS",CARTOON NETWORK
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUXaiFYmsfhHkKLpAwx_QGPltGFMCzg7qU5XJVBdbPw&s" group-title="KIDS",CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_1499968=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/6af814698155afb9511dd5e91454834a.png" group-title="KIDS",MRBEAN
+http://port.denver1769.in/Ply/tptv.php?id=148858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1096px-Nick_Jr._logo_2023.svg.png" group-title="KIDS",NICK JR
+http://port.denver1769.in/Ply/tptv.php?id=2877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/317/588/png-transparent-nick-jr-too-television-channel-nickelodeon-nick-jr-television-text-logo.png" group-title="KIDS",NICK JR. TOO
+http://port.denver1769.in/Ply/tptv.php?id=50040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/640px-Nicktoons_2023_Outlined_Logo.png" group-title="KIDS",NICKTOONS 
+http://port.denver1769.in/Ply/tptv.php?id=1839
 
 
+#EXTINF:-1 tvg-ID="ITV1.uk" tvg-name="ITV" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" group-title="UK - Nationals",ITV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155104
+#EXTINF:-1 tvg-ID="ITV1.uk" tvg-name="ITV HD" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" group-title="UK - Nationals",ITV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155105
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="ITV 1 +1" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" group-title="UK - Nationals",ITV 1 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/248242
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="ITV2" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" group-title="UK - Nationals",ITV2
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155107
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="ITV2 HD" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" group-title="UK - Nationals",ITV2 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155108
+#EXTINF:-1 tvg-ID="" tvg-name="ITV2 +1" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" group-title="UK - Nationals",ITV2 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155109
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="ITV3" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" group-title="UK - Nationals",ITV3
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155110
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="ITV3 HD" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" group-title="UK - Nationals",ITV3 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155111
+#EXTINF:-1 tvg-ID="" tvg-name="ITV3 +1" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" group-title="UK - Nationals",ITV3 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155112
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" group-title="UK - Nationals",ITV 4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155113
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="ITV4 HD" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" group-title="UK - Nationals",ITV4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155114
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="ITV4 +1" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" group-title="UK - Nationals",ITV4 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155115
+#EXTINF:-1 tvg-ID="ITVBe.uk" tvg-name="ITVBe" tvg-logo="https://static.epg.best/uk/ITVBe.uk.png" group-title="UK - Nationals",ITVBe
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155116
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="BBC One " tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="UK - Nationals",BBC One 
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155119
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="BBC One HD" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="UK - Nationals",BBC One HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155120
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" group-title="UK - Nationals",BBC Two
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155121
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="BBC TWO HD" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" group-title="UK - Nationals",BBC TWO HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155122
+#EXTINF:-1 tvg-ID="BBC3.uk" tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_logo_2021.svg/2560px-BBC_Three_logo_2021.svg.png" group-title="UK - Nationals",BBC Three
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195178
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" group-title="UK - Nationals",BBC Four
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155123
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="BBC Four HD" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" group-title="UK - Nationals",BBC Four HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155124
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="CBBC HD" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="UK - Nationals",CBBC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155128
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" group-title="UK - Nationals",Channel 4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155129
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" group-title="UK - Nationals",Channel 4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155130
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="Channel 4 +1" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" group-title="UK - Nationals",Channel 4 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155131
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://static.epg.best/uk/Channel5.uk.png" group-title="UK - Nationals",Channel 5
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155132
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="https://static.epg.best/uk/Channel5.uk.png" group-title="UK - Nationals",Channel 5 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155133
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 5 +1" tvg-logo="https://static.epg.best/uk/Channel5.uk.png" group-title="UK - Nationals",Channel 5 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155134
+#EXTINF:-1 tvg-ID="STV.uk" tvg-name="STV" tvg-logo="https://static.epg.best/uk/STV.uk.png" group-title="UK - Nationals",STV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155136
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="RTE One" tvg-logo="https://static.epg.best/ie/RTEOne.ie.png" group-title="UK - Nationals",RTE One
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155142
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="RTE One HD" tvg-logo="https://static.epg.best/ie/RTEOne.ie.png" group-title="UK - Nationals",RTE One HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155143
+#EXTINF:-1 tvg-ID="RTETwo.ie" tvg-name="RTE Two" tvg-logo="https://static.epg.best/ie/RTETwo.ie.png" group-title="UK - Nationals",RTE Two
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155145
+#EXTINF:-1 tvg-ID="RTETwo.ie" tvg-name="RTE Two HD" tvg-logo="https://static.epg.best/ie/RTETwo.ie.png" group-title="UK - Nationals",RTE Two HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155146
+#EXTINF:-1 tvg-ID="" tvg-name="Spotlight" tvg-logo="" group-title="UK - Nationals",Spotlight
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155147
 
 
+#EXTINF:-1 tvg-ID="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" group-title="UK - News",Sky News
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155162
+#EXTINF:-1 tvg-ID="SkyNews.uk" tvg-name="Sky News HD" tvg-logo="https://static.epg.best/uk/SkyNews.uk.png" group-title="UK - News",Sky News HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155163
+#EXTINF:-1 tvg-ID="CNN.uk" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" group-title="UK - News",CNN
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155185
+#EXTINF:-1 tvg-ID="CNN.uk" tvg-name="CNN HD" tvg-logo="https://static.epg.best/uk/CNN.uk.png" group-title="UK - News",CNN HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155186
+#EXTINF:-1 tvg-ID="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" group-title="UK - News",BBC News
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155187
+#EXTINF:-1 tvg-ID="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" group-title="UK - News",BBC News HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155188
+#EXTINF:-1 tvg-ID="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://static.epg.best/uk/BBCParliament.uk.png" group-title="UK - News",BBC Parliament
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155189
+#EXTINF:-1 tvg-ID="EuroNews.uk" tvg-name="Euronews" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" group-title="UK - News",Euronews
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155190
+#EXTINF:-1 tvg-ID="BloombergTV.uk" tvg-name="Bloomberg HD" tvg-logo="https://static.epg.best/us/BloombergTV.us.png" group-title="UK - News",Bloomberg HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155191
+#EXTINF:-1 tvg-ID="FoxNews.us" tvg-name="Fox News HD " tvg-logo="https://static.epg.best/us/FoxNews.us.png" group-title="UK - News",Fox News HD 
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155414
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Al Jazeera English" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png" group-title="UK - News",Al Jazeera English
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155192
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Al Jazeera HD" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png" group-title="UK - News",Al Jazeera HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155193
+#EXTINF:-1 tvg-ID="France24English.fr" tvg-name="France 24" tvg-logo="https://static.epg.best/fr/France24English.fr.png" group-title="UK - News",France 24
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155194
+#EXTINF:-1 tvg-ID="France24English.fr" tvg-name="France 24 HD" tvg-logo="https://static.epg.best/fr/France24English.fr.png" group-title="UK - News",France 24 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155195
+#EXTINF:-1 tvg-ID="RTENewsNow.ie" tvg-name="NBC News Now" tvg-logo="https://static.epg.best/ie/RTENewsNow.ie.png" group-title="UK - News",NBC News Now
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155196
+#EXTINF:-1 tvg-ID="IdealWorld.uk" tvg-name="Ideal World HD" tvg-logo="https://static.epg.best/uk/IdealWorld.uk.png" group-title="UK - News",Ideal World HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155198
+#EXTINF:-1 tvg-ID="LoveWorld.us" tvg-name="Love World HD" tvg-logo="https://app.alphatv.global/images/movies/thumbnails/thumb_1623204759.png" group-title="UK - News",Love World HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155199
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="NHK World HD" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="UK - News",NHK World HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155200
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="TG4 HD" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UK - News",TG4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155201
 
+
+#EXTINF:-1 tvg-ID="ITV1.uk" tvg-name="ITV FHD" tvg-logo="https://static.epg.best/uk/ITV1.uk.png" group-title="UK - Sky FHD",ITV FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195613
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="ITV2 FHD" tvg-logo="https://static.epg.best/uk/ITV2.uk.png" group-title="UK - Sky FHD",ITV2 FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195614
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="ITV3 FHD" tvg-logo="https://static.epg.best/uk/ITV3.uk.png" group-title="UK - Sky FHD",ITV3 FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195615
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="ITV4 FHD" tvg-logo="https://static.epg.best/uk/ITV4.uk.png" group-title="UK - Sky FHD",ITV4 FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195616
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="BBC One FHD" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="UK - Sky FHD",BBC One FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195617
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="BBC Two FHD" tvg-logo="https://static.epg.best/uk/BBC2.uk.png" group-title="UK - Sky FHD",BBC Two FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195618
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="BBC FOUR FHD" tvg-logo="https://static.epg.best/uk/BBC4.uk.png" group-title="UK - Sky FHD",BBC FOUR FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195619
+#EXTINF:-1 tvg-ID="" tvg-name="CBeebies FHD" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" group-title="UK - Sky FHD",CBeebies FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195620
+#EXTINF:-1 tvg-ID="BBCOneNorthernIreland.uk" tvg-name="BBC ONE NI FHD" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" group-title="UK - Sky FHD",BBC ONE NI FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195623
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="BBC Three HD" tvg-logo="https://e7.pngegg.com/pngimages/344/281/png-clipart-bbc-three-logo-television-three-love-purple-thumbnail.png" group-title="UK - Sky FHD",BBC Three HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195625
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" group-title="UK - Sky FHD",Channel 4 FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195626
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="Channel 5 FHD" tvg-logo="https://static.epg.best/uk/Channel5.uk.png" group-title="UK - Sky FHD",Channel 5 FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/195627
+
+
+#EXTINF:-1 tvg-ID="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://static.epg.best/uk/SkyArts.uk.png" group-title="UK - Entertainment",Sky Arts HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154781
+#EXTINF:-1 tvg-ID="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="https://static.epg.best/uk/SkyAtlantic.uk.png" group-title="UK - Entertainment",Sky Atlantic
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154782
+#EXTINF:-1 tvg-ID="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="https://static.epg.best/uk/SkyAtlantic.uk.png" group-title="UK - Entertainment",Sky Atlantic HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154783
+#EXTINF:-1 tvg-ID="SkyComedy.uk" tvg-name="Sky Comedy" tvg-logo="https://static.epg.best/uk/SkyComedy.uk.png" group-title="UK - Entertainment",Sky Comedy
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154784
+#EXTINF:-1 tvg-ID="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://static.epg.best/uk/SkyComedy.uk.png" group-title="UK - Entertainment",Sky Comedy HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154785
+#EXTINF:-1 tvg-ID="SkyCrime.uk" tvg-name="Sky Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1200px-Sky_Crime_logo_2019.svg.png" group-title="UK - Entertainment",Sky Crime
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154786
+#EXTINF:-1 tvg-ID="SkyCrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1200px-Sky_Crime_logo_2019.svg.png" group-title="UK - Entertainment",Sky Crime HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154787
+#EXTINF:-1 tvg-ID="20280" tvg-name="Sky Showcase" tvg-logo="https://media.info/i/lf/0/1630491051/1084.png" group-title="UK - Entertainment",Sky Showcase
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154788
+#EXTINF:-1 tvg-ID="20280" tvg-name="Sky Showcase HD" tvg-logo="https://media.info/i/lf/0/1630491051/1084.png" group-title="UK - Entertainment",Sky Showcase HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154789
+#EXTINF:-1 tvg-ID="SkyWitness.uk" tvg-name="Sky Witness" tvg-logo="https://static.epg.best/uk/SkyWitness.uk.png" group-title="UK - Entertainment",Sky Witness
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154790
+#EXTINF:-1 tvg-ID="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="https://static.epg.best/uk/SkyWitness.uk.png" group-title="UK - Entertainment",Sky Witness HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154791
+#EXTINF:-1 tvg-ID="SkyWitness.uk" tvg-name="Sky Witness+1" tvg-logo="https://static.epg.best/uk/SkyWitness.uk.png" group-title="UK - Entertainment",Sky Witness+1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154792
+#EXTINF:-1 tvg-ID="88112" tvg-name="SyFy" tvg-logo="https://static.epg.best/uk/Syfy.uk.png" group-title="UK - Entertainment",SyFy
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154793
+#EXTINF:-1 tvg-ID="88112" tvg-name="SyFy HD" tvg-logo="https://static.epg.best/uk/Syfy.uk.png" group-title="UK - Entertainment",SyFy HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154794
+#EXTINF:-1 tvg-ID="EEntertainment.uk" tvg-name="E! Entertainment" tvg-logo="https://static.epg.best/uk/EEntertainment.uk.png" group-title="UK - Entertainment",E! Entertainment
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154795
+#EXTINF:-1 tvg-ID="88066" tvg-name="E! Entertainment HD" tvg-logo="https://static.epg.best/uk/EEntertainment.uk.png" group-title="UK - Entertainment",E! Entertainment HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154796
+#EXTINF:-1 tvg-ID="FoodNetwork.uk" tvg-name="Food Network +1" tvg-logo="https://static.epg.best/uk/FoodNetwork.uk.png" group-title="UK - Entertainment",Food Network +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154800
+#EXTINF:-1 tvg-ID="UTV.uk" tvg-name="UTV HD" tvg-logo="https://static.epg.best/uk/UTV.uk.png" group-title="UK - Entertainment",UTV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154801
+#EXTINF:-1 tvg-ID="UTV.uk" tvg-name="UTV Ire" tvg-logo="https://static.epg.best/uk/UTV.uk.png" group-title="UK - Entertainment",UTV Ire
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154802
+#EXTINF:-1 tvg-ID="" tvg-name="UTV +1" tvg-logo="https://static.epg.best/uk/UTV.uk.png" group-title="UK - Entertainment",UTV +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154803
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/uk/ComedyCentral.uk.png" group-title="UK - Entertainment",Comedy Central
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154804
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="Comedy Central HD" tvg-logo="https://static.epg.best/uk/ComedyCentral.uk.png" group-title="UK - Entertainment",Comedy Central HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154805
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central +1" tvg-logo="https://static.epg.best/uk/ComedyCentral.uk.png" group-title="UK - Entertainment",Comedy Central +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154806
+#EXTINF:-1 tvg-ID="ComedyCentralExtra.uk" tvg-name="Comedy Central Xtra" tvg-logo="https://static.epg.best/uk/ComedyCentralExtra.uk.png" group-title="UK - Entertainment",Comedy Central Xtra
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154807
+#EXTINF:-1 tvg-ID="VirginMediaOne.ie" tvg-name="Virgin Media One" tvg-logo="https://static.epg.best/ie/VirginMediaOne.ie.png" group-title="UK - Entertainment",Virgin Media One
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154808
+#EXTINF:-1 tvg-ID="VirginMediaOne.ie" tvg-name="Virgin Media One HD" tvg-logo="https://static.epg.best/ie/VirginMediaOne.ie.png" group-title="UK - Entertainment",Virgin Media One HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154809
+#EXTINF:-1 tvg-ID="VirginMediaTwo.ie" tvg-name="Virgin Media Two" tvg-logo="https://static.epg.best/ie/VirginMediaTwo.ie.png" group-title="UK - Entertainment",Virgin Media Two
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154810
+#EXTINF:-1 tvg-ID="VirginMediaTwo.ie" tvg-name="Virgin Media Two HD" tvg-logo="https://static.epg.best/ie/VirginMediaTwo.ie.png" group-title="UK - Entertainment",Virgin Media Two HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154811
+#EXTINF:-1 tvg-ID="VirginMediaThree.ie" tvg-name="Virgin Media Three" tvg-logo="https://static.epg.best/ie/VirginMediaThree.ie.png" group-title="UK - Entertainment",Virgin Media Three
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154812
+#EXTINF:-1 tvg-ID="VirginMediaThree.ie" tvg-name="Virgin Media Three HD" tvg-logo="https://static.epg.best/ie/VirginMediaThree.ie.png" group-title="UK - Entertainment",Virgin Media Three HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154813
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Watch" tvg-logo="https://static.epg.best/uk/S4C.uk.png" group-title="UK - Entertainment",Watch
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154814
+#EXTINF:-1 tvg-ID="" tvg-name="Watch HD" tvg-logo="https://static.epg.best/uk/S4C.uk.png" group-title="UK - Entertainment",Watch HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154815
+#EXTINF:-1 tvg-ID="" tvg-name="Watch +1" tvg-logo="https://static.epg.best/uk/S4C.uk.png" group-title="UK - Entertainment",Watch +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154816
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="TLC" tvg-logo="https://static.epg.best/uk/TLC.uk.png" group-title="UK - Entertainment",TLC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154817
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="TLC HD" tvg-logo="https://static.epg.best/uk/TLC.uk.png" group-title="UK - Entertainment",TLC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154818
+#EXTINF:-1 tvg-ID="" tvg-name="TLC +1" tvg-logo="https://static.epg.best/uk/TLC.uk.png" group-title="UK - Entertainment",TLC +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154819
+#EXTINF:-1 tvg-ID="TogetherTV.uk" tvg-name="Together" tvg-logo="" group-title="UK - Entertainment",Together
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154820
+#EXTINF:-1 tvg-ID="Yesterday.uk" tvg-name="YeSTERDAY" tvg-logo="https://static.epg.best/uk/Yesterday.uk.png" group-title="UK - Entertainment",YeSTERDAY
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154821
+#EXTINF:-1 tvg-ID="" tvg-name="YeSTERDAY +1" tvg-logo="https://static.epg.best/uk/Yesterday.uk.png" group-title="UK - Entertainment",YeSTERDAY +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154822
+#EXTINF:-1 tvg-ID="Alibi.uk" tvg-name="Alibi" tvg-logo="https://static.epg.best/uk/Alibi.uk.png" group-title="UK - Entertainment",Alibi
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154823
+#EXTINF:-1 tvg-ID="Alibi.uk" tvg-name="Alibi HD" tvg-logo="https://static.epg.best/uk/Alibi.uk.png" group-title="UK - Entertainment",Alibi HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154824
+#EXTINF:-1 tvg-ID="" tvg-name="alibi +1" tvg-logo="https://static.epg.best/uk/Alibi.uk.png" group-title="UK - Entertainment",alibi +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154825
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Bet UK" tvg-logo="https://static.epg.best/uk/BET.uk.png" group-title="UK - Sports",Bet UK
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154826
+#EXTINF:-1 tvg-ID="Drama.uk" tvg-name="Drama" tvg-logo="https://static.epg.best/uk/Drama.uk.png" group-title="UK - Entertainment",Drama
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154829
+#EXTINF:-1 tvg-ID="" tvg-name="Drama +1" tvg-logo="https://static.epg.best/uk/Drama.uk.png" group-title="UK - Entertainment",Drama +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154830
+#EXTINF:-1 tvg-ID="Drama.uk" tvg-name="CBS Drama" tvg-logo="https://static.epg.best/uk/CBSDrama.uk.png" group-title="UK - Entertainment",CBS Drama
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154831
+#EXTINF:-1 tvg-ID="CBSJustice.uk" tvg-name="CBS Justice" tvg-logo="https://static.epg.best/uk/CBSJustice.uk.png" group-title="UK - Entertainment",CBS Justice
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154832
+#EXTINF:-1 tvg-ID="CBSRealityEU.uk" tvg-name="CBS Reality" tvg-logo="https://static.epg.best/uk/CBSReality.uk.png" group-title="UK - Entertainment",CBS Reality
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154833
+#EXTINF:-1 tvg-ID="Challenge.uk" tvg-name="Challenge TV" tvg-logo="https://static.epg.best/uk/Challenge.uk.png" group-title="UK - Entertainment",Challenge TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154834
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="E4" tvg-logo="https://static.epg.best/uk/E4.uk.png" group-title="UK - Entertainment",E4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154835
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="E4 HD" tvg-logo="https://static.epg.best/uk/E4.uk.png" group-title="UK - Entertainment",E4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154836
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="E4 +1" tvg-logo="https://static.epg.best/uk/E4.uk.png" group-title="UK - Entertainment",E4 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154837
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="More 4" tvg-logo="https://static.epg.best/uk/More4.uk.png" group-title="UK - Entertainment",More 4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154838
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="More 4 HD" tvg-logo="https://static.epg.best/uk/More4.uk.png" group-title="UK - Entertainment",More 4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154839
+#EXTINF:-1 tvg-ID="" tvg-name="More 4 +1" tvg-logo="https://static.epg.best/uk/More4.uk.png" group-title="UK - Entertainment",More 4 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154840
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Oireachtas" tvg-logo="https://static.epg.best/uk/QVCStyle.uk.png" group-title="UK - Entertainment",Oireachtas
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154841
+#EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount" tvg-logo="https://static.epg.best/uk/ParamountChannel.uk.png" group-title="UK - Entertainment",Paramount
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154842
+#EXTINF:-1 tvg-ID="PickTV.uk" tvg-name="Pick TV" tvg-logo="" group-title="UK - Entertainment",Pick TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154843
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-name="Quest HD" tvg-logo="https://static.epg.best/uk/Quest.uk.png" group-title="UK - Entertainment",Quest HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154844
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-name="Quest" tvg-logo="https://static.epg.best/uk/Quest.uk.png" group-title="UK - Entertainment",Quest
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154845
+#EXTINF:-1 tvg-ID="" tvg-name="Quest +1" tvg-logo="https://static.epg.best/uk/Quest.uk.png" group-title="UK - Entertainment",Quest +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154846
+#EXTINF:-1 tvg-ID="QuestRed.uk" tvg-name="Quest Red" tvg-logo="https://static.epg.best/uk/QuestRed.uk.png" group-title="UK - Entertainment",Quest Red
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154847
+#EXTINF:-1 tvg-ID="" tvg-name="Quest Red +1" tvg-logo="https://static.epg.best/uk/QuestRed.uk.png" group-title="UK - Entertainment",Quest Red +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154848
+#EXTINF:-1 tvg-ID="Really.uk" tvg-name="Really" tvg-logo="" group-title="UK - Entertainment",Really
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154849
+#EXTINF:-1 tvg-ID="GOLD.uk" tvg-name="GOLD" tvg-logo="https://static.epg.best/uk/GOLD.uk.png" group-title="UK - Entertainment",GOLD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154850
+#EXTINF:-1 tvg-ID="GOLD.uk" tvg-name="Gold HD" tvg-logo="https://static.epg.best/uk/GOLD.uk.png" group-title="UK - Entertainment",Gold HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154851
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD +1" tvg-logo="https://static.epg.best/uk/GOLD.uk.png" group-title="UK - Entertainment",GOLD +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154852
+#EXTINF:-1 tvg-ID="LoveWorld.us" tvg-name="Love World HD" tvg-logo="" group-title="UK - Entertainment",Love World HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154853
+#EXTINF:-1 tvg-ID="GodTV.us" tvg-name="God Europe" tvg-logo="https://static.epg.best/us/GodTV.us.png" group-title="UK - Entertainment",God Europe
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154854
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Daystar HD" tvg-logo="https://static.epg.best/us/Daystar.us.png" group-title="UK - Entertainment",Daystar HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154855
+#EXTINF:-1 tvg-ID="JMLDirect.uk" tvg-name="JML Direct" tvg-logo="https://static.epg.best/uk/JMLDirect.uk.png" group-title="UK - Entertainment",JML Direct
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154856
+#EXTINF:-1 tvg-ID="IdealWorld.uk" tvg-name="Ideal World HD" tvg-logo="https://static.epg.best/uk/IdealWorld.uk.png" group-title="UK - Entertainment",Ideal World HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154857
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="4Seven" tvg-logo="https://static.epg.best/uk/4Seven.uk.png" group-title="UK - Entertainment",4Seven
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154859
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="5 Select" tvg-logo="https://static.epg.best/uk/5Select.uk.png" group-title="UK - Entertainment",5 Select
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154860
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="5 Star" tvg-logo="https://static.epg.best/uk/5star.uk.png" group-title="UK - Entertainment",5 Star
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154861
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="5 USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" group-title="UK - Entertainment",5 USA
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154862
+#EXTINF:-1 tvg-ID="SkyReplay.uk" tvg-name="Sky Replay" tvg-logo="https://static.epg.best/uk/QVCBeauty.uk.png" group-title="UK - Entertainment",Sky Replay
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154863
+#EXTINF:-1 tvg-ID="" tvg-name="Smithsonian HD" tvg-logo="" group-title="UK - Entertainment",Smithsonian HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154864
+#EXTINF:-1 tvg-ID="SonyMovieChannel.us" tvg-name="Sony Channel" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Entertainment",Sony Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154865
+#EXTINF:-1 tvg-ID="SonyMovieChannel.us" tvg-name="Sony Channel HD" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Entertainment",Sony Channel HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154866
+#EXTINF:-1 tvg-ID="S4C.uk" tvg-name="S4C" tvg-logo="https://static.epg.best/uk/S4C.uk.png" group-title="UK - Entertainment",S4C
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154867
+#EXTINF:-1 tvg-ID="STV.uk" tvg-name="STV HD" tvg-logo="https://static.epg.best/uk/STV.uk.png" group-title="UK - Entertainment",STV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154868
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="TG4" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UK - Entertainment",TG4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154869
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="TG4 HD" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UK - Entertainment",TG4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154870
+#EXTINF:-1 tvg-ID="TravelXP.uk" tvg-name="TravelXP" tvg-logo="https://static.epg.best/uk/TravelXP.uk.png" group-title="UK - Entertainment",TravelXP
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154871
+#EXTINF:-1 tvg-ID="TalkingPictures.uk" tvg-name="TalkingPictures" tvg-logo="https://static.epg.best/uk/TalkingPictures.uk.png" group-title="UK - Entertainment",TalkingPictures
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154872
+#EXTINF:-1 tvg-ID="HorrorChannel.uk" tvg-name="Horror Channel" tvg-logo="https://static.epg.best/uk/HorrorChannel.uk.png" group-title="UK - Entertainment",Horror Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154873
+#EXTINF:-1 tvg-ID="CreateCraft.uk" tvg-name="Create & Craft HD" tvg-logo="https://static.epg.best/uk/CreateCraft.uk.png" group-title="UK - Entertainment",Create & Craft HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154874
+#EXTINF:-1 tvg-ID="CreateCraft.uk" tvg-name="Craft Extra" tvg-logo="https://static.epg.best/uk/CraftExtra.uk.png" group-title="UK - Entertainment",Craft Extra
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154875
+#EXTINF:-1 tvg-ID="IdealWorld.uk" tvg-name="Ideal Extra" tvg-logo="https://static.epg.best/uk/IdealWorld.uk.png" group-title="UK - Entertainment",Ideal Extra
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154876
+#EXTINF:-1 tvg-ID="QVC.uk" tvg-name="QVC" tvg-logo="https://static.epg.best/uk/QVCBeauty.uk.png" group-title="UK - Entertainment",QVC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154878
+#EXTINF:-1 tvg-ID="QVCBeauty.uk" tvg-name="QVC Beauty" tvg-logo="https://static.epg.best/uk/QVCBeauty.uk.png" group-title="UK - Entertainment",QVC Beauty
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154879
+#EXTINF:-1 tvg-ID="QVCExtra.uk" tvg-name="QVC Extra" tvg-logo="https://static.epg.best/uk/QVCExtra.uk.png" group-title="UK - Entertainment",QVC Extra
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154880
+#EXTINF:-1 tvg-ID="QVCStyle.uk" tvg-name="QVC Style" tvg-logo="https://static.epg.best/uk/QVCStyle.uk.png" group-title="UK - Entertainment",QVC Style
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154881
+#EXTINF:-1 tvg-ID="" tvg-name="TravelWarehouse" tvg-logo="" group-title="UK - Entertainment",TravelWarehouse
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154882
+#EXTINF:-1 tvg-ID="StarPlus.uk" tvg-name="Star Plus HD" tvg-logo="" group-title="UK - Entertainment",Star Plus HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154883
+#EXTINF:-1 tvg-ID="StarGold.uk" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/uk/StarGold.uk.png" group-title="UK - Entertainment",Star Gold HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154884
+#EXTINF:-1 tvg-ID="SonyMax.uk" tvg-name="Sony Max HD" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Entertainment",Sony Max HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154885
+
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://static.epg.best/uk/SkyPremiere.uk.png" group-title="UK - Movies",Sky Cinema Premiere
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154894
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premier HD" tvg-logo="https://static.epg.best/uk/SkyPremiere.uk.png" group-title="UK - Movies",Sky Cinema Premier HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154895
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://static.epg.best/uk/SkyHits.uk.png" group-title="UK - Movies",Sky Cinema Hits
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154896
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://static.epg.best/uk/SkyHits.uk.png" group-title="UK - Movies",Sky Cinema Hits HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154897
+#EXTINF:-1 tvg-ID="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://static.epg.best/uk/SkyGreats.uk.png" group-title="UK - Movies",Sky Cinema Greats
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154898
+#EXTINF:-1 tvg-ID="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://static.epg.best/uk/SkyGreats.uk.png" group-title="UK - Movies",Sky Cinema Greats HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154899
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://static.epg.best/uk/SkyFamily.uk.png" group-title="UK - Movies",Sky Cinema Family
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154902
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://static.epg.best/uk/SkyFamily.uk.png" group-title="UK - Movies",Sky Cinema Family HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154903
+#EXTINF:-1 tvg-ID="SkyAction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://static.epg.best/uk/SkyAction.uk.png" group-title="UK - Movies",Sky Cinema Action
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154904
+#EXTINF:-1 tvg-ID="SkyAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://static.epg.best/uk/SkyAction.uk.png" group-title="UK - Movies",Sky Cinema Action HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154905
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://static.epg.best/uk/SkyCinemaComedy.uk.png" group-title="UK - Movies",Sky Cinema Comedy
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154906
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://static.epg.best/uk/SkyCinemaComedy.uk.png" group-title="UK - Movies",Sky Cinema Comedy HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154907
+#EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/68/Sky_Cinema_Thriller_HD_2020_DE_Logo.png" group-title="UK - Movies",Sky Cinema Thriller
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154908
+#EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/6/68/Sky_Cinema_Thriller_HD_2020_DE_Logo.png" group-title="UK - Movies",Sky Cinema Thriller HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154909
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Sky Cinema Drama" tvg-logo="https://static.epg.best/uk/SkyDrama.uk.png" group-title="UK - Movies",Sky Cinema Drama
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154910
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.uk" tvg-name="Sky Cinema Christmas HD (Drama)" tvg-logo="https://static.epg.best/uk/SkyDrama.uk.png" group-title="UK - Movies",Sky Cinema Christmas HD (Drama)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154911
+#EXTINF:-1 tvg-ID="SkyCinemaSciFiHorror.uk" tvg-name="Sky Cinema SciFi / Horror" tvg-logo="https://static.epg.best/uk/SkySciFiHorror.uk.png" group-title="UK - Movies",Sky Cinema SciFi / Horror
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154912
+#EXTINF:-1 tvg-ID="SkyCinemaSciFiHorror.uk" tvg-name="Sky Cinema Scifi Horror HD" tvg-logo="https://static.epg.best/uk/SkySciFiHorror.uk.png" group-title="UK - Movies",Sky Cinema Scifi Horror HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154913
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://static.epg.best/uk/SkySelect.uk.png" group-title="UK - Movies",Sky Cinema Select
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154914
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="https://static.epg.best/uk/SkySelect.uk.png" group-title="UK - Movies",Sky Cinema Select HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154915
+#EXTINF:-1 tvg-ID="" tvg-name="5 Star +1" tvg-logo="https://static.epg.best/uk/5star.uk.png" group-title="UK - Movies",5 Star +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154916
+#EXTINF:-1 tvg-ID="" tvg-name="5 USA +1" tvg-logo="" group-title="UK - Movies",5 USA +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154917
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Great Action +1" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Sony Great Action +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154918
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Channel +1" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Sony Channel +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154919
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Movies +1" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Sony Movies +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154920
+#EXTINF:-1 tvg-ID="" tvg-name="Great Movies +1" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Great Movies +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154921
+#EXTINF:-1 tvg-ID="" tvg-name="TCM +1" tvg-logo="" group-title="UK - Movies",TCM +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154922
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Film4" tvg-logo="https://static.epg.best/uk/Film4.uk.png" group-title="UK - Movies",Film4
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154923
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Film4 HD" tvg-logo="https://static.epg.best/uk/Film4.uk.png" group-title="UK - Movies",Film4 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154924
+#EXTINF:-1 tvg-ID="" tvg-name="Film4 +1" tvg-logo="https://static.epg.best/uk/Film4.uk.png" group-title="UK - Movies",Film4 +1
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154925
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="TCM" tvg-logo="" group-title="UK - Movies",TCM
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154926
+#EXTINF:-1 tvg-ID="SonyMovieChannel.us" tvg-name="Sony Movies" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Sony Movies
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154928
+#EXTINF:-1 tvg-ID="SkyAction.uk" tvg-name="Sony Action" tvg-logo="https://static.epg.best/uk/SonyMovies.uk.png" group-title="UK - Movies",Sony Action
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154929
+#EXTINF:-1 tvg-ID="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://www.digital-news.it/files-admin/Simone/2018/08/1535753853-sky-cinema-animation.png" group-title="UK - Movies",Sky Cinema Animation HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154931
+
+
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Disney Junior " tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" group-title="KIDS",Disney Junior 
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155943
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://static.epg.best/uk/Boomerang.uk.png" group-title="KIDS",Boomerang HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155000
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://static.epg.best/uk/Boomerang.uk.png" group-title="KIDS",Boomerang HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155001
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Nick Junior HD" tvg-logo="https://static.epg.best/uk/NickJunior.uk.png" group-title="KIDS",Nick Junior HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/154999
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Nickjr.too" tvg-logo="https://static.epg.best/uk/NickJrToo.uk.png" group-title="KIDS",Nickjr.too
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155003
+#EXTINF:-1 tvg-ID="NickJrToo.uk" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/uk/Nickelodeon.uk.png" group-title="KIDS",Nickelodeon
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155004
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Cartoonito HD" tvg-logo="https://static.epg.best/uk/Cartoonito.uk.png" group-title="KIDS",Cartoonito HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155006
+#EXTINF:-1 tvg-ID="CartoonNetwork.uk" tvg-name="Cartoon Network" tvg-logo="https://static.epg.best/uk/CartoonNetwork.uk.png" group-title="KIDS",Cartoon Network
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155007
+#EXTINF:-1 tvg-ID="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="https://static.epg.best/uk/CartoonNetwork.uk.png" group-title="KIDS",Cartoon Network HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155008
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="CBBC HD" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="KIDS",CBBC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155010
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="CBBC" tvg-logo="https://static.epg.best/uk/CBBC.uk.png" group-title="KIDS",CBBC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155011
+#EXTINF:-1 tvg-ID="CBeebies.uk" tvg-name="CBeebies" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" group-title="KIDS",CBeebies
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155012
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="CBeebies HD" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" group-title="KIDS",CBeebies HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155013
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Boomerang" tvg-logo="https://static.epg.best/uk/Boomerang.uk.png" group-title="KIDS",Boomerang
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155014
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Baby TV UK" tvg-logo="https://static.epg.best/uk/BabyTV.uk.png" group-title="KIDS",Baby TV UK
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155015
+#EXTINF:-1 tvg-ID="POPMax.uk" tvg-name="POP Max" tvg-logo="https://static.epg.best/uk/POPMax.uk.png" group-title="KIDS",POP Max
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155016
+#EXTINF:-1 tvg-ID="Tinypop.uk" tvg-name="Tiny Pop" tvg-logo="https://static.epg.best/uk/Tinypop.uk.png" group-title="KIDS",Tiny Pop
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155018
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Pop" tvg-logo="https://static.epg.best/uk/Pop.uk.png" group-title="KIDS",Pop
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155019
+#EXTINF:-1 tvg-ID="PickTV.uk" tvg-name="Pick TV" tvg-logo="https://static.epg.best/uk/PickTV.uk.png" group-title="UK - Entertainment",Pick TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155021
+#EXTINF:-1 tvg-ID="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://static.epg.best/uk/Nicktoons.uk.png" group-title="KIDS",Nicktoons
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155022
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="Nick Jr." tvg-logo="https://static.epg.best/uk/NickJunior.uk.png" group-title="KIDS",Nick Jr.
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/155024
+
+
+#EXTINF:-1 tvg-ID="amc.us" tvg-name="US - AMC HD" tvg-logo="" group-title="US - Entertainment ",US - AMC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239440
+#EXTINF:-1 tvg-ID="abcwtae.us" tvg-name="US - ABC Pittsburgh" tvg-logo="" group-title="US - Entertainment ",US - ABC Pittsburgh
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239441
+#EXTINF:-1 tvg-ID="abcwabc.us" tvg-name="US - ABC HD" tvg-logo="" group-title="US - Entertainment ",US - ABC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239442
+#EXTINF:-1 tvg-ID="amgtv.us" tvg-name="US - AMG TV" tvg-logo="" group-title="US - Entertainment ",US - AMG TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239443
+#EXTINF:-1 tvg-ID="buzzertv.us" tvg-name="US - BUZZER" tvg-logo="" group-title="US - Entertainment ",US - BUZZER
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239444
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="US - TV LAND" tvg-logo="" group-title="US - Entertainment ",US - TV LAND
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239445
+#EXTINF:-1 tvg-ID="qvc2.us" tvg-name="US - QVC2" tvg-logo="" group-title="US - Entertainment ",US - QVC2
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239446
+#EXTINF:-1 tvg-ID="qvc.us" tvg-name="US - QVC" tvg-logo="" group-title="US - Entertainment ",US - QVC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239447
+#EXTINF:-1 tvg-ID="bet.us" tvg-name="US - Bet HD" tvg-logo="" group-title="US - Entertainment ",US - Bet HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239448
+#EXTINF:-1 tvg-ID="bravo.us" tvg-name="US - Bravo HD" tvg-logo="" group-title="US - Entertainment ",US - Bravo HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239449
+#EXTINF:-1 tvg-ID="" tvg-name="US - BBC America HD" tvg-logo="" group-title="US - Entertainment ",US - BBC America HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239450
+#EXTINF:-1 tvg-ID="" tvg-name="US - CNBC HD" tvg-logo="" group-title="US - Entertainment ",US - CNBC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239451
+#EXTINF:-1 tvg-ID="" tvg-name="US - COMEDY CENTRAL HD" tvg-logo="" group-title="US - Entertainment ",US - COMEDY CENTRAL HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239452
+#EXTINF:-1 tvg-ID="court.us" tvg-name="US - COURT TV HD" tvg-logo="" group-title="US - Entertainment ",US - COURT TV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239453
+#EXTINF:-1 tvg-ID="" tvg-name="US - DOVE Channel" tvg-logo="" group-title="US - Entertainment ",US - DOVE Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239454
+#EXTINF:-1 tvg-ID="" tvg-name="US - E! Entertainment l HD" tvg-logo="" group-title="US - Entertainment ",US - E! Entertainment l HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239455
+#EXTINF:-1 tvg-ID="" tvg-name="US - E! Entertainment l SD" tvg-logo="" group-title="US - Entertainment ",US - E! Entertainment l SD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239456
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="US - Food Network HD" tvg-logo="" group-title="US - Entertainment ",US - Food Network HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239457
+#EXTINF:-1 tvg-ID="oxygen.us" tvg-name="US - OXYGEN HD" tvg-logo="" group-title="US - Entertainment ",US - OXYGEN HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239458
+#EXTINF:-1 tvg-ID="gameshownetwork.us" tvg-name="US - Game Show Network HD" tvg-logo="" group-title="US - Entertainment ",US - Game Show Network HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239459
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="US - TV LAND" tvg-logo="" group-title="US - Entertainment ",US - TV LAND
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239460
+#EXTINF:-1 tvg-ID="" tvg-name="US - QVC2" tvg-logo="" group-title="US - Entertainment ",US - QVC2
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239461
+#EXTINF:-1 tvg-ID="" tvg-name="US - QVC" tvg-logo="" group-title="US - Entertainment ",US - QVC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239462
+#EXTINF:-1 tvg-ID="" tvg-name="US - CMT HD" tvg-logo="" group-title="US - Entertainment ",US - CMT HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239463
+#EXTINF:-1 tvg-ID="" tvg-name="US - Fashion TV" tvg-logo="" group-title="US - Entertainment ",US - Fashion TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239464
+#EXTINF:-1 tvg-ID="" tvg-name="US - FX" tvg-logo="" group-title="US - Entertainment ",US - FX
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239465
+#EXTINF:-1 tvg-ID="" tvg-name="US - FX HD" tvg-logo="" group-title="US - Entertainment ",US - FX HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239466
+#EXTINF:-1 tvg-ID="" tvg-name="US - FXM HD" tvg-logo="" group-title="US - Entertainment ",US - FXM HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239467
+#EXTINF:-1 tvg-ID="" tvg-name="US - FXX HD" tvg-logo="" group-title="US - Entertainment ",US - FXX HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239468
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX HD" tvg-logo="" group-title="US - Entertainment ",US - FOX HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239469
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX New York HD" tvg-logo="" group-title="US - Entertainment ",US - FOX New York HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239470
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 4 Kansas City" tvg-logo="" group-title="US - Entertainment ",US - FOX 4 Kansas City
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239471
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 5" tvg-logo="" group-title="US - Entertainment ",US - FOX 5
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239472
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 7 Austin" tvg-logo="" group-title="US - Entertainment ",US - FOX 7 Austin
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239473
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 8 Cleveland" tvg-logo="" group-title="US - Entertainment ",US - FOX 8 Cleveland
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239474
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 9 Minneapolis" tvg-logo="" group-title="US - Entertainment ",US - FOX 9 Minneapolis
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239475
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 10 Phoenix" tvg-logo="" group-title="US - Entertainment ",US - FOX 10 Phoenix
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239476
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 11 Los Angeles" tvg-logo="" group-title="US - Entertainment ",US - FOX 11 Los Angeles
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239477
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 25 Boston" tvg-logo="" group-title="US - Entertainment ",US - FOX 25 Boston
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239478
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 28 Columbus" tvg-logo="" group-title="US - Entertainment ",US - FOX 28 Columbus
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239479
+#EXTINF:-1 tvg-ID="" tvg-name="US - FOX 30 Jacksonville" tvg-logo="" group-title="US - Entertainment ",US - FOX 30 Jacksonville
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239480
+#EXTINF:-1 tvg-ID="" tvg-name="US - Paramount NetworkHD" tvg-logo="" group-title="US - Entertainment ",US - Paramount NetworkHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239481
+#EXTINF:-1 tvg-ID="" tvg-name="US - Paramount Network" tvg-logo="" group-title="US - Entertainment ",US - Paramount Network
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239482
+#EXTINF:-1 tvg-ID="" tvg-name="US - SYFY HD" tvg-logo="" group-title="US - Entertainment ",US - SYFY HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239483
+#EXTINF:-1 tvg-ID="" tvg-name="US - TBS HD" tvg-logo="" group-title="US - Entertainment ",US - TBS HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239484
+#EXTINF:-1 tvg-ID="" tvg-name="US - THE CW HD" tvg-logo="" group-title="US - Entertainment ",US - THE CW HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239485
+#EXTINF:-1 tvg-ID="" tvg-name="US - TLC HD" tvg-logo="" group-title="US - Entertainment ",US - TLC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239486
+#EXTINF:-1 tvg-ID="" tvg-name="US - TNT HD" tvg-logo="" group-title="US - Entertainment ",US - TNT HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239487
+#EXTINF:-1 tvg-ID="" tvg-name="US - OXYGEN HD" tvg-logo="" group-title="US - Entertainment ",US - OXYGEN HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239488
+#EXTINF:-1 tvg-ID="" tvg-name="US - FreeformFHD" tvg-logo="" group-title="US - Entertainment ",US - FreeformFHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239489
+#EXTINF:-1 tvg-ID="" tvg-name="US - GRIT HD" tvg-logo="" group-title="US - Entertainment ",US - GRIT HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239490
+#EXTINF:-1 tvg-ID="" tvg-name="US - MOTOR-TREND" tvg-logo="" group-title="US - Entertainment ",US - MOTOR-TREND
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239491
+#EXTINF:-1 tvg-ID="" tvg-name="US - HLN HD" tvg-logo="" group-title="US - Entertainment ",US - HLN HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239492
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC HD" tvg-logo="" group-title="US - Entertainment ",US - NBC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239493
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC 5 Chicago" tvg-logo="" group-title="US - Entertainment ",US - NBC 5 Chicago
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239494
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC 8 Cleveland" tvg-logo="" group-title="US - Entertainment ",US - NBC 8 Cleveland
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239495
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC 9 Denver" tvg-logo="" group-title="US - Entertainment ",US - NBC 9 Denver
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239496
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC Dallas" tvg-logo="" group-title="US - Entertainment ",US - NBC Dallas
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239497
+#EXTINF:-1 tvg-ID="" tvg-name="US - NBC Pittsburgh" tvg-logo="" group-title="US - Entertainment ",US - NBC Pittsburgh
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239498
+#EXTINF:-1 tvg-ID="lifetimemovies.us" tvg-name="US - LIFETIME MOVIE NETWORK" tvg-logo="" group-title="US - Entertainment ",US - LIFETIME MOVIE NETWORK
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239499
+#EXTINF:-1 tvg-ID="" tvg-name="US - LOGO HD" tvg-logo="" group-title="US - Entertainment ",US - LOGO HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239500
+#EXTINF:-1 tvg-ID="" tvg-name="US - GREAT AMERICAN COUNTRY" tvg-logo="" group-title="US - Entertainment ",US - GREAT AMERICAN COUNTRY
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239501
+#EXTINF:-1 tvg-ID="" tvg-name="US - RFD TV" tvg-logo="" group-title="US - Entertainment ",US - RFD TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239502
+#EXTINF:-1 tvg-ID="" tvg-name="US - ANTENNA TV" tvg-logo="" group-title="US - Entertainment ",US - ANTENNA TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239503
+#EXTINF:-1 tvg-ID="" tvg-name="US - COZI TV" tvg-logo="" group-title="US - Entertainment ",US - COZI TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239504
+#EXTINF:-1 tvg-ID="travel.us" tvg-name="US - TRAVEL Channel" tvg-logo="" group-title="US - Entertainment ",US - TRAVEL Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239505
+#EXTINF:-1 tvg-ID="" tvg-name="US - DESTINATION AMERICA" tvg-logo="" group-title="US - Entertainment ",US - DESTINATION AMERICA
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239506
+#EXTINF:-1 tvg-ID="" tvg-name="US - INSP" tvg-logo="" group-title="US - Entertainment ",US - INSP
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239507
+#EXTINF:-1 tvg-ID="" tvg-name="US - MAV TV" tvg-logo="" group-title="US - Entertainment ",US - MAV TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239508
+#EXTINF:-1 tvg-ID="" tvg-name="US - JUSTICE CENTRAL" tvg-logo="" group-title="US - Entertainment ",US - JUSTICE CENTRAL
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239509
+#EXTINF:-1 tvg-ID="" tvg-name="US - COMEDY TV" tvg-logo="" group-title="US - Entertainment ",US - COMEDY TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239510
+#EXTINF:-1 tvg-ID="" tvg-name="US - AMG TV" tvg-logo="" group-title="US - Entertainment ",US - AMG TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239511
+#EXTINF:-1 tvg-ID="" tvg-name="US - BUZZER" tvg-logo="" group-title="US - Entertainment ",US - BUZZER
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239512
+#EXTINF:-1 tvg-ID="" tvg-name="US - CHEDDAR BUSINESS" tvg-logo="" group-title="US - Entertainment ",US - CHEDDAR BUSINESS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239513
+#EXTINF:-1 tvg-ID="" tvg-name="US - CHEDDAR NEWS" tvg-logo="" group-title="US - Entertainment ",US - CHEDDAR NEWS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239514
+#EXTINF:-1 tvg-ID="" tvg-name="US - SO YUMMY!" tvg-logo="" group-title="US - Entertainment ",US - SO YUMMY!
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239515
+#EXTINF:-1 tvg-ID="" tvg-name="US - CONTV" tvg-logo="" group-title="US - Entertainment ",US - CONTV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239516
+#EXTINF:-1 tvg-ID="" tvg-name="US - COURT TV HD" tvg-logo="" group-title="US - Entertainment ",US - COURT TV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239517
+#EXTINF:-1 tvg-ID="" tvg-name="US - DOCUDRAMA" tvg-logo="" group-title="US - Entertainment ",US - DOCUDRAMA
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239518
+#EXTINF:-1 tvg-ID="" tvg-name="US - DOVE Channel" tvg-logo="" group-title="US - Entertainment ",US - DOVE Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239519
+#EXTINF:-1 tvg-ID="" tvg-name="US: CGTN ENGLISH" tvg-logo="" group-title="US - Entertainment ",US: CGTN ENGLISH
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239520
+#EXTINF:-1 tvg-ID="" tvg-name="US - ET LIVE" tvg-logo="" group-title="US - Entertainment ",US - ET LIVE
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239521
+#EXTINF:-1 tvg-ID="" tvg-name="US - ATLANTA Channel" tvg-logo="" group-title="US - Entertainment ",US - ATLANTA Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239522
+#EXTINF:-1 tvg-ID="" tvg-name="US - MY BUFFALO TV" tvg-logo="" group-title="US - Entertainment ",US - MY BUFFALO TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239523
+#EXTINF:-1 tvg-ID="" tvg-name="US - CTN TV" tvg-logo="" group-title="US - Entertainment ",US - CTN TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239524
+#EXTINF:-1 tvg-ID="" tvg-name="US - DABL" tvg-logo="" group-title="US - Entertainment ",US - DABL
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239525
+#EXTINF:-1 tvg-ID="axstv.us" tvg-name="US - AXS TV" tvg-logo="" group-title="US - Entertainment ",US - AXS TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/239526
+
+
+#EXTINF:-1 tvg-ID="cinemax.us" tvg-name="US: Cinemax HD" tvg-logo="" group-title="US - Movies",US: Cinemax HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238009
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cinemax More Max" tvg-logo="" group-title="US - Movies",US: Cinemax More Max
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238010
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cinemax Action Max" tvg-logo="" group-title="US - Movies",US: Cinemax Action Max
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238011
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cinemax Thriller Max" tvg-logo="" group-title="US - Movies",US: Cinemax Thriller Max
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238012
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cinemax 5STAR MAX" tvg-logo="" group-title="US - Movies",US: Cinemax 5STAR MAX
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238013
+#EXTINF:-1 tvg-ID="cinemax.us" tvg-name="US: Cinemax Movie Max" tvg-logo="" group-title="US - Movies",US: Cinemax Movie Max
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238014
+#EXTINF:-1 tvg-ID="showtime.us" tvg-name="US: Showtime HD" tvg-logo="" group-title="US - Movies",US: Showtime HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238015
+#EXTINF:-1 tvg-ID="showtime2.us" tvg-name="US: Showtime 2 HD" tvg-logo="" group-title="US - Movies",US: Showtime 2 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238016
+#EXTINF:-1 tvg-ID="showtimeextreme.us" tvg-name="US: Showtime Extreme HD" tvg-logo="" group-title="US - Movies",US: Showtime Extreme HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238017
+#EXTINF:-1 tvg-ID="shoxbet.us" tvg-name="US: SHO×BET" tvg-logo="" group-title="US - Movies",US: SHO×BET
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238018
+#EXTINF:-1 tvg-ID="showtimefamilyzone.us" tvg-name="US: Showtime Family Zone (B)" tvg-logo="" group-title="US - Movies",US: Showtime Family Zone (B)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238019
+#EXTINF:-1 tvg-ID="showtimefamilyzone.us" tvg-name="US: Showtime Family Zone" tvg-logo="" group-title="US - Movies",US: Showtime Family Zone
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238020
+#EXTINF:-1 tvg-ID="showtimenext.us" tvg-name="US: Showtime NEXT (B)" tvg-logo="" group-title="US - Movies",US: Showtime NEXT (B)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238021
+#EXTINF:-1 tvg-ID="showtimenext.us" tvg-name="US: Showtime NEXT" tvg-logo="" group-title="US - Movies",US: Showtime NEXT
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238022
+#EXTINF:-1 tvg-ID="showtimewomen.us" tvg-name="US: Showtime WOMEN" tvg-logo="" group-title="US - Movies",US: Showtime WOMEN
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238023
+#EXTINF:-1 tvg-ID="epix.us" tvg-name="US: EPIX HD" tvg-logo="" group-title="US - Movies",US: EPIX HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238024
+#EXTINF:-1 tvg-ID="epix2.us" tvg-name="US: EPIX 2" tvg-logo="" group-title="US - Movies",US: EPIX 2
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238025
+#EXTINF:-1 tvg-ID="epixhits.us" tvg-name="US: EPIX HITS" tvg-logo="" group-title="US - Movies",US: EPIX HITS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238026
+#EXTINF:-1 tvg-ID="" tvg-name="US: Indieplex (EAST)" tvg-logo="" group-title="US - Movies",US: Indieplex (EAST)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238027
+#EXTINF:-1 tvg-ID="movieplex.us" tvg-name="US: MOVIEPLEX (EAST)" tvg-logo="" group-title="US - Movies",US: MOVIEPLEX (EAST)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238028
+#EXTINF:-1 tvg-ID="movieplex.us" tvg-name="US: MOVIEPLEX (WEST)" tvg-logo="" group-title="US - Movies",US: MOVIEPLEX (WEST)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238029
+#EXTINF:-1 tvg-ID="shortstv.us" tvg-name="US: SHORTS TV HD" tvg-logo="" group-title="US - Movies",US: SHORTS TV HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238030
+#EXTINF:-1 tvg-ID="moviemax.us" tvg-name="US: Movie Max HD" tvg-logo="" group-title="US - Movies",US: Movie Max HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238031
+#EXTINF:-1 tvg-ID="moremax.us" tvg-name="US: Moremax FHD" tvg-logo="" group-title="US - Movies",US: Moremax FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238032
+#EXTINF:-1 tvg-ID="mgm.us" tvg-name="US: MGM" tvg-logo="" group-title="US - Movies",US: MGM
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238033
+#EXTINF:-1 tvg-ID="hdnetmovies.us" tvg-name="US HDNET MOVIES" tvg-logo="" group-title="US - Movies",US HDNET MOVIES
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238034
+#EXTINF:-1 tvg-ID="reelzchannel.us" tvg-name="US: REELZ" tvg-logo="" group-title="US - Movies",US: REELZ
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238035
+#EXTINF:-1 tvg-ID="hbo2.us" tvg-name="US: HBO 2 HD" tvg-logo="" group-title="US - Movies",US: HBO 2 HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238036
+#EXTINF:-1 tvg-ID="hbo2.us" tvg-name="US: HBO 2" tvg-logo="" group-title="US - Movies",US: HBO 2
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238037
+#EXTINF:-1 tvg-ID="hbosignature.us" tvg-name="US: HBO SIGNATURE HD" tvg-logo="" group-title="US - Movies",US: HBO SIGNATURE HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238038
+#EXTINF:-1 tvg-ID="hbofamily.us" tvg-name="US: HBO FAMILY HD" tvg-logo="" group-title="US - Movies",US: HBO FAMILY HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238039
+#EXTINF:-1 tvg-ID="" tvg-name="US: HBO ZONE HD" tvg-logo="" group-title="US - Movies",US: HBO ZONE HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238040
+#EXTINF:-1 tvg-ID="hbozone.us" tvg-name="US: HBO ZONE" tvg-logo="" group-title="US - Movies",US: HBO ZONE
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238041
+#EXTINF:-1 tvg-ID="hbo.us" tvg-name="US: HBO HD" tvg-logo="" group-title="US - Movies",US: HBO HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238042
+#EXTINF:-1 tvg-ID="hbo.us" tvg-name="US: HBO" tvg-logo="" group-title="US - Movies",US: HBO
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238043
+#EXTINF:-1 tvg-ID="hbocomedy.us" tvg-name="US: HBO COMEDY (B)" tvg-logo="" group-title="US - Movies",US: HBO COMEDY (B)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238044
+#EXTINF:-1 tvg-ID="hbocomedy.us" tvg-name="US: HBO COMEDY" tvg-logo="" group-title="US - Movies",US: HBO COMEDY
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238045
+#EXTINF:-1 tvg-ID="hbosignature.us" tvg-name="US: HBO SIGNATURE" tvg-logo="" group-title="US - Movies",US: HBO SIGNATURE
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238046
+#EXTINF:-1 tvg-ID="hallmark.us" tvg-name="US: Hallmark Channel HD" tvg-logo="" group-title="US - Movies",US: Hallmark Channel HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238047
+#EXTINF:-1 tvg-ID="hallmarkmoviesmysteries.us" tvg-name="US: Hallmark MOVIES AND MYSTERIES HD" tvg-logo="" group-title="US - Movies",US: Hallmark MOVIES AND MYSTERIES HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238048
+#EXTINF:-1 tvg-ID="hallmarkdrama.us" tvg-name="US: Hallmark DRAMA HD" tvg-logo="" group-title="US - Movies",US: Hallmark DRAMA HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238049
+#EXTINF:-1 tvg-ID="showtimeshowcase.us" tvg-name="US: Showtime SHOWCASE HD" tvg-logo="" group-title="US - Movies",US: Showtime SHOWCASE HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238050
+#EXTINF:-1 tvg-ID="starzcinema.us" tvg-name="US: STARZ CINEMA HD" tvg-logo="" group-title="US - Movies",US: STARZ CINEMA HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238051
+#EXTINF:-1 tvg-ID="starzcomedy.us" tvg-name="US: STARZ COMEDY HD" tvg-logo="" group-title="US - Movies",US: STARZ COMEDY HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238052
+#EXTINF:-1 tvg-ID="starzedge.us" tvg-name="US: STARZ EDGE HD" tvg-logo="" group-title="US - Movies",US: STARZ EDGE HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238053
+#EXTINF:-1 tvg-ID="starzencore.us" tvg-name="US: STARZ Encore HD" tvg-logo="" group-title="US - Movies",US: STARZ Encore HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238054
+#EXTINF:-1 tvg-ID="starzkidsfamily.us" tvg-name="US: STARZ KIDS & FAMILY HD" tvg-logo="" group-title="US - Movies",US: STARZ KIDS & FAMILY HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238055
+#EXTINF:-1 tvg-ID="" tvg-name="US: STARZ EAST" tvg-logo="" group-title="US - Movies",US: STARZ EAST
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238056
+#EXTINF:-1 tvg-ID="starzencorewesterns.us" tvg-name="US: STARZ Encore WESTERNS" tvg-logo="" group-title="US - Movies",US: STARZ Encore WESTERNS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238057
+#EXTINF:-1 tvg-ID="starzencorewest.us" tvg-name="US: STARZ Encore WEST" tvg-logo="" group-title="US - Movies",US: STARZ Encore WEST
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238058
+#EXTINF:-1 tvg-ID="starzencoresuspense.us" tvg-name="US: STARZ Encore SUSPENSE" tvg-logo="" group-title="US - Movies",US: STARZ Encore SUSPENSE
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238059
+#EXTINF:-1 tvg-ID="starzencorefamily.us" tvg-name="US: STARZ Encore FAMILY" tvg-logo="" group-title="US - Movies",US: STARZ Encore FAMILY
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238060
+#EXTINF:-1 tvg-ID="starzencoreclassics.us" tvg-name="US: STARZ Encore CLASSIC" tvg-logo="" group-title="US - Movies",US: STARZ Encore CLASSIC
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238061
+#EXTINF:-1 tvg-ID="" tvg-name="US: IFC HD" tvg-logo="" group-title="US - Movies",US: IFC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238062
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname 4K" tvg-logo="" group-title="US - Movies",US: Empire Ciname 4K
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238063
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname Adventure  FHD" tvg-logo="" group-title="US - Movies",US: Empire Ciname Adventure  FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238064
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname Fantasy FHD" tvg-logo="" group-title="US - Movies",US: Empire Ciname Fantasy FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238065
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname Thriller FHD" tvg-logo="" group-title="US - Movies",US: Empire Ciname Thriller FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238066
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname History FHD" tvg-logo="" group-title="US - Movies",US: Empire Ciname History FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238067
+#EXTINF:-1 tvg-ID="" tvg-name="US: Empire Ciname Hindy FHD" tvg-logo="" group-title="US - Movies",US: Empire Ciname Hindy FHD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238068
+
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cartoon Network HD" tvg-logo="" group-title="US - Kids",US: Cartoon Network HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238112
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney  Channel HD" tvg-logo="" group-title="US - Kids",US: Disney  Channel HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238113
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney  XD HD" tvg-logo="" group-title="US - Kids",US: Disney  XD HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238114
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nickelodeon HD" tvg-logo="" group-title="US - Kids",US: Nickelodeon HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238115
+#EXTINF:-1 tvg-ID="" tvg-name="US: PBS KIDS" tvg-logo="" group-title="US - Kids",US: PBS KIDS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238116
+#EXTINF:-1 tvg-ID="" tvg-name="US: Universal KIDS*" tvg-logo="" group-title="US - Kids",US: Universal KIDS*
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238117
+#EXTINF:-1 tvg-ID="" tvg-name="US: Cartoon Network" tvg-logo="" group-title="US - Kids",US: Cartoon Network
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238118
+#EXTINF:-1 tvg-ID="" tvg-name="US: Baby TV" tvg-logo="" group-title="US - Kids",US: Baby TV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238119
+#EXTINF:-1 tvg-ID="" tvg-name="US: Baby FIRST" tvg-logo="" group-title="US - Kids",US: Baby FIRST
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238120
+#EXTINF:-1 tvg-ID="" tvg-name="US: DUCKTV" tvg-logo="" group-title="US - Kids",US: DUCKTV
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238121
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney XD (B)" tvg-logo="" group-title="US - Kids",US: Disney XD (B)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238122
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney XD EAST" tvg-logo="" group-title="US - Kids",US: Disney XD EAST
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238123
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney Junior" tvg-logo="" group-title="US - Kids",US: Disney Junior
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238124
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney Channel" tvg-logo="" group-title="US - Kids",US: Disney Channel
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238125
+#EXTINF:-1 tvg-ID="" tvg-name="US: Disney Channel (B)" tvg-logo="" group-title="US - Kids",US: Disney Channel (B)
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238126
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nicktoons" tvg-logo="" group-title="US - Kids",US: Nicktoons
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238127
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nick JR" tvg-logo="" group-title="US - Kids",US: Nick JR
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238128
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nickelodeon" tvg-logo="" group-title="US - Kids",US: Nickelodeon
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238129
+#EXTINF:-1 tvg-ID="" tvg-name="US: TEENNick" tvg-logo="" group-title="US - Kids",US: TEENNick
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238130
+#EXTINF:-1 tvg-ID="" tvg-name="US: Universal KIDS" tvg-logo="" group-title="US - Kids",US: Universal KIDS
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238131
+#EXTINF:-1 tvg-ID="" tvg-name="US: Boomerang" tvg-logo="" group-title="US - Kids",US: Boomerang
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/238132
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="US: ABC News" tvg-logo="" group-title="US - News",US: ABC News
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237880
+#EXTINF:-1 tvg-ID="" tvg-name="US: CNN News." tvg-logo="" group-title="US - News",US: CNN News.
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237881
+#EXTINF:-1 tvg-ID="" tvg-name="US: FOX News HD" tvg-logo="" group-title="US - News",US: FOX News HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237882
+#EXTINF:-1 tvg-ID="" tvg-name="US: MSNBC HD" tvg-logo="" group-title="US - News",US: MSNBC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237883
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC News NOW" tvg-logo="" group-title="US - News",US: NBC News NOW
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237884
+#EXTINF:-1 tvg-ID="" tvg-name="US: News 12 BROOKLYN" tvg-logo="" group-title="US - News",US: News 12 BROOKLYN
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237885
+#EXTINF:-1 tvg-ID="" tvg-name="US: News 12 CONNECTICUT" tvg-logo="" group-title="US - News",US: News 12 CONNECTICUT
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237886
+#EXTINF:-1 tvg-ID="" tvg-name="US: News 12 LONG ISLAND" tvg-logo="" group-title="US - News",US: News 12 LONG ISLAND
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237887
+#EXTINF:-1 tvg-ID="" tvg-name="US: News 12 NEW JERSEY" tvg-logo="" group-title="US - News",US: News 12 NEW JERSEY
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237888
+#EXTINF:-1 tvg-ID="" tvg-name="US: News 12 WESTCHESTER" tvg-logo="" group-title="US - News",US: News 12 WESTCHESTER
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237889
+#EXTINF:-1 tvg-ID="" tvg-name="US: ABC New York HD" tvg-logo="" group-title="US - News",US: ABC New York HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237890
+#EXTINF:-1 tvg-ID="" tvg-name="US: RT News AMERICA" tvg-logo="" group-title="US - News",US: RT News AMERICA
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237891
+#EXTINF:-1 tvg-ID="" tvg-name="US: THE WEATHER CHANNEL" tvg-logo="" group-title="US - News",US: THE WEATHER CHANNEL
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237892
+#EXTINF:-1 tvg-ID="" tvg-name="US: WEATHER NATION" tvg-logo="" group-title="US - News",US: WEATHER NATION
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237893
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC News NOW HD" tvg-logo="" group-title="US - News",US: NBC News NOW HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237894
+#EXTINF:-1 tvg-ID="" tvg-name="US: A&AMP;E HD" tvg-logo="" group-title="US - News",US: A&AMP;E HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237895
+#EXTINF:-1 tvg-ID="" tvg-name="US: ABC HD" tvg-logo="" group-title="US - News",US: ABC HD
+http://a.bittensor.nexus:80/2V9VwbbbR9/mSPR27hX5m/237896
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="SPORTS",ESPN HD USA
 http://143.244.60.30/ESPN/index.m3u8
